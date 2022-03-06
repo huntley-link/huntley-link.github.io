@@ -1,0 +1,12 @@
+---
+title: "blog"
+listing:
+  contents:
+    - posts
+    - books
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+

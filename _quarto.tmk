@@ -1,0 +1,50 @@
+MAKE_INIT = make_init {${MAKEFILE}}
+
+proc make_init {MAKEFILE} {
+	cd [file dir $MAKEFILE]
+}
+
+proc book_chapters {} {
+	set qyml {.book.chapters = ["index.qmd"}
+	set qfiles [split [exec find -not -path "*/.*" -not -name "index.qmd" -name "*.qmd"] \n]
+	set qfiles [lsort -dic $qfiles]
+	
+	foreach qf $qfiles {
+		set qf [string range [lindex $qf 0] 2 end]
+		append qyml , \" $qf \"
+	}
+	append qyml ]
+	
+	set quarto_yml [exec yq {del(.book.chapters)} | yq $qyml < _quarto.yml]
+	set f [open _quarto.yml w]
+	puts $f $quarto_yml
+	close $f
+}
+
+all: books _site
+	
+books: _site
+	@puts "Rendering books:"
+	@foreach book [glob -dir [pwd] -type d books/*] {
+		set bookname [file tail $book]
+		cd $book
+		if {![file isfile _quarto.yml]} {continue}
+		book_chapters
+		try {
+			exec quarto render --output-dir "../../_site/books/$bookname"
+		} on error outcome {
+			puts $outcome
+		}
+	}
+
+_site: 
+	@puts "Rendering site:"
+	@try {
+		exec quarto render
+	} on error outcome {
+		puts $outcome
+	}
+	
+books/mybook/_quarto.yml:
+	cd books/mybook
+	book_chapters

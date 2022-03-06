@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Quarto"
+  image: "quarto.png"
+  favicon: "favicon.png"
+  page-navigation: true
+  navbar:
+    background: light
+    logo: quarto.png
+    title: false
+    collapse-below: lg
+    left:
+      - about.qmd
+
+format:
+  html:
+    toc: true
+    theme: 
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css

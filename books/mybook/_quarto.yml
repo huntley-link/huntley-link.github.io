@@ -1,0 +1,19 @@
+project:
+  type: book
+book:
+  title: "mybook"
+  author: "Jane Doe"
+  date: "2/23/2022"
+  chapters:
+    - index.qmd
+    - 1_intro.qmd
+    - 2_summary.qmd
+    - 3_references.qmd
+bibliography: references.bib
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
