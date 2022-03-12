@@ -2,17 +2,22 @@ project:
   type: website
 
 website:
-  title: "Quarto"
+  title: "huntley.link"
   image: "quarto.png"
-  favicon: "favicon.png"
+  favicon: "longlink3.png"
   page-navigation: true
   navbar:
     background: light
-    logo: quarto.png
-    title: false
+    logo: longlink3.png
+    title: huntley.link
     collapse-below: lg
     left:
       - about.qmd
+      - blog.qmd
+      - text: Books
+        menu:
+          - text: Epistles
+            href: books/epistles/index.qmd
 
 format:
   html:

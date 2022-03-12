@@ -6,7 +6,7 @@
 }
 
 .navbar-brand > img {
-  max-height: 46px;
+  max-height: 36px;
   padding-left: 1em;
 }
 
@@ -221,15 +221,5 @@ iframe.reveal-demo {
   border: none;
 }
 
-div.broadside .about-main {
-  background-color: rgb(237,243,249);
-  padding: 1em !important;
-}
 
-.navbar-light .navbar-toggler-icon {
- background-image: url(/menuicon.svg);
-}
 
-.navbar-dark .navbar-toggler-icon {
- background-image: url(/menuicon.svg);
-}

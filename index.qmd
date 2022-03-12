@@ -1,8 +1,27 @@
 ---
 title: "EDIWTB"
-css: index.css
+about:
+  template: broadside
+  image: nd2.jpg
 ---
 
-This is a Quarto website.
+An experiment in simultaneous research, authoring, and digital/print publishing.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**EDIWTB** is:
+
+*"Edit/Distribution Integration from Web Template to Books"*
+
+or
+
+*"Every Day I Write The Book"*
+
+That is, as a matter of producing a lifetime's creative output, instead of going
+through separate stages of doodling, inspiration, research, drafting, editing
+and then posting or printing of individual works or publishable volumes, I
+envision incorporating every day's work into a provisional final form that is
+always ready for publication on the web and in print, and asymptotically
+approaches but never reaches the final definitive compendium of complete works
+that represents a life's effort.
+
+Thus bridging pre-and post-internet traditions of creating and distributing
+creative and intellectual work.

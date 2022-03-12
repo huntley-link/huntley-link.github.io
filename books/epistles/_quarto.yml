@@ -1,0 +1,31 @@
+project:
+  type: book
+book:
+  title: "Epistles"
+  author: "Stephen Huntley"
+  cover-image: cover.png
+  date: "2/23/2022"
+  favicon: "longlink3.png"
+  number-depth: 0
+  navbar:
+    background: light
+    logo: longlink3.png
+    title: "Epistles"
+    collapse-below: lg
+    left:
+      - text: "Site Home"
+        href: "http://localhost:8080/doc/ckout/_site/index.html"
+  chapters:
+    - index.qmd
+    - 1_intro.qmd
+    - 2_summary.qmd
+    - 3_references.qmd
+bibliography: references.bib
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+    css: styles.css
+    number-sections: false
+  pdf:
+    documentclass: scrreprt

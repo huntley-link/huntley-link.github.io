@@ -29,9 +29,11 @@ books: _site
 		set bookname [file tail $book]
 		cd $book
 		if {![file isfile _quarto.yml]} {continue}
+		if {[string index $bookname 0] eq {_}} {continue}
+		puts "Rendering book: $bookname"
 		book_chapters
 		try {
-			exec quarto render --output-dir "../../_site/books/$bookname"
+			exec quarto render --output-dir "../../_site/books/$bookname" --to $(OUTPUT)
 		} on error outcome {
 			puts $outcome
 		}
