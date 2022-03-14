@@ -1,9 +1,12 @@
----
-title: "EDIWTB"
-about:
-  template: broadside
-  image: nd2.jpg
----
+::: {.column-screen}
+<script>
+function resizeIframe(obj) {
+obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+}
+</script>
+<iframe src="/about.html" frameborder="0" scrolling="no" onload="resizeIframe(this)" style="width: 100%;"></iframe>
+:::
+
 
 An experiment in simultaneous research, authoring, and digital/print publishing.
 
