@@ -233,3 +233,7 @@ div.broadside .about-main {
 .navbar-dark .navbar-toggler-icon {
  background-image: url(/menuicon.svg);
 }
+
+div.broadside .about-main .about-entity {
+	height: 578.117px
+}

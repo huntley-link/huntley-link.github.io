@@ -1,12 +1,36 @@
-::: {.column-screen}
-<script>
-function resizeIframe(obj) {
-obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-}
-</script>
-<iframe src="/about.html" frameborder="0" scrolling="no" onload="resizeIframe(this)" style="width: 100%;"></iframe>
-:::
+<!-- main -->
+<div class="broadside column-page">
+<div class="about-main">
+<div class="about-entity" style="background-image: url('profile.jpg')"></div>
+<div class="about-contents"><header id="title-block-header">
+<h1 class="title display-7">Finley Malloc</h1>
+</header><main class="content" id="quarto-document-content">
+<p>Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.</p>
+<section id="education" class="level2">
+<h2 class="anchored" data-anchor-id="education">Education</h2>
+<p>University of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015</p>
+<p>Macalester College | St.&nbsp;Paul MA B.A in Economics | Sep 2007 - June 2011</p>
+</section>
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<p>Wengo Analytics | Head Data Scientist | April 2018 - present</p>
+<p>GeoScynce | Chief Analyst | Spet 2012 - April 2018</p>
 
+</section>
+</main></div>
+</div>
+<div class="about-links">
+<a href="https://twitter.com" class="about-link">
+<i class="bi bi-twitter"></i>
+twitter
+</a>
+<a href="https://github.com" class="about-link">
+<i class="bi bi-github"></i>
+Github
+</a>
+</div>
+</div>
+<!-- /main -->
 
 An experiment in simultaneous research, authoring, and digital/print publishing.
 
@@ -28,3 +52,11 @@ that represents a life's effort.
 
 Thus bridging pre-and post-internet traditions of creating and distributing
 creative and intellectual work.
+
+
+
+
+
+
+
+

@@ -24,19 +24,17 @@ proc book_chapters {} {
 proc about_to_index {} {
 	if {![file isfile _site/about.html]} {return}
 	set f [open _site/about.html]
-	set about [read $f]
-	close $f
+	set about [read $f] ; close $f
 	set main [regexp -inline {<!-- main -->.+<!-- /main -->} $about]
 	set main [regsub -all -lineanchor {^( )+} $main {}]
 	
 	set f [open index.qmd]
-	set index [read $f]
-	close $f
+	set index [read $f] ; close $f
 	
-	#set index [regsub {<!-- main -->.+<!-- /main -->} $index [regsub -all {&} $main {\\&}]]
+	set index [regsub {<!-- main -->.+<!-- /main -->} $index [regsub -all {&} [lindex $main 0] {\\&}]]
 	
 	set f [open index.qmd w]
-	puts $f </main>[lindex $main 0]<main>
+	puts $f $index
 	close $f
 }
 
@@ -61,7 +59,12 @@ books: _site
 _site: 
 	@puts "Rendering site:"
 	@try {
-		#about_to_index
+		exec quarto render about.qmd
+	} on error outcome {
+		puts $outcome
+	}
+	about_to_index
+	@try {
 		exec quarto render
 	} on error outcome {
 		puts $outcome
