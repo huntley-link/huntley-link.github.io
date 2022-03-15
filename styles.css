@@ -226,6 +226,24 @@ div.broadside .about-main {
   padding: 1em !important;
 }
 
+div.solana {
+	padding-top: 0 !important;
+}
+
+div.solana .about-entity {
+  background-color: rgb(237,243,249);
+  padding: 1em !important;
+}
+
+div.trestles {
+	background-color: rgb(237,243,249);
+	padding: 1em !important;
+}
+
+div.trestles .about-contents {
+    border-left: solid 1px #bec2c6;
+}
+
 .navbar-light .navbar-toggler-icon {
  background-image: url(/menuicon.svg);
 }
