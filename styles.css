@@ -244,6 +244,18 @@ div.trestles .about-contents {
     border-left: solid 1px #bec2c6;
 }
 
+
+div.quarto-about-trestles {
+	background-color: rgb(237,243,249);
+	padding: 1em !important;
+}
+
+@media (min-width: 992px) {
+	div.quarto-about-trestles .about-contents {
+		border-left: solid 1px #bec2c6;
+	}
+}
+
 .navbar-light .navbar-toggler-icon {
  background-image: url(/menuicon.svg);
 }
@@ -255,3 +267,4 @@ div.trestles .about-contents {
 div.broadside .about-main .about-entity {
 	height: 578.117px
 }
+

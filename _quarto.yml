@@ -18,7 +18,12 @@ website:
         menu:
           - text: Epistles
             href: books/epistles/index.qmd
-
+  page-footer:
+    left: |
+      Copyright © 2022 Stephen E. Huntley
+    center: |
+      Created with
+      [![](quarto.png){width=85px}](https://quarto.org/)
 format:
   html:
     toc: true

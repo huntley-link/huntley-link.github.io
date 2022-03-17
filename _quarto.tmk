@@ -59,12 +59,6 @@ books: _site
 _site: 
 	@puts "Rendering site:"
 	@try {
-		exec quarto render about.qmd
-	} on error outcome {
-		puts $outcome
-	}
-	about_to_index
-	@try {
 		exec quarto render
 	} on error outcome {
 		puts $outcome

@@ -1,61 +1,32 @@
-<!-- main -->
-<div class="trestles">
-<div class="about-entity">
-<img src="profile.jpg" class="about-image
-rounded " style="width: 20em;">
-<header id="title-block-header">
-<h1 class="title display-7">Finley Malloc</h1>
-</header>
-<div class="about-links">
-<a href="https://twitter.com" class="about-link">
-<i class="bi bi-twitter"></i>
-twitter
-</a>
-<a href="https://github.com" class="about-link">
-<i class="bi bi-github"></i>
-Github
-</a>
-</div>
-</div>
-<div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.</p>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p>University of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015</p>
-<p>Macalester College | St.&nbsp;Paul MA B.A in Economics | Sep 2007 - June 2011</p>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">Experience</h2>
-<p>Wengo Analytics | Head Data Scientist | April 2018 - present</p>
-<p>GeoScynce | Chief Analyst | Spet 2012 - April 2018</p>
+---
+title: "Stephen Huntley"
+about:
+  id: hero-heading
+  template: trestles
+  image: me2.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
 
-</section>
-</main></div>
-</div>
-<!-- /main -->
+:::{#hero-heading}
+<br />
 
-An experiment in simultaneous research, authoring, and digital/print publishing.
+### [Personal web site and literary experiment in continuous research, authoring, curation and archiving that is instantly published digitally and always print-ready.]{.smallcaps} ###
 
-**EDIWTB** is:
+<br />
+_A continually-compiled and edited "Complete Works" that is always approaching
+the goal of final definitive compendium but will never reach it until I can't
+type anymore._
 
-*"Edit/Distribution Integration from Web Template to Books"*
+_An attempt to bridge pre-and post-internet traditions of authoring and distributing
+creative and intellectual work._
 
-or
-
-*"Every Day I Write The Book"*
-
-That is, as a matter of producing a lifetime's creative output, instead of going
-through separate stages of doodling, inspiration, research, drafting, editing
-and then posting or printing of individual works or publishable volumes, I
-envision incorporating every day's work into a provisional final form that is
-always ready for publication on the web and in print, and asymptotically
-approaches but never reaches the final definitive compendium of complete works
-that represents a life's effort.
-
-Thus bridging pre-and post-internet traditions of creating and distributing
-creative and intellectual work.
-
-
+:::
 
 
 
