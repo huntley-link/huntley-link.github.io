@@ -11,7 +11,34 @@ about:
     - icon: github
       text: Github
       href: https://github.com
+listing:
+  - id: hero-listing
+    contents:
+      - posts
+      - books
+    sort: "date desc"
+    type: grid
+    categories: false
+    page-size: 3
+    sort-ui: false
+    filter-ui: false
+  - id: books-listing
+    contents:
+      - posts
+      - books
+    sort: "date desc"
+    type: grid
+    categories: false
+    page-size: 3
+    sort-ui: false
+    filter-ui: false
 ---
+
+<style>
+#quarto-document-content {background-color: rgb(247,249,251); padding-top: 0;}
+.index-head {margin-left: 1em; margin-right: 1em; border-bottom: 1px solid #dee2e6;}
+.quarto-listing {padding: 1em;}
+</style>
 
 :::{#hero-heading}
 <br />
@@ -27,12 +54,24 @@ _An attempt to bridge pre-and post-internet traditions of authoring and distribu
 creative and intellectual work._
 
 :::
+<!-- #hero-heading -->
 
+<br />
+<br />
 
+:::{.index-head}
+# Latest Posts:
+:::
 
+:::{#hero-listing}
+:::
 
+<br />
+<br />
 
-
+:::{.index-head}
+# Books:
+:::
 
 
 

@@ -248,6 +248,7 @@ div.trestles .about-contents {
 div.quarto-about-trestles {
 	background-color: rgb(237,243,249);
 	padding: 1em !important;
+	border-bottom: 1px solid #dee2e6;
 }
 
 @media (min-width: 992px) {
@@ -265,6 +266,11 @@ div.quarto-about-trestles {
 }
 
 div.broadside .about-main .about-entity {
-	height: 578.117px
+	height: 578.117px;
 }
 
+@media (max-width: 767.98px) {
+	.nav-footer-center {
+		margin-top: 4em;
+	}
+}
