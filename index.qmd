@@ -22,6 +22,7 @@ listing:
     page-size: 3
     sort-ui: false
     filter-ui: false
+    max-description-length: 175
   - id: books-listing
     contents:
       - posts
@@ -32,12 +33,17 @@ listing:
     page-size: 3
     sort-ui: false
     filter-ui: false
+    max-description-length: 175
+page-layout: full
+sidebar: false
 ---
 
 <style>
 #quarto-document-content {background-color: rgb(247,249,251); padding-top: 0;}
 .index-head {margin-left: 1em; margin-right: 1em; border-bottom: 1px solid #dee2e6;}
 .quarto-listing {padding: 1em;}
+div.quarto-about-trestles {background-color: rgb(237,243,249); padding: 1em !important; border-bottom: 1px solid #dee2e6;}
+.listing-pagination {visibility: hidden;}
 </style>
 
 :::{#hero-heading}

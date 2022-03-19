@@ -12,7 +12,8 @@ website:
     title: huntley.link
     collapse-below: lg
     left:
-      - about.qmd
+      - text: About
+        href: about.qmd
       - blog.qmd
       - text: Books
         menu:
@@ -24,6 +25,11 @@ website:
     center: |
       Created with
       [![](quarto.png){width=85px}](https://quarto.org/)
+  sidebar:
+  - id: blog
+    tools:
+          - icon: twitter
+            href: https://twitter.com/
 format:
   html:
     toc: true
