@@ -1,3 +1,7 @@
+---
+date: 2019-01-23
+---
+
 # Introduction
 
 This is a book created from markdown and executable code.

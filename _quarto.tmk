@@ -21,6 +21,96 @@ proc book_chapters {} {
 	close $f
 }
 
+proc blog_sidebar {} {
+	foreach qf [glob -noc */*/*.qmd] {
+		set qdir [file tail [file dir $qf]]
+		if {[string index $qdir 0] eq {_}} {continue}
+		set f [open $qf]
+		set q [read $f]
+		close $f
+		set yaml null
+		regexp {\---\n(.+)\n---\n} $q trash yaml
+		set date [exec yq .date << $yaml]
+		if {$date eq {null}} {
+			set date [clock format [file mtime $qf]]
+		}
+		set scandate [clock scan $date]
+		set year [clock format $scandate -format %Y]
+		set month [string trim [clock format $scandate -format %N]]
+		incr yearArray($year)
+		incr monthArray($year,$month)
+		
+		lappend dateArray($scandate) $qf
+	}
+	#
+	set years [lsort [array names yearArray]]
+	foreach year $years {
+		append yearJSONArray($year) {"section": "} "y $year" "\",\"contents\": \["
+	}
+	set months [lsort -dic [array names monthArray]]
+	foreach month $months {
+		set monthname [clock format [clock scan [lindex [split $month ,] 1]/1/2000] -format %b]
+		append monthJSONArray($month) {"section": "} "$monthname" {","contents": [}
+	}
+	#
+	set dateList [lsort -dic -decr [array names dateArray]]
+	foreach date $dateList {
+		set year [clock format $date -format %Y]
+		set month [string trim [clock format $date -format %N]]
+		foreach file $dateArray($date) {
+			append monthJSONArray($year,$month) {"} $file {",}
+		}
+	}
+	#
+	foreach month $months {
+		set monthJSONArray($month) \{[string trimright $monthJSONArray($month) ,]\]\}
+		set year [lindex [split $month ,] 0]
+		append yearJSONArray($year) $monthJSONArray($month) ,
+	}
+	#
+	foreach year [lsort -decr [array names yearJSONArray]] {
+		set yearJSONArray($year) \{[string trimright $yearJSONArray($year) ,]\]\}
+		append JSONstring $yearJSONArray($year),
+	}
+	set JSONstring [string trimright $JSONstring ,]
+	#set JSONstring "\{\"sidebar\": \{\"contents\": \[$JSONstring\]\}\}"
+	#set JSONstring "\{\"sidebar\": \[{\"id\": \"get-started\",\"contents\": \[$JSONstring\]}\]\}"
+	#set JSONstring "\{\"id\": \"blog\",\"contents\": \[$JSONstring\]\}"
+	
+#return $JSONstring
+	
+set JSONstring  [subst -nocom  {
+
+\{
+  "sidebar": [
+    \{
+      "id": "blog",
+      "contents": [
+        \{
+          "text": "Blog Archive",
+          "href": "blog.qmd"
+        \},
+        $JSONstring
+      ]
+    \}
+  ]
+\}
+
+	
+}]
+
+set JSONstring [string trim $JSONstring]
+set JSONstring [string range $JSONstring 16 end-5]
+
+	set qyml {.website.sidebar[0] = }
+#return $JSONstring	
+	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
+	set f [open _quarto.yml2 w]
+	puts $f $quarto_yml
+	close $f
+	
+}
+
 proc about_to_index {} {
 	if {![file isfile _site/about.html]} {return}
 	set f [open _site/about.html]

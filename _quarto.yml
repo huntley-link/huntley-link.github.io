@@ -26,10 +26,22 @@ website:
       Created with
       [![](quarto.png){width=85px}](https://quarto.org/)
   sidebar:
-  - id: blog
-    tools:
-          - icon: twitter
-            href: https://twitter.com/
+    - id: blog
+      contents:
+        - text: Blog Archive
+          href: blog.qmd
+        - section: y 2022
+          contents:
+            - section: Feb
+              contents:
+                - books/epistles/3_references.qmd
+                - books/epistles/2_summary.qmd
+        - section: y 2019
+          contents:
+            - section: Jan
+              contents:
+                - books/epistles/1_intro.qmd
+                - books/epistles/index.qmd
 format:
   html:
     toc: true
