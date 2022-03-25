@@ -45,12 +45,12 @@ proc blog_sidebar {} {
 	#
 	set years [lsort [array names yearArray]]
 	foreach year $years {
-		append yearJSONArray($year) {"section": "} "y $year" "\",\"contents\": \["
+		append yearJSONArray($year) {"section": "} "$year ($yearArray($year))" "\",\"contents\": \["
 	}
 	set months [lsort -dic [array names monthArray]]
 	foreach month $months {
 		set monthname [clock format [clock scan [lindex [split $month ,] 1]/1/2000] -format %b]
-		append monthJSONArray($month) {"section": "} "$monthname" {","contents": [}
+		append monthJSONArray($month) {"section": "} "$monthname ($monthArray($month))" {","contents": [}
 	}
 	#
 	set dateList [lsort -dic -decr [array names dateArray]]
@@ -105,7 +105,7 @@ set JSONstring [string range $JSONstring 16 end-5]
 	set qyml {.website.sidebar[0] = }
 #return $JSONstring	
 	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
-	set f [open _quarto.yml2 w]
+	set f [open _quarto.yml w]
 	puts $f $quarto_yml
 	close $f
 	
@@ -148,6 +148,7 @@ books: _site
 
 _site: 
 	@puts "Rendering site:"
+	@blog_sidebar
 	@try {
 		exec quarto render
 	} on error outcome {

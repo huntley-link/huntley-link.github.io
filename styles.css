@@ -241,3 +241,10 @@ iframe.reveal-demo {
 		border-left: solid 1px #bec2c6;
 	}
 }
+
+/* blog.qmd */
+div.sidebar-item-container .active, div.sidebar-item-container .show>.nav-link {
+	color: rgb(55, 58, 60);
+	font-weight: 600;
+    font-size: 1rem
+}

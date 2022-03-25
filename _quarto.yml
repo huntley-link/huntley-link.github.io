@@ -1,10 +1,9 @@
 project:
   type: website
-
 website:
-  title: "huntley.link"
-  image: "quarto.png"
-  favicon: "longlink3.png"
+  title: huntley.link
+  image: quarto.png
+  favicon: longlink3.png
   page-navigation: true
   navbar:
     background: light
@@ -30,23 +29,25 @@ website:
       contents:
         - text: Blog Archive
           href: blog.qmd
-        - section: y 2022
+        - section: 2022 (2)
           contents:
-            - section: Feb
+            - section: Feb (2)
               contents:
                 - books/epistles/3_references.qmd
                 - books/epistles/2_summary.qmd
-        - section: y 2019
+        - section: 2019 (2)
           contents:
-            - section: Jan
+            - section: Jan (2)
               contents:
-                - books/epistles/1_intro.qmd
                 - books/epistles/index.qmd
+                - books/epistles/1_intro.qmd
 format:
   html:
     toc: true
-    theme: 
-      light: [cosmo, theme.scss]
+    theme:
+      light:
+        - cosmo
+        - theme.scss
     code-copy: true
     code-overflow: wrap
     css: styles.css

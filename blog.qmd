@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "Entries"
+subtitle: All edits to this site presented as a weblog...
 listing:
   contents:
     - posts
@@ -8,6 +9,8 @@ listing:
   type: default
   categories: true
 page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
 ---
 
 
