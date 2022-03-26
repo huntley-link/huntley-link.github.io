@@ -1,9 +1,10 @@
 ---
-date: 2019-01-24
+title: Epistles
+description: "Essays, Communiqués and Supplications on Various Topics"
+date: 2022-03-26 14:30
+image: cover.png
 ---
 
-# Preface {.unnumbered}
+# Foreword
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Epistles: Essays, Communiqués and Supplications on Various Topics.

@@ -1,24 +1,22 @@
 project:
   type: book
 book:
-  title: "Epistles"
+  title: "Archive"
   author: "Stephen Huntley"
   cover-image: cover.png
-  date: "3/25/2022"
+  date: "3/26/2022"
   favicon: "longlink3.png"
   number-depth: 0
   navbar:
     background: light
     logo: longlink3.png
-    title: "Epistles"
+    title: "Archive"
     collapse-below: lg
     left:
       - text: "Site Home"
         href: "http://localhost:8080/doc/ckout/_site/index.html"
   chapters:
     - index.qmd
-    - 1_what_news.qmd
-    - 2_system.qmd
 bibliography: references.bib
 format:
   html:

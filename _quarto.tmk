@@ -73,11 +73,6 @@ proc blog_sidebar {} {
 		append JSONstring $yearJSONArray($year),
 	}
 	set JSONstring [string trimright $JSONstring ,]
-	#set JSONstring "\{\"sidebar\": \{\"contents\": \[$JSONstring\]\}\}"
-	#set JSONstring "\{\"sidebar\": \[{\"id\": \"get-started\",\"contents\": \[$JSONstring\]}\]\}"
-	#set JSONstring "\{\"id\": \"blog\",\"contents\": \[$JSONstring\]\}"
-	
-#return $JSONstring
 	
 set JSONstring  [subst -nocom  {
 
@@ -99,33 +94,15 @@ set JSONstring  [subst -nocom  {
 	
 }]
 
-set JSONstring [string trim $JSONstring]
-set JSONstring [string range $JSONstring 16 end-5]
+	set JSONstring [string trim $JSONstring]
+	set JSONstring [string range $JSONstring 16 end-5]
 
 	set qyml {.website.sidebar[0] = }
-#return $JSONstring	
 	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
 	set f [open _quarto.yml w]
 	puts $f $quarto_yml
 	close $f
 	
-}
-
-proc about_to_index {} {
-	if {![file isfile _site/about.html]} {return}
-	set f [open _site/about.html]
-	set about [read $f] ; close $f
-	set main [regexp -inline {<!-- main -->.+<!-- /main -->} $about]
-	set main [regsub -all -lineanchor {^( )+} $main {}]
-	
-	set f [open index.qmd]
-	set index [read $f] ; close $f
-	
-	set index [regsub {<!-- main -->.+<!-- /main -->} $index [regsub -all {&} [lindex $main 0] {\\&}]]
-	
-	set f [open index.qmd w]
-	puts $f $index
-	close $f
 }
 
 all: books _site

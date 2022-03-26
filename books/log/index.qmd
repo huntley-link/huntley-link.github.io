@@ -1,0 +1,10 @@
+---
+title: Log
+date: 2022-03-26 13:35
+description: "Diary of activities"
+image: cover.png
+---
+
+# 3/26/22
+
+Begin log of activities.

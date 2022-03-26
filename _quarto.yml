@@ -13,11 +13,16 @@ website:
     left:
       - text: About
         href: about.qmd
-      - blog.qmd
+      - text: Blog
+        href: blog.qmd
       - text: Books
         menu:
           - text: Epistles
             href: books/epistles/index.qmd
+          - text: Log
+            href: books/log/index.qmd
+          - text: Archive
+            href: books/archive/index.qmd
   page-footer:
     left: |
       Copyright © 2022 Stephen E. Huntley
@@ -29,18 +34,15 @@ website:
       contents:
         - text: Blog Archive
           href: blog.qmd
-        - section: 2022 (2)
+        - section: 2022 (5)
           contents:
-            - section: Feb (2)
-              contents:
-                - books/epistles/3_references.qmd
-                - books/epistles/2_summary.qmd
-        - section: 2019 (2)
-          contents:
-            - section: Jan (2)
+            - section: Mar (5)
               contents:
                 - books/epistles/index.qmd
-                - books/epistles/1_intro.qmd
+                - books/log/index.qmd
+                - books/archive/index.qmd
+                - books/epistles/2_system.qmd
+                - books/epistles/1_what_news.qmd
 format:
   html:
     toc: true
