@@ -23,6 +23,7 @@ listing:
     sort-ui: false
     filter-ui: false
     max-description-length: 175
+    image-placeholder: longlink3.png
   - id: books-listing
     contents:
       - books/*/index.qmd
@@ -33,6 +34,7 @@ listing:
     sort-ui: false
     filter-ui: false
     max-description-length: 175
+    image-placeholder: longlink3.png
 page-layout: full
 sidebar: false
 ---

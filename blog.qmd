@@ -3,11 +3,11 @@ title: "Entries"
 subtitle: All edits to this site presented as a weblog...
 listing:
   contents:
-    - posts
     - books
   sort: "date desc"
   type: default
   categories: true
+  image-placeholder: longlink3.png
 page-layout: full
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body
