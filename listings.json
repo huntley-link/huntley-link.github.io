@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/books/epistles/index.html",
+      "/books/log/index.html",
+      "/books/archive/index.html",
+      "/books/epistles/2_system.html",
+      "/books/epistles/1_what_news.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/books/epistles/index.html",
+      "/books/log/index.html",
+      "/books/archive/index.html",
+      "/books/epistles/2_system.html",
+      "/books/epistles/1_what_news.html"
+    ]
+  }
+]
