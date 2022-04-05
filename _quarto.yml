@@ -4,6 +4,10 @@ website:
   title: huntley.link
   image: quarto.png
   favicon: longlink3.png
+  repo-url: https://github.com/huntley-link/huntley-link.github.io
+  repo-branch: public
+  repo-actions:
+    - source
   page-navigation: true
   navbar:
     background: light
@@ -28,7 +32,7 @@ website:
       Copyright © 2022 Stephen E. Huntley
     center: |
       Created with
-      [![](quarto.png){width=85px}](https://quarto.org/)
+      [![](/quarto.png){width=85px}](https://quarto.org/)
   sidebar:
     - id: blog
       contents:

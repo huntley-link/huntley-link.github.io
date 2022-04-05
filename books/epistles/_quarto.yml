@@ -7,6 +7,9 @@ book:
   date: "3/25/2022"
   favicon: "longlink3.png"
   number-depth: 0
+  repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/epistles"
+  repo-branch: public
+  repo-actions: [source]
   navbar:
     background: light
     logo: longlink3.png
