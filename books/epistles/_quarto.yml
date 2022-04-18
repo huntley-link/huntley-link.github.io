@@ -3,7 +3,7 @@ project:
 book:
   title: "Epistles"
   author: "Stephen Huntley"
-  cover-image: cover.png
+  cover-image: letter-quill.png
   date: "3/25/2022"
   favicon: "longlink3.png"
   number-depth: 0

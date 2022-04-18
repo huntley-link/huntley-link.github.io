@@ -2,7 +2,7 @@
 title: Epistles
 description: "Essays, Communiqués and Supplications on Various Topics"
 date: 2022-03-26 14:30
-image: cover.png
+image: letter-quill.png
 ---
 
 # Foreword
