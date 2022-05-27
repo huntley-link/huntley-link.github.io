@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/books/epistles/3_about.html",
       "/books/epistles/index.html",
       "/books/log/index.html",
       "/books/archive/index.html",
@@ -12,6 +13,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/books/epistles/3_about.html",
       "/books/epistles/index.html",
       "/books/log/index.html",
       "/books/archive/index.html",
