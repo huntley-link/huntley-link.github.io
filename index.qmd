@@ -44,7 +44,13 @@ div.quarto-about-trestles {background-color: rgb(237,243,249); padding: 1em !imp
 .listing-pagination {visibility: hidden;}
 #quarto-content {background-color: rgb(237,243,249);}
 #bottomp {padding-bottom: 10em;}
+#topline {text-align: center; background-color: rgb(237,243,249);}
+#topline h1 {margin: 0; padding-top: 1em; padding-bottom: 1em;}
 </style>
+
+:::{#topline}
+# Every Day I Write the Books: <br /> My Never-Complete Works
+:::
 
 :::{#hero-heading}
 <br />
@@ -56,8 +62,10 @@ _A continually-compiled and edited "Complete Works" that is always approaching
 the goal of final definitive compendium but will never reach it until I can't
 type anymore._
 
-_An attempt to bridge pre-and post-internet traditions of authoring and distributing
-creative and intellectual work._
+_An attempt to bridge pre-internet traditions of authoring and distributing
+creative and intellectual work into the current era._
+
+[More...](books/epistles/3_about.html)
 
 :::
 <!-- #hero-heading -->

@@ -12,7 +12,7 @@ book:
   repo-actions: [source]
   navbar:
     background: light
-    logo: longlink3.png
+    logo: letter-quill.png
     title: "Epistles"
     collapse-below: lg
     left:
@@ -22,12 +22,14 @@ book:
     - index.qmd
     - 1_what_news.qmd
     - 2_system.qmd
-bibliography: references.bib
+    - 3_about.qmd
+bibliography: Epistles.bib
 format:
   html:
     theme:
       light: [cosmo, theme.scss]
     css: styles.css
     number-sections: false
+    toc: true
   pdf:
     documentclass: scrreprt

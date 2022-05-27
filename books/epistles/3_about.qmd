@@ -1,0 +1,112 @@
+---
+date: 2022-04-22 12:00
+---
+
+# About the Web Site
+
+The web site [huntley.link](https://huntley-link.github.io/) is an attempt to
+build a writing platform whose contents can be formatted for either web or print
+publishing from the same source, in hopes of being able to preserve its contents
+for the long term by producing hard copies.  By itself there's nothing new about
+this aspiration, over the past fifteen years or so in particular a number of
+tools and workflows have been devised in pursuit of dual web/print publishing.
+
+What I'm striving to produce more specifically is a matrix both for: day-to-day
+writing, revising, blogging, research, outlining, brainstorming and gathering
+feedback; and for compiling, editing and archiving a comprehensive compendium of
+the total creative output of my life.
+
+That is, the web site is meant to be simultaneously a writing and publishing
+platform, and a project for producing and annotating a volume of
+"Complete Works" which stands ready at all times to be published in full and yet
+will be continually added to and improved.  Thus I envision that my "Complete
+Works" will not be the product of a final retrospective stage of my life, but a
+goal always being approached asymptotically but never finally reached until I
+can write and work no more.
+
+This vision is inspired by a desire to bridge pre-internet traditions of
+intellectual work into the current era in a format adapted to today's technology
+and expectations.  And thus to recover a portion of something valuable which
+seems to me to have been lost.
+
+I'm among the last generation whose memory, education and work experience will
+incorporate any of the practices, guidelines and wisdom of intellectual creation
+that arose and were routinely taught before the advent of personal computers and
+the popular embrace of the internet.
+
+In times past, intellectual and creative writers created a great deal of work
+product: notebooks, drafts, correspondence, manuscripts, fair copies.  This work
+product of course was and is of value to scholars; indeed creators of the past
+consciously collected, sorted and preserved their archives if they had any
+expectation of or aspiration to notability, knowing that their papers would be
+studied and curated.  More importantly, it was valuable to the creators
+themselves as they worked: their papers provided a medium for review,
+contemplation, re-evaluation, insight, inspiration.  Accumulated work product
+amounted to a sort of labyrinth of meditation in the medieval sense.
+
+By way of illustration, the poet Percy Shelley, in his impecunious early years,
+was well-practiced in skipping out on debts and stiffing landlords for unpaid
+rent.  When he later attained a more firm financial footing, he only ever repaid
+one bad debt: to a landlady in Wales who was holding a trunk of his notebooks
+and manuscripts hostage.
+
+This creative resource seems now largely to have been lost.[^1]  Who saves drafts
+when working with a word processor or text editor?  Who among creative people
+has a plan to back up and preserve their work?  Commercial web sites into which
+millions of people pour uncountable hours of creative effort disappear overnight
+and take everything with them.  People now are deluged with email; who makes an
+effort to archive worthy conversations?
+
+In place of the former ways, corporations that provide internet and social media
+services have constructed for us another sort of labyrinth, designed to work in
+the ancient Greek sense of a place to get permanently lost in.  In order to make
+meaningful contact with others in our digital society we are expected to direct
+our creative efforts toward producing content for these services, and as we do
+our attention and concentration are run through their mazes and dissipated.  Our
+movements through the labyrinth are recorded and quantified, and the statistical
+results are monetized for the corporations' benefit.  In the meantime we are
+alienated from our own creative work, our selves and our posterity denied the
+opportunity to develop life-long relationships with it, and with such
+relationships are lost the spiritual opportunities for insight and
+self-knowledge.
+
+The web site is designed and implemented with the goal of restoring some of what
+has been lost.  A workspace to doodle with notes, diary entries and drafts, turn
+drafts into manuscripts and manuscripts into books, essays, monographs and
+collections. A resource for scholars should there ever be interest.  Most
+importantly a retreat and reference for a lifetime of review and reflection.
+Every edit and revision is saved, and the full record of revisions is part of
+the work, in postmodern fashion.  The current provisional state of each division
+of the site is publishable in hard copy form, however rough it may be.  The
+"Complete Works" is a destination always aspired to but never quite reached, but
+at the same time always present and accessible now.
+
+As a member of the technical world that prefers to have distinct, searchable and
+indexible names for software concepts and tools, I've been using the
+abbreviation *EDIWTB* to label this toolset/workflow, which for those requiring
+a technically descriptive meaning I'll claim stands for "Edit/Distribution
+Integration from Web Template to Binding".  But for the sake of my own literary
+inspiration I assign to it the mantra "Every Day I Write The Books".
+
+An experiment in simultaneous research, authoring, and digital/print publishing.
+
+**EDIWTB** is:
+
+*"Edit/Distribution Integration from Web Template to Books"*
+
+or
+
+*"Every Day I Write The Book"*
+
+That is, as a matter of producing a lifetime's creative output, instead of going
+through separate stages of doodling, inspiration, research, drafting, editing
+and then posting or printing of individual works or publishable volumes, I
+envision incorporating every day's work into a provisional final form that is
+always ready for publication on the web and in print, and asymptotically
+approaches but never reaches the final definitive compendium of complete works
+that represents a life's effort.
+
+Thus bridging pre-and post-internet traditions of creating and distributing
+creative and intellectual work.
+
+[^1]: [“Mass. Scholars Lament the Lost Art of Letter Writing: Rise of Technology Has Lead to the Gradual Demise of Written Communications.”](https://www.thefreelibrary.com/Mass.+scholars+lament+the+lost+art+of+letter+writing%3A+rise+of%E2%80%A6-a0366082761)

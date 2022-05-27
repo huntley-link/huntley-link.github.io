@@ -16,7 +16,7 @@ website:
     collapse-below: lg
     left:
       - text: About
-        href: about.qmd
+        href: books/epistles/3_about.qmd
       - text: Blog
         href: blog.qmd
       - text: Books
@@ -38,7 +38,7 @@ website:
       contents:
         - text: Blog Archive
           href: blog.qmd
-        - section: 2022 (5)
+        - section: 2022 (6)
           contents:
             - section: Mar (5)
               contents:
@@ -47,6 +47,9 @@ website:
                 - books/archive/index.qmd
                 - books/epistles/2_system.qmd
                 - books/epistles/1_what_news.qmd
+            - section: Apr (1)
+              contents:
+                - books/epistles/3_about.qmd
 format:
   html:
     toc: true
