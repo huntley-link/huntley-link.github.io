@@ -17,7 +17,7 @@ book:
     collapse-below: lg
     left:
       - text: "Site Home"
-        href: "http://localhost:8080/doc/ckout/_site/index.html"
+        href: "https://huntley-link.github.io/index.html"
   chapters:
     - index.qmd
     - 1_what_news.qmd
