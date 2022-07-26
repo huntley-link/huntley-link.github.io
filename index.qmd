@@ -46,6 +46,9 @@ div.quarto-about-trestles {background-color: rgb(237,243,249); padding: 1em !imp
 #bottomp {padding-bottom: 10em;}
 #topline {text-align: center; background-color: rgb(237,243,249);}
 #topline h1 {margin: 0; padding-top: 1em; padding-bottom: 1em;}
+#quarto-margin-sidebar {visibility: hidden;}
+#quarto-document-content {grid-column:page-start/page-end !important;}
+div.column-page-left {grid-column:page-start/page-end !important;}
 </style>
 
 :::{#topline}

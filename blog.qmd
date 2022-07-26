@@ -14,3 +14,6 @@ title-block-banner-color: body
 ---
 
 
+<style>
+div.toc-actions {visibility: hidden;}
+</style>
