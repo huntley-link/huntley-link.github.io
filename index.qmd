@@ -1,17 +1,22 @@
 ---
 title: "Stephen Huntley"
+sidebar: false
+toc: false
 about:
   id: hero-heading
-  template: trestles
-  image: me2.jpg
+  template: jolla
+  image: /img/guy.jpg
+  image-width: 140px
   links:
     - icon: github
       text: Github
       href: https://github.com/huntley-link
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stephen-huntley-03420a1a
 listing:
   - id: hero-listing
     contents:
-      - posts
       - books
     sort: "date desc"
     type: grid
@@ -20,7 +25,7 @@ listing:
     sort-ui: false
     filter-ui: false
     max-description-length: 175
-    image-placeholder: longlink3.png
+    image-placeholder: /img/HLicon.png
   - id: books-listing
     contents:
       - books/*/index.qmd
@@ -31,50 +36,111 @@ listing:
     sort-ui: false
     filter-ui: false
     max-description-length: 175
-    image-placeholder: longlink3.png
-page-layout: full
-sidebar: false
+    image-placeholder: /img/HLicon.png
 ---
 
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 <style>
-#quarto-document-content {background-color: rgb(247,249,251); padding-top: 0;}
-.index-head {margin-left: 1em; margin-right: 1em; border-bottom: 1px solid #dee2e6;}
-.quarto-listing {padding: 1em;}
-div.quarto-about-trestles {background-color: rgb(237,243,249); padding: 1em !important; padding-bottom: 5em !important; border-bottom: 1px solid #dee2e6;}
-.listing-pagination {visibility: hidden;}
-#quarto-content {background-color: rgb(237,243,249);}
-#bottomp {padding-bottom: 10em;}
-#topline {text-align: center; background-color: rgb(237,243,249);}
-#topline h1 {margin: 0; padding-top: 1em; padding-bottom: 1em;}
-#quarto-margin-sidebar {visibility: hidden;}
-#quarto-document-content {grid-column:page-start/page-end !important;}
-div.column-page-left {grid-column:page-start/page-end !important;}
+main>div>div>header>div>h1.title {
+  font-family: Alice, Georgia, serif;
+  font-size: 49px;
+  font-weight: 400;
+}
+
+img.about-image {
+  display: block;
+  overflow: hidden;
+  border: 9px solid rgba(0, 0, 0, 0.05);
+  margin: 0 auto;
+}
+
+.column-screen {
+	border-top: 1px solid #dee2e6;
+	border-bottom: 1px solid #dee2e6
+}
+.csabout {
+  background: #f4f4f4 url(/img/bg_headblu.jpg) top center;
+  background-size: cover;
+  padding: 30px 0 35px 0;
+}
+
+main {
+  margin-top: 0px;
+}
+
+#quarto-document-content {
+  padding-top: 0px;
+}
+
+#hero-heading {
+	margin: 0px 2em;
+}
+
+#hero-heading p {
+	text-align: center;
+}
+
+a.about-link {
+	background: #ffffff;
+}
+
+.index-head {margin-bottom: 2em; border-bottom: 1px solid #dee2e6;}
+
+.cslatest {
+	background: rgb(247,249,251);
+	border-top: 1px solid #dee2e6;
+}
+
+img.card-img {
+    object-fit: contain
+}
+
+.card {border: 2px solid rgba(0,0,0,.125)}
+
+.csbooks {
+	background: rgb(240,245,249);
+	border-top: 1px solid #dee2e6;
+}
+
+#hero-listing-pagination ul {visibility: hidden;}
 </style>
 
-:::{#topline}
-# Every Day I Write the Books: <br /> My Never-Complete Works
-:::
-
+:::{.column-screen .csabout}
 :::{#hero-heading}
-<br />
 
-### [Personal web site and literary experiment in continuous research, authoring, curation and archiving that is instantly published digitally and always print-ready.]{.smallcaps} ###
-
-<br />
-_A continually-compiled and edited "Complete Works" that is always approaching
-the goal of final definitive compendium but will never reach it until I can't
-type anymore._
-
-_An attempt to bridge pre-internet traditions of authoring and distributing
-creative and intellectual work into the current era._
-
-[More...](books/epistles/3_about.html)
+Personal archive, notes and works in progress.  
+Every Day I Write The Book.
 
 :::
-<!-- #hero-heading -->
+:::
 
-<br />
-<br />
+###
+ 
+###
+
+This web site is an attempt to bring the software engineering paradigm
+of "Continuous Integration/Continuous Deployment" to to my personal
+work, be it technical, literary, epistolary, journaling, note-taking,
+brainstorming, indexing, archiving etc.
+
+My intent is to bring together everything I've preserved of my past
+efforts and document the process of creating new stuff, in what used to
+be called "postmodern" fashion -- showing my work and all the messy
+parts.
+
+I aspire, via this site and the [Quarto](https://quarto.org/) publishing
+platform, to organize my work into volumes, which can be released in
+ebook and print-ready formats in continuous editions updated with every
+iteration of the site.  Each step of the authoring, editing, compiling
+and publishing process will be captured and laid bare for posterity in a
+[Github repository](https://github.com/huntley-link).
+
+###
+ 
+###
+
+:::{.column-screen .cslatest}
+:::{.column-body}
 
 :::{.index-head}
 # Latest Posts:
@@ -83,8 +149,12 @@ creative and intellectual work into the current era._
 :::{#hero-listing}
 :::
 
-<br />
-<br />
+:::
+:::
+
+
+:::{.column-screen .csbooks}
+:::{.column-body}
 
 :::{.index-head}
 # Books:
@@ -93,6 +163,5 @@ creative and intellectual work into the current era._
 :::{#books-listing}
 :::
 
-<br />
-<br />
-<p id="bottomp">&nbsp;</p>
+:::
+:::

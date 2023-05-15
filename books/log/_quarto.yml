@@ -1,31 +1,32 @@
 project:
   type: book
+  output-dir: "../../_site/books/log"
 book:
   title: "Log"
   author: "Stephen Huntley"
-  cover-image: tbang.png
-  date: "3/26/2022"
-  favicon: "longlink3.png"
-  number-depth: 0
+  cover-image: "img/tbang.png"
+  date: "4/21/2023"
+  favicon: "img/tbang.png"
   repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/log"
   repo-branch: public
   repo-actions: [source]
   navbar:
     background: light
-    logo: longlink3.png
+    logo: "img/HLicon.png"
     title: "Log"
     collapse-below: lg
     left:
       - text: "Site Home"
-        href: "https://huntley-link.github.io/index.html"
+        href: "{{< meta HOME_URL >}}"
   chapters:
     - index.qmd
 bibliography: references.bib
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-    css: styles.css
+    theme: cosmo
+    css: bookstyles.css
     number-sections: false
+    embed-resources: false
   pdf:
     documentclass: scrreprt
+    number-sections: false

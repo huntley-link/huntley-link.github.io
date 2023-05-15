@@ -7,13 +7,42 @@ listing:
   sort: "date desc"
   type: default
   categories: true
-  image-placeholder: longlink3.png
-page-layout: full
-title-block-banner: "#EDF3F9"
-title-block-banner-color: body
+  image-placeholder: /img/HLicon.png
+  feed: true
+title-block-banner: "#e1eef9"
+title-block-banner-color: rgb(55, 58, 60)
 ---
 
-
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 <style>
-div.toc-actions {visibility: hidden;}
+.navbar {
+	border-bottom: 1px solid #dee2e6
+}
+.quarto-title-banner {
+	border-bottom: 1px solid #dee2e6;
+}
+
+.title {
+  font-family: Alice, Georgia, serif;
+  font-size: 49px;
+  font-weight: 400;
+}
+
+#quarto-document-content {
+	background: rgb(247,249,251);
+	border: 1px solid #dee2e6;
+}
+
+#quarto-content {border-top: 1px solid #dee2e6;}
+
+@media(max-width: 991.98px) {
+ body.nav-sidebar .quarto-title-banner,
+ body.nav-sidebar .quarto-title-banner {
+  display:grid
+ }
+}
+
+div.metadata {margin-left: 1em;}
+
+footer {border-top: 1px solid #dee2e6;}
 </style>

@@ -2,7 +2,7 @@
 title: Log
 description: "Diary of activities"
 date: 2022-03-26 13:35
-image: tbang.png
+image: img/tbang.png
 ---
 
 # 3/26/22

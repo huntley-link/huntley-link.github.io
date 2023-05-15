@@ -1,4 +1,12 @@
+OUTPUT = html
+PROFILE = 
 MAKE_INIT = make_init {${MAKEFILE}}
+
+proc home_url {PROFILE} {
+	if {$PROFILE eq {prod}} {return https://huntley-link.github.io}
+	return http://localhost:8000
+}
+MAKE_EVAL HOME_URL = [home_url {$(PROFILE)}]
 
 proc make_init {MAKEFILE} {
 	cd [file dir $MAKEFILE]
@@ -22,7 +30,7 @@ proc book_chapters {} {
 }
 
 proc blog_sidebar {} {
-	foreach qf [glob -noc */*/*.qmd] {
+	foreach qf [glob -noc */*/*.qmd */*/*/*.qmd] {
 		set qdir [file tail [file dir $qf]]
 		if {[string index $qdir 0] eq {_}} {continue}
 		set f [open $qf]
@@ -100,7 +108,7 @@ set JSONstring  [subst -nocom  {
 	set qyml {.website.sidebar[0] = }
 	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
 	set f [open _quarto.yml w]
-	puts $f $quarto_yml
+	puts -nonewline $f $quarto_yml
 	close $f
 	
 }
@@ -109,26 +117,29 @@ all: books _site
 	
 books: _site
 	@puts "Rendering books:"
-	@foreach book [glob -dir [pwd] -type d books/*] {
+	@set pwd [pwd]
+	@foreach book [glob -dir $pwd -type d books/*] {
 		set bookname [file tail $book]
 		cd $book
 		if {![file isfile _quarto.yml]} {continue}
 		if {[string index $bookname 0] eq {_}} {continue}
 		puts "Rendering book: $bookname"
-		book_chapters
+		#book_chapters
 		try {
-			exec quarto render --output-dir "../../_site/books/$bookname" --to $(OUTPUT)
+			#exec quarto render --output-dir "../../_site/books/$bookname" --to $(OUTPUT) -M HOME_URL:$(HOME_URL)
+			exec quarto render --to $(OUTPUT) -M HOME_URL:$(HOME_URL)
 		} on error outcome {
 			puts $outcome
 		}
 	}
+	@cd $pwd
 	exec touch books
 
-_site: *.yml *.qmd *.css books/*/*.*
-	@puts "Rendering site:"
+_site: *.yml *.qmd *.css books/*/*.* books/*/*/*.*
+	@puts "Rendering site: $(PROFILE)"
 	@blog_sidebar
 	@try {
-		exec quarto render
+		exec quarto render --profile {$(PROFILE)}
 	} on error outcome {
 		puts $outcome
 	}

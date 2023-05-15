@@ -1,19 +1,32 @@
 project:
   type: book
+  output-dir: "../../_site/books/_mybook"
 book:
-  title: "mybook"
-  author: "Jane Doe"
-  date: "2/23/2022"
+  title: "Log"
+  author: "Stephen Huntley"
+  cover-image: "img/tbang.png"
+  date: "4/21/2023"
+  favicon: "img/tbang.png"
+  repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/_mybook"
+  repo-branch: public
+  repo-actions: [source]
+  navbar:
+    background: light
+    logo: "img/HLicon.png"
+    title: "Log"
+    collapse-below: lg
+    left:
+      - text: "Site Home"
+        href: "{{< meta HOME_URL >}}"
   chapters:
     - index.qmd
-    - 1_intro.qmd
-    - 2_summary.qmd
-    - 3_references.qmd
 bibliography: references.bib
 format:
   html:
-    theme:
-      light: [cosmo, theme.scss]
-    css: styles.css
+    theme: cosmo
+    css: bookstyles.css
+    number-sections: false
+    embed-resources: false
   pdf:
     documentclass: scrreprt
+    number-sections: false

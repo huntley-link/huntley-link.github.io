@@ -1,5 +1,10 @@
-# Preface {.unnumbered}
+---
+title: Log
+description: "Diary of activities"
+date: 2022-03-26 13:35
+image: img/tbang.png
+---
 
-This is a Quarto book.
+# 3/26/22
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Begin log of activities.

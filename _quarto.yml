@@ -2,21 +2,22 @@ project:
   type: website
 website:
   title: huntley.link
-  image: quarto.png
-  favicon: longlink3.png
+  site-url: http://localhost:8000
+  description: Personal archive, notes and works in progress.
+  image: /img/opengraph.png
+  favicon: /img/HLicon.png
   repo-url: https://github.com/huntley-link/huntley-link.github.io
   repo-branch: public
   repo-actions:
     - source
-  page-navigation: true
   navbar:
-    background: light
-    logo: longlink3.png
-    title: huntley.link
-    collapse-below: lg
+    logo: /img/HLicon.png
+    right:
+      - icon: rss
+        href: blog.xml
     left:
-      - text: About
-        href: books/epistles/3_about.qmd
+      - href: index.qmd
+        text: Home
       - text: Blog
         href: blog.qmd
       - text: Books
@@ -29,10 +30,10 @@ website:
             href: books/archive/index.qmd
   page-footer:
     left: |
-      Copyright © 2022 Stephen E. Huntley
+      Copyright © 2023 Stephen E. Huntley
     center: |
       Created with
-      [![](/quarto.png){width=85px}](https://quarto.org/)
+      [![](/img/quarto.png){width=85px}](https://quarto.org/)
   sidebar:
     - id: blog
       contents:
@@ -42,21 +43,16 @@ website:
           contents:
             - section: Mar (5)
               contents:
-                - books/epistles/index.qmd
                 - books/log/index.qmd
+                - books/epistles/index.qmd
                 - books/archive/index.qmd
-                - books/epistles/2_system.qmd
-                - books/epistles/1_what_news.qmd
+                - books/epistles/chapters/2_system.qmd
+                - books/epistles/chapters/1_what_news.qmd
             - section: Apr (1)
               contents:
-                - books/epistles/3_about.qmd
+                - books/epistles/chapters/3_about.qmd
 format:
   html:
-    toc: true
-    theme:
-      light:
-        - cosmo
-        - theme.scss
-    code-copy: true
-    code-overflow: wrap
+    theme: cosmo
     css: styles.css
+    embed-resources: false

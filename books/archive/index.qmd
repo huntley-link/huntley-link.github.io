@@ -1,10 +1,10 @@
 ---
 title: Archive
 description: "Catalog of previous work"
-date: 2022-03-26 13:30
-image: hypostatk0.png
+date: 2022-03-26 13:35
+image: img/hypostatk0.png
 ---
 
-# Foreword
+# 3/26/22
 
 Catalog of previous work.
