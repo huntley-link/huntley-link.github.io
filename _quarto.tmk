@@ -3,7 +3,7 @@ PROFILE =
 MAKE_INIT = make_init {${MAKEFILE}}
 
 proc home_url {PROFILE} {
-	if {$PROFILE eq {prod}} {return https://huntley-link.github.io}
+	if {$PROFILE eq {prod}} {return https://stephen.huntley.link}
 	return http://localhost:8000
 }
 MAKE_EVAL HOME_URL = [home_url {$(PROFILE)}]
