@@ -8,7 +8,8 @@ listing:
   type: default
   categories: true
   image-placeholder: /img/HLicon.png
-  feed: true
+  feed:
+    type: partial
 title-block-banner: "#e1eef9"
 title-block-banner-color: rgb(55, 58, 60)
 ---

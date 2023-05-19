@@ -7,17 +7,9 @@ book:
   cover-image: "img/letter-quill.png"
   date: "4/21/2023"
   favicon: "img/letter-quill.png"
-  repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/epistles"
-  repo-branch: public
-  repo-actions: [source]
+  repo-subdir: "books/epistles"
   navbar:
-    background: light
-    logo: "img/HLicon.png"
     title: "Epistles"
-    collapse-below: lg
-    left:
-      - text: "Site Home"
-        href: "../../index.html"
   chapters:
     - index.qmd
     - chapters/1_what_news.qmd
@@ -33,3 +25,5 @@ format:
   pdf:
     documentclass: scrreprt
     number-sections: false
+metadata-files:
+  - "../_books.yml"

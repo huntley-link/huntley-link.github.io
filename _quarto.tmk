@@ -2,12 +2,6 @@ OUTPUT = html
 PROFILE = 
 MAKE_INIT = make_init {${MAKEFILE}}
 
-proc home_url {PROFILE} {
-	if {$PROFILE eq {prod}} {return https://stephen.huntley.link}
-	return http://localhost:8000
-}
-MAKE_EVAL HOME_URL = [home_url {$(PROFILE)}]
-
 proc make_init {MAKEFILE} {
 	cd [file dir $MAKEFILE]
 }
@@ -131,8 +125,7 @@ books: _site
 		puts "Rendering book: $bookname"
 		#book_chapters
 		try {
-			#exec quarto render --output-dir "../../_site/books/$bookname" --to $(OUTPUT) -M HOME_URL:$(HOME_URL)
-			exec quarto render --to $(OUTPUT) -M HOME_URL:$(HOME_URL)
+			exec quarto render --to $(OUTPUT)
 		} on error outcome {
 			puts $outcome
 		}

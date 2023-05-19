@@ -1,0 +1,11 @@
+book:
+  repo-url: "https://github.com/huntley-link/huntley-link.github.io/"
+  repo-branch: public
+  repo-actions: [source]
+  navbar:
+    background: light
+    logo: "img/HLicon.png"
+    collapse-below: lg
+    left:
+      - text: "Site Home"
+        href: "../../index.html"

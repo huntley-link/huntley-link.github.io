@@ -2,7 +2,7 @@ project:
   type: website
 website:
   title: huntley.link
-  site-url: http://localhost:8000
+  site-url: https://stephen.huntley.link
   description: Personal archive, notes and works in progress.
   image: /img/opengraph.png
   favicon: /img/HLicon.png

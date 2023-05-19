@@ -7,7 +7,7 @@ book:
   cover-image: "img/tbang.png"
   date: "4/21/2023"
   favicon: "img/tbang.png"
-  repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/_mybook"
+  repo-url: "https://github.com/huntley-link/huntley-link.github.io"
   repo-branch: public
   repo-actions: [source]
   navbar:
@@ -17,7 +17,7 @@ book:
     collapse-below: lg
     left:
       - text: "Site Home"
-        href: "{{< meta HOME_URL >}}"
+        href: "../../index.html"
   chapters:
     - index.qmd
 bibliography: references.bib

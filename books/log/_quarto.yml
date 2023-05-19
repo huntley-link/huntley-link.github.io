@@ -7,17 +7,10 @@ book:
   cover-image: "img/tbang.png"
   date: "4/21/2023"
   favicon: "img/tbang.png"
-  repo-url: "https://github.com/huntley-link/huntley-link.github.io/books/log"
-  repo-branch: public
-  repo-actions: [source]
+  repo-subdir: "books/log"
   navbar:
-    background: light
-    logo: "img/HLicon.png"
+    navbar:
     title: "Log"
-    collapse-below: lg
-    left:
-      - text: "Site Home"
-        href: "../../index.html"
   chapters:
     - index.qmd
 bibliography: references.bib
@@ -30,3 +23,5 @@ format:
   pdf:
     documentclass: scrreprt
     number-sections: false
+metadata-files:
+  - "../_books.yml"
