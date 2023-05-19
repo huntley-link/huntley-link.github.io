@@ -1,0 +1,14 @@
+"website": {
+  "sidebar": [
+    {
+      "id": "blog",
+      "contents": [
+        {
+          "text": "Blog Archive",
+          "href": "blog.qmd"
+        },
+        {"section": "2022 (6)","contents": [{"section": "Mar (5)","contents": ["books/log/index.qmd","books/epistles/index.qmd","books/archive/index.qmd","books/epistles/chapters/2_system.qmd","books/epistles/chapters/1_what_news.qmd"]},{"section": "Apr (1)","contents": ["books/epistles/chapters/3_about.qmd"]}]}
+      ]
+    }
+  ]
+}

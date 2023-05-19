@@ -103,13 +103,18 @@ set JSONstring  [subst -nocom  {
 }]
 
 	set JSONstring [string trim $JSONstring]
-	set JSONstring [string range $JSONstring 16 end-5]
-
-	set qyml {.website.sidebar[0] = }
-	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
-	set f [open _quarto.yml w]
-	puts -nonewline $f $quarto_yml
+#	exec yq -P << "\"website\": $JSONstring" > _metadata.yml
+	set f [open _metadata.yml w]
+	puts $f "\"website\": $JSONstring"
 	close $f
+
+#	set JSONstring [string range $JSONstring 16 end-5]
+
+#	set qyml {.website.sidebar[0] = }
+#	set quarto_yml [exec yq {del(.website.sidebar[0])} | yq -P "$qyml $JSONstring" < _quarto.yml]
+	#set f [open _quarto.yml w]
+	#puts -nonewline $f $quarto_yml
+	#close $f
 	
 }
 

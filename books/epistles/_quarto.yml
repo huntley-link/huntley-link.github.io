@@ -17,7 +17,7 @@ book:
     collapse-below: lg
     left:
       - text: "Site Home"
-        href: "{{< meta HOME_URL >}}"
+        href: "../../index.html"
   chapters:
     - index.qmd
     - chapters/1_what_news.qmd
