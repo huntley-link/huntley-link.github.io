@@ -1,1 +1,1 @@
-Sitemap: https://huntley-link.github.io/sitemap.xml
+Sitemap: https://stephen.huntley.link/sitemap.xml
