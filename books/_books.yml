@@ -1,4 +1,6 @@
 book:
+  twitter-card: true
+  open-graph: true
   repo-url: "https://github.com/huntley-link/huntley-link.github.io/"
   repo-branch: public
   repo-actions: [source]

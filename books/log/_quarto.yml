@@ -4,6 +4,7 @@ project:
 book:
   title: "Log"
   author: "Stephen Huntley"
+  site-url: "https://stephen.huntley.link/books/log"
   cover-image: "img/tbang.png"
   date: "4/21/2023"
   favicon: "img/tbang.png"

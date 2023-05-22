@@ -4,6 +4,7 @@ project:
 book:
   title: "Epistles"
   author: "Stephen Huntley"
+  site-url: "https://stephen.huntley.link/books/epistles"
   cover-image: "img/letter-quill.png"
   date: "4/21/2023"
   favicon: "img/letter-quill.png"

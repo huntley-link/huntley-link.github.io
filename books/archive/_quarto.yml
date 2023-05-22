@@ -4,6 +4,7 @@ project:
 book:
   title: "Archive"
   author: "Stephen Huntley"
+  site-url: "https://stephen.huntley.link/books/archive"
   cover-image: "img/hypostatk0.png"
   date: "4/21/2023"
   favicon: "img/hypostatk0.png"

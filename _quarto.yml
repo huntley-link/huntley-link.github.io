@@ -6,6 +6,10 @@ website:
   description: Personal archive, notes and works in progress.
   image: /img/opengraph.png
   favicon: /img/HLicon.png
+  twitter-card:
+    image: /img/opengraph.png
+  open-graph:
+    image: /img/opengraph.png
   repo-url: https://github.com/huntley-link/huntley-link.github.io
   repo-branch: public
   repo-actions:
