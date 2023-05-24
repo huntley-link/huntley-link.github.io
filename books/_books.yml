@@ -4,6 +4,7 @@ book:
   repo-url: "https://github.com/huntley-link/huntley-link.github.io/"
   repo-branch: public
   repo-actions: [source]
+  downloads: pdf
   navbar:
     background: light
     logo: "img/HLicon.png"
@@ -11,3 +12,7 @@ book:
     left:
       - text: "Site Home"
         href: "../../index.html"
+format:
+  pdf:
+    documentclass: scrbook
+    mainfont: "Latin Modern Sans"

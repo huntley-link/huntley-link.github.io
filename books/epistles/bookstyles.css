@@ -9,3 +9,5 @@ nav.quarto-page-breadcrumbs span.chapter-number {display: none;}
 .sidebar.sidebar-navigation:not(.rollup) {
     border-right: 1px solid #dee2e6 !important
 }
+
+button.quarto-search-button {display: none;}

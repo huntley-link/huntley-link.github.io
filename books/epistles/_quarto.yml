@@ -3,6 +3,7 @@ project:
   output-dir: "../../_site/books/epistles"
 book:
   title: "Epistles"
+  description: "Essays, Communiqués and Supplications on Various Topics"
   author: "Stephen Huntley"
   site-url: "https://stephen.huntley.link/books/epistles"
   cover-image: "img/letter-quill.png"
@@ -24,7 +25,6 @@ format:
     number-sections: false
     embed-resources: false
   pdf:
-    documentclass: scrreprt
     number-sections: false
 metadata-files:
   - "../_books.yml"

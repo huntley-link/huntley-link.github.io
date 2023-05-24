@@ -10,7 +10,6 @@ book:
   favicon: "img/tbang.png"
   repo-subdir: "books/log"
   navbar:
-    navbar:
     title: "Log"
   chapters:
     - index.qmd

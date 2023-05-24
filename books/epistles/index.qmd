@@ -1,6 +1,5 @@
 ---
-title: Epistles
-description: "Essays, Communiqués and Supplications on Various Topics"
+title: "Epistles: Intro"
 date: 2022-03-26 13:35
 image: img/letter-quill.png
 ---
