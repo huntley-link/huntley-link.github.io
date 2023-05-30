@@ -5,7 +5,7 @@ book:
   title: "Log"
   author: "Stephen Huntley"
   site-url: "https://stephen.huntley.link/books/log"
-  cover-image: "img/tbang.png"
+  cover-image: "img/log-cover.png"
   date: "4/21/2023"
   favicon: "img/tbang.png"
   repo-subdir: "books/log"

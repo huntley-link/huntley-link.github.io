@@ -129,6 +129,9 @@ books: _site
 		} on error outcome {
 			puts $outcome
 		}
+		set btail [file tail $book]
+		exec gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=../../_site/books/$btail/combined.pdf -dBATCH img/_frontmatter.pdf ../../_site/books/$btail/[string totitle $btail].pdf
+		file rename -force ../../_site/books/$btail/combined.pdf ../../_site/books/$btail/[string totitle $btail].pdf
 	}
 	@cd $pwd
 	exec touch books

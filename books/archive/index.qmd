@@ -2,7 +2,7 @@
 title: Archive
 description: "Catalog of previous work"
 date: 2022-03-26 13:35
-image: img/hypostatk0.png
+image: img/archive-cover.png
 ---
 
 # 3/26/22

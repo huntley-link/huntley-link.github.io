@@ -29,15 +29,15 @@
   <description><![CDATA[ Begin log of activities. ]]></description>
   <guid>https://stephen.huntley.link/books/log/index.html</guid>
   <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
-  <media:content url="https://stephen.huntley.link/books/log/img/tbang.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://stephen.huntley.link/books/log/img/log-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
-  <title>Epistles</title>
+  <title>Epistles: Intro</title>
   <link>https://stephen.huntley.link/books/epistles/index.html</link>
   <description><![CDATA[ Epistles: Essays, Communiqués and Supplications on Various Topics. ]]></description>
   <guid>https://stephen.huntley.link/books/epistles/index.html</guid>
   <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
-  <media:content url="https://stephen.huntley.link/books/epistles/img/letter-quill.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://stephen.huntley.link/books/epistles/img/epistles-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
   <title>Archive</title>
@@ -45,7 +45,7 @@
   <description><![CDATA[ Catalog of previous work. ]]></description>
   <guid>https://stephen.huntley.link/books/archive/index.html</guid>
   <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
-  <media:content url="https://stephen.huntley.link/books/archive/img/hypostatk0.png" medium="image" type="image/png" height="125" width="144"/>
+  <media:content url="https://stephen.huntley.link/books/archive/img/archive-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
   <title></title>

@@ -14,5 +14,7 @@ book:
         href: "../../index.html"
 format:
   pdf:
-    documentclass: scrbook
-    mainfont: "Latin Modern Sans"
+    documentclass: scrreprt
+    sansfont: Arial
+    mainfont: Times New Roman
+    filters: [../remove_title.lua]

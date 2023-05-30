@@ -6,7 +6,7 @@ book:
   description: "Essays, Communiqués and Supplications on Various Topics"
   author: "Stephen Huntley"
   site-url: "https://stephen.huntley.link/books/epistles"
-  cover-image: "img/letter-quill.png"
+  cover-image: "img/epistles-cover.png"
   date: "4/21/2023"
   favicon: "img/letter-quill.png"
   repo-subdir: "books/epistles"

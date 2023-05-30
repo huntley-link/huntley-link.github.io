@@ -6,4 +6,4 @@ date: 2022-03-25 14:40
 
 “I must create a system, or be enslaved by another man's.”
 
-― William Blake, Jerusalem: The Emanation of the Giant Albion
+ -- William Blake, Jerusalem: The Emanation of the Giant Albion
