@@ -15,28 +15,28 @@
 <link>https://stephen.huntley.link/blog.html</link>
 </image>
 <generator>quarto-1.3.282</generator>
-<lastBuildDate>Fri, 22 Apr 2022 17:00:00 GMT</lastBuildDate>
-<item>
-  <title></title>
-  <link>https://stephen.huntley.link/books/epistles/chapters/3_about.html</link>
-  <description><![CDATA[ The web site <a href="https://huntley-link.github.io/">huntley.link</a> is an attempt to build a writing platform whose contents can be formatted for either web or print publishing from the same source, in hopes of being able to preserve its contents for the long term by producing hard copies. By itself there’s nothing new about this aspiration, over the past fifteen years or so in particular a number of tools and workflows have been devised in pursuit of dual web/print publishing. ]]></description>
-  <guid>https://stephen.huntley.link/books/epistles/chapters/3_about.html</guid>
-  <pubDate>Fri, 22 Apr 2022 17:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Tue, 30 May 2023 19:06:49 GMT</lastBuildDate>
 <item>
   <title>Log</title>
   <link>https://stephen.huntley.link/books/log/index.html</link>
   <description><![CDATA[ Begin log of activities. ]]></description>
   <guid>https://stephen.huntley.link/books/log/index.html</guid>
-  <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
+  <pubDate>Tue, 30 May 2023 19:06:49 GMT</pubDate>
   <media:content url="https://stephen.huntley.link/books/log/img/log-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/epistles/chapters/2_system.html</link>
+  <description><![CDATA[ “I must create a system, or be enslaved by another man’s.” ]]></description>
+  <guid>https://stephen.huntley.link/books/epistles/chapters/2_system.html</guid>
+  <pubDate>Tue, 30 May 2023 19:06:49 GMT</pubDate>
 </item>
 <item>
   <title>Epistles: Intro</title>
   <link>https://stephen.huntley.link/books/epistles/index.html</link>
   <description><![CDATA[ Epistles: Essays, Communiqués and Supplications on Various Topics. ]]></description>
   <guid>https://stephen.huntley.link/books/epistles/index.html</guid>
-  <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
+  <pubDate>Tue, 30 May 2023 19:06:49 GMT</pubDate>
   <media:content url="https://stephen.huntley.link/books/epistles/img/epistles-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
@@ -44,22 +44,22 @@
   <link>https://stephen.huntley.link/books/archive/index.html</link>
   <description><![CDATA[ Catalog of previous work. ]]></description>
   <guid>https://stephen.huntley.link/books/archive/index.html</guid>
-  <pubDate>Sat, 26 Mar 2022 18:35:00 GMT</pubDate>
+  <pubDate>Tue, 30 May 2023 19:06:49 GMT</pubDate>
   <media:content url="https://stephen.huntley.link/books/archive/img/archive-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
   <title></title>
-  <link>https://stephen.huntley.link/books/epistles/chapters/2_system.html</link>
-  <description><![CDATA[ “I must create a system, or be enslaved by another man’s.” ]]></description>
-  <guid>https://stephen.huntley.link/books/epistles/chapters/2_system.html</guid>
-  <pubDate>Fri, 25 Mar 2022 19:40:00 GMT</pubDate>
+  <link>https://stephen.huntley.link/books/epistles/chapters/3_about.html</link>
+  <description><![CDATA[ The web site <a href="https://huntley-link.github.io/">huntley.link</a> is an attempt to build a writing platform whose contents can be formatted for either web or print publishing from the same source, in hopes of being able to preserve its contents for the long term by producing hard copies. By itself there’s nothing new about this aspiration, over the past fifteen years or so in particular a number of tools and workflows have been devised in pursuit of dual web/print publishing. ]]></description>
+  <guid>https://stephen.huntley.link/books/epistles/chapters/3_about.html</guid>
+  <pubDate>Mon, 15 May 2023 21:31:51 GMT</pubDate>
 </item>
 <item>
   <title></title>
   <link>https://stephen.huntley.link/books/epistles/chapters/1_what_news.html</link>
   <description><![CDATA[ What news, what news in this our tott’ring state? ]]></description>
   <guid>https://stephen.huntley.link/books/epistles/chapters/1_what_news.html</guid>
-  <pubDate>Fri, 25 Mar 2022 19:35:00 GMT</pubDate>
+  <pubDate>Mon, 15 May 2023 21:31:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

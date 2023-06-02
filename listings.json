@@ -2,22 +2,22 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/books/epistles/chapters/3_about.html",
       "/books/log/index.html",
+      "/books/epistles/chapters/2_system.html",
       "/books/epistles/index.html",
       "/books/archive/index.html",
-      "/books/epistles/chapters/2_system.html",
+      "/books/epistles/chapters/3_about.html",
       "/books/epistles/chapters/1_what_news.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/books/epistles/chapters/3_about.html",
       "/books/log/index.html",
+      "/books/epistles/chapters/2_system.html",
       "/books/epistles/index.html",
       "/books/archive/index.html",
-      "/books/epistles/chapters/2_system.html",
+      "/books/epistles/chapters/3_about.html",
       "/books/epistles/chapters/1_what_news.html"
     ]
   }
