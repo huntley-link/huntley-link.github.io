@@ -6,6 +6,34 @@ proc make_init {MAKEFILE} {
 	cd [file dir $MAKEFILE]
 }
 
+proc page_dates {} {
+	foreach page [glob books/*/*.qmd books/*/*/*.qmd books/*/*/*/*.qmd] {
+		if {[string index [file tail $page] 0] eq {_}} {continue}
+		set mtime [file mtime $page]
+		set date [lrange [lindex [split [exec git log -1 -- $page] \n] 2] 1 end-1]
+		set revcount [regexp -all -line {^commit} [exec git log -- $page]]
+		if {$date eq {}} {continue}
+		set f [open $page]
+		set pageconts [read $f]
+		close $f
+		if {[string range $pageconts 0 2] ne {---}} {
+			set pageconts \
+"---
+date: $date
+revcount: $revcount
+---
+$pageconts"
+		} else {
+			set pageconts [regsub -line {^date: .*$} $pageconts "date: $date"]
+			set pageconts [regsub -line {^revcount: .*$} $pageconts "revcount: $revcount"]
+		}
+		set f [open $page w]
+		puts -nonewline $f $pageconts
+		close $f
+		file mtime $page $mtime
+	}
+}
+
 proc book_chapters {} {
 	set qyml {.book.chapters = ["index.qmd"}
 	set qfiles [split [exec find -not -path "*/.*" -not -name "index.qmd" -name "*.qmd"] \n]
@@ -129,6 +157,7 @@ books: _site
 		} on error outcome {
 			puts $outcome
 		}
+		if {{$(OUTPUT)} ni {pdf all}} {continue}
 		set btail [file tail $book]
 		exec gs -dNOPAUSE -sDEVICE=pdfwrite -sOUTPUTFILE=../../_site/books/$btail/combined.pdf -dBATCH img/_frontmatter.pdf ../../_site/books/$btail/[string totitle $btail].pdf
 		file rename -force ../../_site/books/$btail/combined.pdf ../../_site/books/$btail/[string totitle $btail].pdf
@@ -138,6 +167,7 @@ books: _site
 
 _site: *.yml *.qmd *.css books/*/*.* books/*/*/*.*
 	@puts "Rendering site: $(PROFILE)"
+	@page_dates
 	@blog_sidebar
 	@try {
 		exec quarto render --profile {$(PROFILE)}

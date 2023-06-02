@@ -1,3 +1,4 @@
+revcount: 1
 book:
   twitter-card: true
   open-graph: true
@@ -12,6 +13,8 @@ book:
     left:
       - text: "Site Home"
         href: "../../index.html"
+  page-footer: 
+    right: "rev: {{< meta revcount >}}"
 format:
   pdf:
     documentclass: scrreprt
