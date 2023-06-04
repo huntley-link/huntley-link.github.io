@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "books/log/index.html",
-    "href": "books/log/index.html",
-    "title": "Log",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stephen Huntley",
     "section": "",
-    "text": "3/26/22\nBegin log of activities."
-  },
-  {
-    "objectID": "books/epistles/chapters/3_about.html",
-    "href": "books/epistles/chapters/3_about.html",
-    "title": "About the Web Site",
-    "section": "",
-    "text": "The web site huntley.link is an attempt to build a writing platform whose contents can be formatted for either web or print publishing from the same source, in hopes of being able to preserve its contents for the long term by producing hard copies. By itself there’s nothing new about this aspiration, over the past fifteen years or so in particular a number of tools and workflows have been devised in pursuit of dual web/print publishing.\nWhat I’m striving to produce more specifically is a matrix both for: day-to-day writing, revising, blogging, research, outlining, brainstorming and gathering feedback; and for compiling, editing and archiving a comprehensive compendium of the total creative output of my life.\nThat is, the web site is meant to be simultaneously a writing and publishing platform, and a project for producing and annotating a volume of “Complete Works” which stands ready at all times to be published in full and yet will be continually added to and improved. Thus I envision that my “Complete Works” will not be the product of a final retrospective stage of my life, but a goal always being approached asymptotically but never finally reached until I can write and work no more.\nThis vision is inspired by a desire to bridge pre-internet traditions of intellectual work into the current era in a format adapted to today’s technology and expectations. And thus to recover a portion of something valuable which seems to me to have been lost.\nI’m among the last generation whose memory, education and work experience will incorporate any of the practices, guidelines and wisdom of intellectual creation that arose and were routinely taught before the advent of personal computers and the popular embrace of the internet.\nIn times past, intellectual and creative writers created a great deal of work product: notebooks, drafts, correspondence, manuscripts, fair copies. This work product of course was and is of value to scholars; indeed creators of the past consciously collected, sorted and preserved their archives if they had any expectation of or aspiration to notability, knowing that their papers would be studied and curated. More importantly, it was valuable to the creators themselves as they worked: their papers provided a medium for review, contemplation, re-evaluation, insight, inspiration. Accumulated work product amounted to a sort of labyrinth of meditation in the medieval sense.\nBy way of illustration, the poet Percy Shelley, in his impecunious early years, was well-practiced in skipping out on debts and stiffing landlords for unpaid rent. When he later attained a more firm financial footing, he only ever repaid one bad debt: to a landlady in Wales who was holding a trunk of his notebooks and manuscripts hostage.\nThis creative resource seems now largely to have been lost.1 Who saves drafts when working with a word processor or text editor? Who among creative people has a plan to back up and preserve their work? Commercial web sites into which millions of people pour uncountable hours of creative effort disappear overnight and take everything with them. People now are deluged with email; who makes an effort to archive worthy conversations?\nIn place of the former ways, corporations that provide internet and social media services have constructed for us another sort of labyrinth, designed to work in the ancient Greek sense of a place to get permanently lost in. In order to make meaningful contact with others in our digital society we are expected to direct our creative efforts toward producing content for these services, and as we do our attention and concentration are run through their mazes and dissipated. Our movements through the labyrinth are recorded and quantified, and the statistical results are monetized for the corporations’ benefit. In the meantime we are alienated from our own creative work, our selves and our posterity denied the opportunity to develop life-long relationships with it, and with such relationships are lost the spiritual opportunities for insight and self-knowledge.\nThe web site is designed and implemented with the goal of restoring some of what has been lost. A workspace to doodle with notes, diary entries and drafts, turn drafts into manuscripts and manuscripts into books, essays, monographs and collections. A resource for scholars should there ever be interest. Most importantly a retreat and reference for a lifetime of review and reflection. Every edit and revision is saved, and the full record of revisions is part of the work, in postmodern fashion. The current provisional state of each division of the site is publishable in hard copy form, however rough it may be. The “Complete Works” is a destination always aspired to but never quite reached, but at the same time always present and accessible now.\nAs a member of the technical world that prefers to have distinct, searchable and indexible names for software concepts and tools, I’ve been using the abbreviation EDIWTB to label this toolset/workflow, which for those requiring a technically descriptive meaning I’ll claim stands for “Edit/Distribution Integration from Web Template to Binding”. But for the sake of my own literary inspiration I assign to it the mantra “Every Day I Write The Books”.\nAn experiment in simultaneous research, authoring, and digital/print publishing.\nEDIWTB is:\n“Edit/Distribution Integration from Web Template to Books”\nor\n“Every Day I Write The Book”\nThat is, as a matter of producing a lifetime’s creative output, instead of going through separate stages of doodling, inspiration, research, drafting, editing and then posting or printing of individual works or publishable volumes, I envision incorporating every day’s work into a provisional final form that is always ready for publication on the web and in print, and asymptotically approaches but never reaches the final definitive compendium of complete works that represents a life’s effort.\nThus bridging pre-and post-internet traditions of creating and distributing creative and intellectual work."
-  },
-  {
-    "objectID": "books/epistles/chapters/3_about.html#footnotes",
-    "href": "books/epistles/chapters/3_about.html#footnotes",
-    "title": "About the Web Site",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n“Mass. Scholars Lament the Lost Art of Letter Writing: Rise of Technology Has Lead to the Gradual Demise of Written Communications.”↩︎"
-  },
-  {
-    "objectID": "books/epistles/chapters/1_what_news.html",
-    "href": "books/epistles/chapters/1_what_news.html",
-    "title": "What news",
-    "section": "",
-    "text": "What news\nWhat news, what news in this our tott’ring state?"
-  },
-  {
-    "objectID": "books/epistles/chapters/2_system.html",
-    "href": "books/epistles/chapters/2_system.html",
-    "title": "System",
-    "section": "",
-    "text": "System\n“I must create a system, or be enslaved by another man’s.”\n– William Blake, Jerusalem: The Emanation of the Giant Albion"
-  },
-  {
-    "objectID": "books/epistles/index.html",
-    "href": "books/epistles/index.html",
-    "title": "Epistles: Intro",
-    "section": "",
-    "text": "3/26/22\nEpistles: Essays, Communiqués and Supplications on Various Topics."
+    "text": "Personal archive, notes and works in progress.\nEvery Day I Write The Book.\n \n  \n   \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n\n\n\n\n\n\n\n\n\nThis web site is an attempt to bring the software engineering paradigm of “Continuous Integration/Continuous Deployment” to to my personal work, be it technical, literary, epistolary, journaling, note-taking, brainstorming, indexing, archiving etc.\nMy intent is to bring together everything I’ve preserved of my past efforts and document the process of creating new stuff, in what used to be called “postmodern” fashion – showing my work and all the messy parts.\nI aspire, via this site and the Quarto publishing platform, to organize my work into volumes, which can be released in ebook and print-ready formats in continuous editions updated with every iteration of the site. Each step of the authoring, editing, compiling and publishing process will be captured and laid bare for posterity in a Github repository.\n\n\n\n\n\n\n\n\n\n\nLatest Posts:\n\n\n\n\n\n\n\n\n\n\n\nLog\n\n\nDiary of activities\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Web Site\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat news\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSystem\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArchive\n\n\nCatalog of previous work\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n\n\n\n\n\n\nBooks:\n\n\n\n\n\n\n\n\n\n\n\nArchive\n\n\nCatalog of previous work\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog\n\n\nDiary of activities\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "books/archive/index.html",
@@ -49,17 +14,45 @@
     "text": "3/26/22\nCatalog of previous work."
   },
   {
+    "objectID": "books/epistles/chapters/2_system.html",
+    "href": "books/epistles/chapters/2_system.html",
+    "title": "System",
+    "section": "",
+    "text": "System\n“I must create a system, or be enslaved by another man’s.”\n– William Blake, Jerusalem: The Emanation of the Giant Albion"
+  },
+  {
+    "objectID": "books/epistles/chapters/3_about.html",
+    "href": "books/epistles/chapters/3_about.html",
+    "title": "About the Web Site",
+    "section": "",
+    "text": "About the Web Site\nThe web site huntley.link is an attempt to build a writing platform whose contents can be formatted for either web or print publishing from the same source, in hopes of being able to preserve its contents for the long term by producing hard copies. By itself there’s nothing new about this aspiration, over the past fifteen years or so in particular a number of tools and workflows have been devised in pursuit of dual web/print publishing.\nWhat I’m striving to produce more specifically is a matrix both for: day-to-day writing, revising, blogging, research, outlining, brainstorming and gathering feedback; and for compiling, editing and archiving a comprehensive compendium of the total creative output of my life.\nThat is, the web site is meant to be simultaneously a writing and publishing platform, and a project for producing and annotating a volume of “Complete Works” which stands ready at all times to be published in full and yet will be continually added to and improved. Thus I envision that my “Complete Works” will not be the product of a final retrospective stage of my life, but a goal always being approached asymptotically but never finally reached until I can write and work no more.\nThis vision is inspired by a desire to bridge pre-internet traditions of intellectual work into the current era in a format adapted to today’s technology and expectations. And thus to recover a portion of something valuable which seems to me to have been lost.\nI’m among the last generation whose memory, education and work experience will incorporate any of the practices, guidelines and wisdom of intellectual creation that arose and were routinely taught before the advent of personal computers and the popular embrace of the internet.\nIn times past, intellectual and creative writers created a great deal of work product: notebooks, drafts, correspondence, manuscripts, fair copies. This work product of course was and is of value to scholars; indeed creators of the past consciously collected, sorted and preserved their archives if they had any expectation of or aspiration to notability, knowing that their papers would be studied and curated. More importantly, it was valuable to the creators themselves as they worked: their papers provided a medium for review, contemplation, re-evaluation, insight, inspiration. Accumulated work product amounted to a sort of labyrinth of meditation in the medieval sense.\nBy way of illustration, the poet Percy Shelley, in his impecunious early years, was well-practiced in skipping out on debts and stiffing landlords for unpaid rent. When he later attained a more firm financial footing, he only ever repaid one bad debt: to a landlady in Wales who was holding a trunk of his notebooks and manuscripts hostage.\nThis creative resource seems now largely to have been lost.1 Who saves drafts when working with a word processor or text editor? Who among creative people has a plan to back up and preserve their work? Commercial web sites into which millions of people pour uncountable hours of creative effort disappear overnight and take everything with them. People now are deluged with email; who makes an effort to archive worthy conversations?\nIn place of the former ways, corporations that provide internet and social media services have constructed for us another sort of labyrinth, designed to work in the ancient Greek sense of a place to get permanently lost in. In order to make meaningful contact with others in our digital society we are expected to direct our creative efforts toward producing content for these services, and as we do our attention and concentration are run through their mazes and dissipated. Our movements through the labyrinth are recorded and quantified, and the statistical results are monetized for the corporations’ benefit. In the meantime we are alienated from our own creative work, our selves and our posterity denied the opportunity to develop life-long relationships with it, and with such relationships are lost the spiritual opportunities for insight and self-knowledge.\nThe web site is designed and implemented with the goal of restoring some of what has been lost. A workspace to doodle with notes, diary entries and drafts, turn drafts into manuscripts and manuscripts into books, essays, monographs and collections. A resource for scholars should there ever be interest. Most importantly a retreat and reference for a lifetime of review and reflection. Every edit and revision is saved, and the full record of revisions is part of the work, in postmodern fashion. The current provisional state of each division of the site is publishable in hard copy form, however rough it may be. The “Complete Works” is a destination always aspired to but never quite reached, but at the same time always present and accessible now.\nAs a member of the technical world that prefers to have distinct, searchable and indexible names for software concepts and tools, I’ve been using the abbreviation EDIWTB to label this toolset/workflow, which for those requiring a technically descriptive meaning I’ll claim stands for “Edit/Distribution Integration from Web Template to Binding”. But for the sake of my own literary inspiration I assign to it the mantra “Every Day I Write The Books”.\nAn experiment in simultaneous research, authoring, and digital/print publishing.\nEDIWTB is:\n“Edit/Distribution Integration from Web Template to Books”\nor\n“Every Day I Write The Book”\nThat is, as a matter of producing a lifetime’s creative output, instead of going through separate stages of doodling, inspiration, research, drafting, editing and then posting or printing of individual works or publishable volumes, I envision incorporating every day’s work into a provisional final form that is always ready for publication on the web and in print, and asymptotically approaches but never reaches the final definitive compendium of complete works that represents a life’s effort.\nThus bridging pre-and post-internet traditions of creating and distributing creative and intellectual work.\n\n\n\n\n\n\n“Mass. Scholars Lament the Lost Art of Letter Writing: Rise of Technology Has Lead to the Gradual Demise of Written Communications.”↩︎"
+  },
+  {
+    "objectID": "books/log/index.html",
+    "href": "books/log/index.html",
+    "title": "Log",
+    "section": "",
+    "text": "3/26/22\nBegin log of activities."
+  },
+  {
+    "objectID": "books/epistles/chapters/1_what_news.html",
+    "href": "books/epistles/chapters/1_what_news.html",
+    "title": "What news",
+    "section": "",
+    "text": "What news\nWhat news, what news in this our tott’ring state?"
+  },
+  {
+    "objectID": "books/epistles/index.html",
+    "href": "books/epistles/index.html",
+    "title": "Epistles: Intro",
+    "section": "",
+    "text": "3/26/22\nEpistles: Essays, Communiqués and Supplications on Various Topics."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Entries",
     "section": "",
-    "text": "Log\n\n\n\n\n\nDiary of activities\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSystem\n\n\n\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\nArchive\n\n\n\n\n\nCatalog of previous work\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAbout the Web Site\n\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWhat news\n\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Stephen Huntley",
-    "section": "",
-    "text": "Personal archive, notes and works in progress.\nEvery Day I Write The Book.\n \n  \n   \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n\n\n\n\n\n\n\n\n\nThis web site is an attempt to bring the software engineering paradigm of “Continuous Integration/Continuous Deployment” to to my personal work, be it technical, literary, epistolary, journaling, note-taking, brainstorming, indexing, archiving etc.\nMy intent is to bring together everything I’ve preserved of my past efforts and document the process of creating new stuff, in what used to be called “postmodern” fashion – showing my work and all the messy parts.\nI aspire, via this site and the Quarto publishing platform, to organize my work into volumes, which can be released in ebook and print-ready formats in continuous editions updated with every iteration of the site. Each step of the authoring, editing, compiling and publishing process will be captured and laid bare for posterity in a Github repository.\n\n\n\n\n\n\n\n\n\n\nLatest Posts:\n\n\n\n\n\n\n\n\n\n\n\nLog\n\n\nDiary of activities\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSystem\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArchive\n\n\nCatalog of previous work\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout the Web Site\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat news\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n\n\n\n\n\n\nBooks:\n\n\n\n\n\n\n\n\n\n\n\nArchive\n\n\nCatalog of previous work\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLog\n\n\nDiary of activities\n\n\n\n\n\n\nMay 30, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Log\n\n\n\n\n\nDiary of activities\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAbout the Web Site\n\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWhat news\n\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSystem\n\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nEpistles: Intro\n\n\n\n\n\n\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nArchive\n\n\n\n\n\nCatalog of previous work\n\n\n\n\n\n\nJun 2, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
