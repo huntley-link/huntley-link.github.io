@@ -1,24 +1,24 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/books/log/index.html",
-      "/books/epistles/chapters/2_system.html",
-      "/books/epistles/index.html",
-      "/books/archive/index.html",
-      "/books/epistles/chapters/3_about.html",
-      "/books/epistles/chapters/1_what_news.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/books/log/index.html",
+      "/books/epistles/chapters/3_about.html",
+      "/books/epistles/chapters/1_what_news.html",
       "/books/epistles/chapters/2_system.html",
       "/books/epistles/index.html",
-      "/books/archive/index.html",
+      "/books/archive/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/books/log/index.html",
       "/books/epistles/chapters/3_about.html",
-      "/books/epistles/chapters/1_what_news.html"
+      "/books/epistles/chapters/1_what_news.html",
+      "/books/epistles/chapters/2_system.html",
+      "/books/epistles/index.html",
+      "/books/archive/index.html"
     ]
   }
 ]

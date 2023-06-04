@@ -36,13 +36,6 @@ title-block-banner-color: rgb(55, 58, 60)
 
 #quarto-content {border-top: 1px solid #dee2e6;}
 
-@media(max-width: 991.98px) {
- body.nav-sidebar .quarto-title-banner,
- body.nav-sidebar .quarto-title-banner {
-  display:grid
- }
-}
-
 div.metadata {margin-left: 1em;}
 
 footer {border-top: 1px solid #dee2e6;}

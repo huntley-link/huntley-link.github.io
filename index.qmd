@@ -91,8 +91,8 @@ a.about-link {
 	border-top: 1px solid #dee2e6;
 }
 
-img.card-img {
-    object-fit: contain
+.quarto-grid-item p.card-img-top>img {
+	object-fit: contain;
 }
 
 .card {border: 2px solid rgba(0,0,0,.125)}

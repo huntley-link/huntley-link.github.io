@@ -1,8 +1,8 @@
 ---
 title: "Epistles: Intro"
-date: Tue May 30 14:06:49 2023
+date: Fri Jun 2 18:10:50 2023
 image: img/epistles-cover.png
-revcount: 8
+revcount: 9
 ---
 
 # 3/26/22

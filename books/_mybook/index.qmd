@@ -1,7 +1,7 @@
 ---
 title: Log
 description: "Diary of activities"
-date: Mon May 15 16:31:51 2023
+date: Fri Jun 2 18:10:50 2023
 image: img/tbang.png
 ---
 
