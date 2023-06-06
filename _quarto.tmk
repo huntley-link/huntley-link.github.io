@@ -9,11 +9,13 @@ proc make_init {MAKEFILE} {
 proc page_dates {} {
 	foreach page [glob books/*/*.qmd books/*/*/*.qmd books/*/*/*/*.qmd] {
 		if {[string index [file tail $page] 0] eq {_}} {continue}
-		if {![catch {git diff --quiet $page}]} {continue}
+		if {![catch {exec git diff --quiet $page}]} {continue}
 		set mtime [file mtime $page]
-		set date [lrange [lindex [split [exec git log -1 -- $page] \n] 2] 1 end-1]
+		#set date [lrange [lindex [split [exec git log -1 -- $page] \n] 2] 1 end-1]
+		set date [clock format $mtime -gmt 1]
 		set revcount [regexp -all -line {^commit} [exec git log -- $page]]
-		if {$date eq {}} {continue}
+		incr revcount
+		#if {$date eq {}} {continue}
 		set f [open $page]
 		set pageconts [read $f]
 		close $f
@@ -25,7 +27,9 @@ revcount: $revcount
 ---
 $pageconts"
 		} else {
-			set pageconts [regsub -line {^date: .*$} $pageconts "date: $date"]
+			if {[string first {/fixdat/} $page] < 0} {
+				set pageconts [regsub -line {^date: .*$} $pageconts "date: $date"]
+			}
 			set pageconts [regsub -line {^revcount: .*$} $pageconts "revcount: $revcount"]
 		}
 		set f [open $page w]
