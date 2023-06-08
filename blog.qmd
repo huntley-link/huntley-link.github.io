@@ -14,7 +14,7 @@ title-block-banner: "#e1eef9"
 title-block-banner-color: rgb(55, 58, 60)
 ---
 
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 <style>
 .navbar {
 	border-bottom: 1px solid #dee2e6

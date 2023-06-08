@@ -39,7 +39,7 @@ listing:
     image-placeholder: /img/HLicon.png
 ---
 
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 <style>
 main>div>div>header>div>h1.title {
   font-family: Alice, Georgia, serif;

@@ -20,8 +20,8 @@ website:
       - icon: rss
         href: blog.xml
     left:
-      - href: index.qmd
-        text: Home
+      - href: /books/epistles/chapters/3_about.html
+        text: About
       - text: Blog
         href: blog.qmd
       - text: Books
