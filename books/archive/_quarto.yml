@@ -21,7 +21,6 @@ format:
     number-sections: false
     embed-resources: false
   pdf:
-    documentclass: scrreprt
     number-sections: false
 metadata-files:
   - "../_books.yml"

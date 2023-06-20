@@ -40,3 +40,5 @@ format:
     sansfont: Arial
     mainfont: Times New Roman
     filters: [../remove_title.lua]
+    include-in-header: [../preamble.tex]
+    include-before-body: [../first.tex]
