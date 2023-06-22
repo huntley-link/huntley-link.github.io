@@ -1,15 +1,16 @@
 ---
-date: Fri Jun 2 18:10:50 2023
-revcount: 2
+date: Thu Jun 22 17:31:05 GMT 2023
+revcount: 4
 ---
 # About the Web Site
 
-The web site [huntley.link](https://huntley-link.github.io/) is an attempt to
-build a writing platform whose contents can be formatted for either web or print
-publishing from the same source, in hopes of being able to preserve its contents
-for the long term by producing hard copies.  By itself there's nothing new about
-this aspiration, over the past fifteen years or so in particular a number of
-tools and workflows have been devised in pursuit of dual web/print publishing.
+The web site at **stephen.huntley.link**^[<https://stephen.huntley.link>] is an
+attempt to build a writing platform whose contents can be formatted for either
+web or print publishing from the same source, in hopes of being able to preserve
+its contents for the long term by producing hard copies.  By itself there's
+nothing new about this aspiration, over the past fifteen years or so in
+particular a number of tools and workflows have been devised in pursuit of dual
+web/print publishing.
 
 What I'm striving to produce more specifically is a matrix both for: day-to-day
 writing, revising, blogging, research, outlining, brainstorming and gathering
@@ -109,4 +110,4 @@ that represents a life's effort.
 Thus bridging pre-and post-internet traditions of creating and distributing
 creative and intellectual work.
 
-[^1]: [“Mass. Scholars Lament the Lost Art of Letter Writing: Rise of Technology Has Lead to the Gradual Demise of Written Communications.”](https://www.thefreelibrary.com/Mass.+scholars+lament+the+lost+art+of+letter+writing%3A+rise+of%E2%80%A6-a0366082761)
+[^1]: “Local literary scholars lament the lost art of letter writing” <https://web.archive.org/web/20230622165727/https://www.telegram.com/story/news/local/south-west/2014/03/15/local-literary-scholars-lament-lost/38148460007/>

@@ -1,0 +1,11 @@
+# Book Club:
+
+\hspace{0pt}
+\vfill
+
+In early 2023 I joined a book club, focused on the
+classics.^[<https://web.archive.org/web/20220523031332/https://www.meetup.com/1001books/>]
+Below are my thoughts on some of the books read.
+
+\vfill
+\hspace{0pt}

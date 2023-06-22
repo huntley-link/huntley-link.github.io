@@ -3,7 +3,6 @@ project:
   output-dir: "../../_site/books/epistles"
 book:
   title: "Epistles"
-  description: "Essays, Communiqués and Supplications on Various Topics"
   author: "Stephen Huntley"
   site-url: "https://stephen.huntley.link/books/epistles"
   cover-image: "img/epistles-cover.png"
@@ -14,9 +13,14 @@ book:
     title: "Epistles"
   chapters:
     - index.qmd
-    - chapters/1_what_news.qmd
-    - chapters/2_system.qmd
     - chapters/3_about.qmd
+    - part: parts/bookclub.qmd
+      chapters:
+        - chapters/goodbyeberlin.qmd
+    - part: "Ephemera:"
+      chapters:
+        - chapters/1_what_news.qmd
+        - chapters/2_system.qmd
 bibliography: Epistles.bib
 format:
   html:

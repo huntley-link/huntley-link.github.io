@@ -1,3 +1,6 @@
+\usepackage[perpage]{footmisc}
 \usepackage{pdfpages}
 \usepackage{atbegshi}% http://ctan.org/pkg/atbegshi
+\addtokomafont{partentry}{\emph}
+\addtokomafont{partentrypagenumber}{\nullfont}
 \AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}} % Discard next blank page
