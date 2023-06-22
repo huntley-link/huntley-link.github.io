@@ -2,9 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/books/epistles/chapters/goodbyeberlin.html",
+      "/books/epistles/parts/bookclub.html",
       "/books/epistles/index.html",
-      "/books/log/index.html",
       "/books/epistles/chapters/3_about.html",
+      "/books/log/index.html",
       "/books/epistles/chapters/1_what_news.html",
       "/books/epistles/chapters/2_system.html",
       "/books/archive/index.html"
@@ -13,9 +15,11 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/books/epistles/chapters/goodbyeberlin.html",
+      "/books/epistles/parts/bookclub.html",
       "/books/epistles/index.html",
-      "/books/log/index.html",
       "/books/epistles/chapters/3_about.html",
+      "/books/log/index.html",
       "/books/epistles/chapters/1_what_news.html",
       "/books/epistles/chapters/2_system.html",
       "/books/archive/index.html"

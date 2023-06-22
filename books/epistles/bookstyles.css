@@ -9,3 +9,5 @@
 }
 
 .home-desc {display:none}
+
+div>a>span.menu-text {font-weight: bold}
