@@ -3,26 +3,32 @@
     "listing": "/index.html",
     "items": [
       "/books/epistles/chapters/goodbyeberlin.html",
-      "/books/epistles/parts/bookclub.html",
-      "/books/epistles/index.html",
-      "/books/epistles/chapters/3_about.html",
+      "/books/archive/index.html",
       "/books/log/index.html",
+      "/books/epistles/index.html",
+      "/books/epistles/parts/bookclub.html",
+      "/books/epistles/chapters/3_about.html",
+      "/books/log/book.html",
+      "/books/epistles/book.html",
+      "/books/archive/book.html",
       "/books/epistles/chapters/1_what_news.html",
-      "/books/epistles/chapters/2_system.html",
-      "/books/archive/index.html"
+      "/books/epistles/chapters/2_system.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
       "/books/epistles/chapters/goodbyeberlin.html",
-      "/books/epistles/parts/bookclub.html",
-      "/books/epistles/index.html",
-      "/books/epistles/chapters/3_about.html",
+      "/books/archive/index.html",
       "/books/log/index.html",
+      "/books/epistles/index.html",
+      "/books/epistles/parts/bookclub.html",
+      "/books/epistles/chapters/3_about.html",
+      "/books/log/book.html",
+      "/books/epistles/book.html",
+      "/books/archive/book.html",
       "/books/epistles/chapters/1_what_news.html",
-      "/books/epistles/chapters/2_system.html",
-      "/books/archive/index.html"
+      "/books/epistles/chapters/2_system.html"
     ]
   }
 ]

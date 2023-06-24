@@ -15,13 +15,44 @@
 <link>https://stephen.huntley.link/blog.html</link>
 </image>
 <generator>quarto-1.4.128</generator>
-<lastBuildDate>Thu, 22 Jun 2023 18:55:28 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jun 2023 06:08:31 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/epistles/chapters/goodbyeberlin.html</link>
+  <description><![CDATA[ <em>Book Club June 18, 2023</em> ]]></description>
+  <guid>https://stephen.huntley.link/books/epistles/chapters/goodbyeberlin.html</guid>
+  <pubDate>Sat, 24 Jun 2023 06:08:31 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/archive/index.html</link>
+  <description><![CDATA[ Catalog of previous work. ]]></description>
+  <guid>https://stephen.huntley.link/books/archive/index.html</guid>
+  <pubDate>Fri, 23 Jun 2023 15:27:16 GMT</pubDate>
+  <media:content url="https://stephen.huntley.link/books/archive/img/archive-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/log/index.html</link>
+  <description><![CDATA[ Diary of current activities. ]]></description>
+  <guid>https://stephen.huntley.link/books/log/index.html</guid>
+  <pubDate>Fri, 23 Jun 2023 15:26:29 GMT</pubDate>
+  <media:content url="https://stephen.huntley.link/books/log/img/log-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
 <item>
   <title></title>
   <link>https://stephen.huntley.link/books/epistles/index.html</link>
   <description><![CDATA[ Essays, Communiqués and Supplications on Various Topics. ]]></description>
   <guid>https://stephen.huntley.link/books/epistles/index.html</guid>
-  <pubDate>Thu, 22 Jun 2023 18:55:28 GMT</pubDate>
+  <pubDate>Fri, 23 Jun 2023 07:07:03 GMT</pubDate>
+  <media:content url="https://stephen.huntley.link/books/epistles/img/epistles-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/epistles/parts/bookclub.html</link>
+  <description><![CDATA[ In early 2023 I joined a book club, focused on the classics.<sup>1</sup> Below are my thoughts on some of the books read. ]]></description>
+  <guid>https://stephen.huntley.link/books/epistles/parts/bookclub.html</guid>
+  <pubDate>Fri, 23 Jun 2023 05:17:56 GMT</pubDate>
 </item>
 <item>
   <title></title>
@@ -31,12 +62,28 @@
   <pubDate>Thu, 22 Jun 2023 17:31:05 GMT</pubDate>
 </item>
 <item>
-  <title>Log</title>
-  <link>https://stephen.huntley.link/books/log/index.html</link>
-  <description><![CDATA[ Begin log of activities. ]]></description>
-  <guid>https://stephen.huntley.link/books/log/index.html</guid>
-  <pubDate>Thu, 08 Jun 2023 18:58:13 GMT</pubDate>
+  <title></title>
+  <link>https://stephen.huntley.link/books/log/book.html</link>
+  <description><![CDATA[ Diary of current activities. ]]></description>
+  <guid>https://stephen.huntley.link/books/log/book.html</guid>
+  <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
   <media:content url="https://stephen.huntley.link/books/log/img/log-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/epistles/book.html</link>
+  <description><![CDATA[ Essays, Communiqués and Supplications on Various Topics. ]]></description>
+  <guid>https://stephen.huntley.link/books/epistles/book.html</guid>
+  <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://stephen.huntley.link/books/epistles/img/epistles-cover.png" medium="image" type="image/png" height="186" width="144"/>
+</item>
+<item>
+  <title></title>
+  <link>https://stephen.huntley.link/books/archive/book.html</link>
+  <description><![CDATA[ Catalog of previous work. ]]></description>
+  <guid>https://stephen.huntley.link/books/archive/book.html</guid>
+  <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://stephen.huntley.link/books/archive/img/archive-cover.png" medium="image" type="image/png" height="186" width="144"/>
 </item>
 <item>
   <title></title>
@@ -51,28 +98,6 @@
   <description><![CDATA[ “I must create a system, or be enslaved by another man’s.” ]]></description>
   <guid>https://stephen.huntley.link/books/epistles/chapters/2_system.html</guid>
   <pubDate>Fri, 02 Jun 2023 23:10:50 GMT</pubDate>
-</item>
-<item>
-  <title>Archive</title>
-  <link>https://stephen.huntley.link/books/archive/index.html</link>
-  <description><![CDATA[ Catalog of previous work. ]]></description>
-  <guid>https://stephen.huntley.link/books/archive/index.html</guid>
-  <pubDate>Fri, 02 Jun 2023 23:10:50 GMT</pubDate>
-  <media:content url="https://stephen.huntley.link/books/archive/img/archive-cover.png" medium="image" type="image/png" height="186" width="144"/>
-</item>
-<item>
-  <title></title>
-  <link>https://stephen.huntley.link/books/epistles/chapters/goodbyeberlin.html</link>
-  <description><![CDATA[ <em>Book Club June 18, 2023</em> ]]></description>
-  <guid>https://stephen.huntley.link/books/epistles/chapters/goodbyeberlin.html</guid>
-  <pubDate>Thu, 22 Jun 2023 19:24:33 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://stephen.huntley.link/books/epistles/parts/bookclub.html</link>
-  <description><![CDATA[ In early 2023 I joined a book club, focused on the classics.<sup>1</sup> Below are my thoughts on some of the books read. ]]></description>
-  <guid>https://stephen.huntley.link/books/epistles/parts/bookclub.html</guid>
-  <pubDate>Thu, 22 Jun 2023 19:24:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
