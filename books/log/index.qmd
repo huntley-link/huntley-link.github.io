@@ -1,11 +1,11 @@
 ---
-title: Log
-description: "Diary of current activities"
-date: Thu Jun 08 18:58:13 GMT 2023
+date: Fri Jun 23 15:26:29 GMT 2023
+revcount: 9
 image: img/log-cover.png
-revcount: 8
 ---
+\setcounter{page}{1}
+\pagenumbering{arabic}
 
-# 3/26/22
+# Aim and Purpose
 
-Begin log of activities.
+Diary of current activities.

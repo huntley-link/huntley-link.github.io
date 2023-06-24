@@ -1,5 +1,10 @@
+---
+date: Fri Jun 23 05:17:56 GMT 2023
+revcount: 2
+---
 # Book Club:
 
+\setcounter{footnote}{0}
 \hspace{0pt}
 \vfill
 

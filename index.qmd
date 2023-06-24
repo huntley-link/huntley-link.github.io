@@ -28,7 +28,7 @@ listing:
     image-placeholder: /img/HLicon.png
   - id: books-listing
     contents:
-      - books/*/index.qmd
+      - books/*/book.md
     sort: "date desc"
     type: grid
     categories: false

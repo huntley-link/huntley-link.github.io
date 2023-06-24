@@ -1,6 +1,7 @@
 ---
-date: Thu Jun 22 18:55:28 GMT 2023
-revcount: 12
+date: Fri Jun 23 07:07:03 GMT 2023
+revcount: 13
+image: img/epistles-cover.png
 ---
 \setcounter{page}{1}
 \pagenumbering{arabic}
