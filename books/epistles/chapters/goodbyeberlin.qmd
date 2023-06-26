@@ -1,6 +1,7 @@
 ---
-date: Sat Jun 24 06:08:31 GMT 2023
-revcount: 2
+date: Mon Jun 26 07:53:16 GMT 2023
+revcount: 3
+image: img/isherwood.jpg
 ---
 # Goodbye to Berlin
 
@@ -9,6 +10,14 @@ revcount: 2
 *Book Club June 18, 2023*
 
 ---
+
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 *Goodbye to Berlin* reads as a tenuously connected series of character sketches 
 and anecdotes, collected by the author during his years in the city at the end 
@@ -20,6 +29,16 @@ Isherwood's tone generally ranges from bemused detachment to mild disdain, and
 sometimes to outright alienation, as the first page contains the well-known 
 passage: "I am a camera with its shutter open, quite passive, recording, not 
 thinking."
+
+::: {.content-visible when-format="html"}
+![](img/isherwood.jpg){width=20% .center}
+:::
+
+::: {.content-visible when-format="pdf"}
+\begin{center}
+\includegraphics[width=0.2\textwidth,height=\textheight]{chapters/img/isherwood.jpg}
+\end{center}
+:::
 
 But as he is poised at his window, depicting himself as a passive observer, in 
 the very next paragraph he relates how young men come down his street in the 
@@ -174,9 +193,26 @@ imagine photographic reality in its proper proportion, as something distinct
 from him and his personal identity and feelings, which are as real to him now 
 as what the camera shows:
 
-> I catch sight of my face in the mirror of a shop, and am shocked to see that 
-  I am smiling... The trams are going up and down the Kleiststrasse, just as 
-  usual. They, and the people on the pavement, and the teacosy dome of the 
+> I catch sight of my face in the mirror of a shop, and am shocked[^2] to see 
+  that I am smiling... The trams are going up and down the Kleiststrasse, just 
+  as usual. They, and the people on the pavement, and the teacosy dome of the 
   Nollendorfplatz station have an air of curious familiarity, of striking 
   resemblance to something one remembers as normal and pleasant in the past -- 
   like a very good photograph.
+
+[^2]: I made a strange and somewhat disturbing discovery when checking this 
+quote at an online source. The word "shocked" is replaced by "horrified" in all 
+editions I could find but one: The New Directions Publishing edition of 1963, a 
+reprint of which I have owned for many years. This edition is "my" *Goodbye to 
+Berlin*, and now I find it is in its own way unique, a mutant, a *lusus 
+naturae*. The Internet Archive let me check editions from 1954 to the present, 
+and all the others contain the latter word. It's disturbing because in a tale of 
+rising fascism it seems Orwellian to change a text, even though to no evident 
+purpose. Also disturbing because substituting this single word changes the tenor 
+of the ending, and thus of the entire novel. One can be positively or 
+negatively "shocked," thus the word here suggests that Isherwood may be 
+pleasantly surprised by the changes that have been wrought in him. But 
+"horrified" only goes one way. The word suggests a much darker and more confused 
+psyche in the narrator as the text ends. I can't fathom why such a change would 
+have been made. Regrettably I don't have the energy or eyesight to check 
+exhaustively in what other ways this edition may differ from the others.
