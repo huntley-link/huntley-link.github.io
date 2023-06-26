@@ -11,3 +11,8 @@
 .home-desc {display:none}
 
 div>a>span.menu-text {font-weight: bold}
+
+.blockquote {
+	color:var(--bs-body-color);
+	border-left-color: rgb(255, 255, 255);
+}
