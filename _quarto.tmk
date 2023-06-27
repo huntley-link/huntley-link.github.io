@@ -55,7 +55,7 @@ proc book_chapters {} {
 }
 
 proc blog_sidebar {} {
-	foreach qf [glob -noc */*/*.qmd */*/*/*.qmd] {
+	foreach qf [glob -noc */*/*.qmd */*/*.md */*/*/*.qmd] {
 		set qdir [file tail [file dir $qf]]
 		if {[string index $qdir 0] eq {_}} {continue}
 		set f [open $qf]
