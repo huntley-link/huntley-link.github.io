@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.128">
+<meta name="generator" content="quarto-1.4.217">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../bookstyles.css">
 <meta property="og:title" content="Epistles - Book Club:">
 <meta property="og:description" content="">
-<meta property="og:site-name" content="Epistles">
+<meta property="og:site_name" content="Epistles">
 <meta name="twitter:title" content="Epistles - Book Club:">
 <meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
@@ -139,9 +139,9 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../parts/bookclub.html">Book Club:</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <a class="flex-grow-1 no-decor" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+          <h1 class="quarto-secondary-nav-title">Book Club:</h1>
+        </a>     
     </div>
   </nav>
 </header>
@@ -173,6 +173,11 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/goodbyeberlin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Goodbye to Berlin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/mementomori.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Memento Mori</span></a>
   </div>
 </li>
       </ul>
@@ -211,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Book Club:</h1>
+<h1 class="title d-none d-lg-block">Book Club:</h1>
 </div>
 
 
@@ -401,7 +406,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           const parser = new DOMParser();
           const htmlDoc = parser.parseFromString(html, "text/html");
           const note = htmlDoc.getElementById(id);
-          console.log(htmlDoc.body.innerHTML);
           if (note !== null) {
             const html = processXRef(id, note);
             instance.setContent(html);
@@ -578,6 +582,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+
 
 
 
