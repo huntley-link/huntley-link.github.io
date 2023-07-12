@@ -1,6 +1,6 @@
 ---
-date: Tue Jun 27 01:37:11 GMT 2023
-revcount: 4
+date: Wed Jul 12 16:43:46 GMT 2023
+revcount: 5
 image: img/isherwood.jpg
 ---
 # Goodbye to Berlin
@@ -22,16 +22,9 @@ sometimes to outright alienation, as the first page contains the well-known
 passage: "I am a camera with its shutter open, quite passive, recording, not 
 thinking."
 
-::: {.content-visible when-format="html"}
 <style>.figure-caption {text-align:center}</style>
-![Christopher Isherwood](img/isherwood.jpg){width=20%}
-:::
-
-::: {.content-visible when-format="pdf"}
-\begin{center}
-\includegraphics[width=0.2\textwidth,height=\textheight]{chapters/img/isherwood.jpg}\\[1mm]{Christopher Isherwood}
-\end{center}
-:::
+\captionsetup[figure]{labelformat=empty}
+![Christopher Isherwood](img/isherwood.jpg){width=20% fig-align="center"}
 
 But as he is poised at his window, depicting himself as a passive observer, in 
 the very next paragraph he relates how young men come down his street in the 
@@ -167,6 +160,7 @@ his paralysis and leave Berlin in pursuit of an authentic life.  On the eve of
 leaving, he visits a cabaret with his friend Fritz. As they leave they 
 encounter a party of rowdy young Americans:
 
+<i>
 
 |    "Say," he asked Fritz, "what's on here?"
 |    "Men dressed as women," Fritz grinned.
@@ -178,7 +172,8 @@ encounter a party of rowdy young Americans:
      me.
 |    "Yes," I said, "very queer indeed."
 
- 
+</i>
+
 On the first page of the novel Isherwood describes himself as a camera, a 
 mechanism, recording only the surface features of life without 
 evident capacity for introspection.  On the last page he is able to 
@@ -194,19 +189,19 @@ as what the camera shows:
   like a very good photograph.
 
 [^2]: I made a strange and somewhat disturbing discovery when checking this 
-quote at an online source. The word "shocked" is replaced by "horrified" in all 
-editions I could find but one: The New Directions Publishing edition of 1963, a 
-reprint of which I have owned for many years. This edition is "my" *Goodbye to 
-Berlin*, and now I find it is in its own way unique, a mutant, a *lusus 
-naturae*. The Internet Archive let me check editions from 1954 to the present, 
-and all the others contain the latter word. It's disturbing because in a tale of 
-rising fascism it seems Orwellian to change a text, to amend its history 
-silently, even if it be to no evident purpose. Also disturbing because 
-substituting this single word changes the tenor of the ending, and thus of the 
-entire novel. One can be positively or negatively "shocked," thus the word here 
-suggests that Isherwood may be pleasantly surprised by the changes that have 
-been wrought in him. But "horrified" only goes one way. The word suggests a 
-much darker and more confused psyche in the narrator as the text ends. I can't 
-fathom why such a change would have been made. Regrettably I don't have the 
-energy or eyesight to check exhaustively in what other ways this edition may 
-differ from the others.
+quote at an online source. Instead of "shocked", the word "horrified" is used 
+in all editions of the novel I could find but one: The New Directions 
+Publishing edition of 1963, a reprint of which I have owned for many years. This 
+edition is "my" *Goodbye to Berlin*, and now I find it is in its own way unique, 
+a mutant, a *lusus naturae*. The Internet Archive let me check editions from 
+1954 to the present, and all the others contain the latter word. It's disturbing 
+because in a tale of rising fascism it seems Orwellian to change a text, to 
+amend its history silently, even if it be to no evident purpose. Also disturbing 
+because substituting this single word changes the tenor of the ending, and thus 
+of the entire novel. One can be positively or negatively "shocked," thus the 
+word here suggests that Isherwood may be pleasantly surprised by the changes 
+that have been wrought in him. But "horrified" only goes one way. The word 
+suggests a much darker and more confused psyche in the narrator as the text 
+ends. I can't fathom why such a change would have been made. Regrettably I don't 
+have the energy or eyesight to check exhaustively in what other ways this 
+edition may differ from the others.

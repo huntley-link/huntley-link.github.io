@@ -14,6 +14,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/stephen-huntley-03420a1a
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/stephen.e.huntley/
 listing:
   - id: hero-listing
     contents: books

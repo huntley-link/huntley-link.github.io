@@ -17,6 +17,7 @@ book:
     - part: parts/bookclub.qmd
       chapters:
         - chapters/goodbyeberlin.qmd
+        - chapters/mementomori.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd

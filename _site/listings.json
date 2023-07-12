@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/books/epistles/chapters/goodbyeberlin.html",
+      "/books/epistles/chapters/mementomori.html",
       "/books/archive/index.html",
       "/books/log/index.html",
       "/books/epistles/index.html",
@@ -19,6 +20,7 @@
     "listing": "/blog.html",
     "items": [
       "/books/epistles/chapters/goodbyeberlin.html",
+      "/books/epistles/chapters/mementomori.html",
       "/books/archive/index.html",
       "/books/log/index.html",
       "/books/epistles/index.html",

@@ -15,4 +15,9 @@ div>a>span.menu-text {font-weight: bold}
 .blockquote {
 	color:var(--bs-body-color);
 	border-left-color: rgb(255, 255, 255);
+	font-style: italic;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+ display:none;
 }

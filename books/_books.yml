@@ -13,6 +13,7 @@ book:
   repo-actions: [source]
   downloads: pdf
   sharing: [twitter, facebook, linkedin]
+  bread-crumbs: false
   navbar:
     background: light
     logo: "img/HLicon.png"
