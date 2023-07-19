@@ -1,5 +1,4 @@
-OUTPUT = html
-PROFILE = 
+OUTPUT = all
 MAKE_INIT = make_init {${MAKEFILE}}
 
 proc make_init {MAKEFILE} {
@@ -168,15 +167,97 @@ books: _site
 	}
 	@cd $pwd
 	exec touch books
+	
+--site-hash :
+	@file delete {*}[glob -noc qhash_*]
+	@set hash [string range [exec tar cf - --mtime=./_quarto.yml --sort=name --exclude=_metadata.yml --exclude=_site --exclude=.git --exclude=.quarto --exclude=_extensions --exclude=./books/pdfcache . | sha1sum] 0 9]
+	@puts sitehash:$hash
+	@if {[file isfile _site/qhash_$hash]} {
+		MAKE_UPDATE {$!} 0
+	} else {
+		close [set f [open qhash_$hash w]]
+	}
 
-_site: *.yml *.qmd *.css books/*/*.* books/*/*/*.*
-	@puts "Rendering site: $(PROFILE)"
+_site: --site-hash
+	@puts "Rendering site:"
 	@page_dates
 	@blog_sidebar
+	@set hash [string range [glob -noc qhash_*] end-9 end]
 	@try {
-		exec quarto render --profile {$(PROFILE)}
+		exec quarto render
+	} on error {outcome opts} {
+		puts $outcome
+		if {[dict get $opts -errorcode] eq {NONE}} {
+			close [set f [open _site/qhash_$hash w]]
+		}
+	}
+
+--book-hash :
+	@puts "--book-hash $!:"
+	@set output {$(OUTPUT)}
+	@namespace eval ::book {}
+	@set book [file tail {$!}]
+	cd books
+	@if {$output eq {all}} {
+		set output {html pdf}
+	}
+	@set html 0 ; set pdf 0
+	@foreach OUTPUT $output {
+		switch $OUTPUT {
+			html {
+				set html 1
+				set hash [string range [exec tar cf - --mtime=./_books.yml --sort=name --exclude=.quarto $book _bookstyles.css _books.yml | sha1sum] 0 9]
+				puts htmlbookhash:$hash
+				set ::book::htmlhash $hash
+				if {[file isfile ../_site/books/$book/qhash_$hash]} {
+					set html 0
+				}
+			}
+			pdf {
+				set pdf 1
+				set hash [string range [exec tar cf - --mtime=./_books.yml --sort=name --exclude=.quarto $book first.tex preamble.tex _books.yml | sha1sum] 0 9]
+				puts pdfbookhash:$hash
+				set ::book::pdfhash $hash
+				if {[set pdfbook [glob -noc ./pdfcache/*.pdf.$book.$hash]] ne {}} {
+					set pdfcopy [file root [file root [file tail $pdfbook]]]
+					file copy -force $pdfbook ../_site/books/$book/$pdfcopy
+					set pdf 0
+				}
+			}
+		}
+	}
+	@if {!($html || $pdf)} {MAKE_UPDATE {$!} 0 ; break}
+	@if {$html && $pdf} {set output all}
+	@if {$html && !$pdf} {set output html}
+	@if {!$html && $pdf} {set output pdf}
+	@set ::book::OUTPUT $output
+	@puts output:$::book::OUTPUT
+
+books/* : _site --book-hash
+	@puts "Rendering book: [file tail {$@}]"
+	cd {$@}
+	@file copy -force ../_bookstyles.css ./bookstyles.css
+	@try {
+		exec quarto render --to $::book::OUTPUT
 	} on error outcome {
 		puts $outcome
 	}
-	exec touch _site
+	cd ..
+	@if {$::book::OUTPUT in {html all}} {
+		file delete {*}[glob -noc "../_site/$@/qhash_*"]
+		close [set f [open "../_site/$@/qhash_$::book::htmlhash" w]]
+	}
+	@if {$::book::OUTPUT in {pdf all}} {
+		set book [file tail {$@}]
+		file delete {*}[glob -noc *.pdf.$book.*]
+		set pdf [glob "../_site/$@/*.pdf"]
+		file mkdir pdfcache
+		file copy $pdf ./pdfcache/[file tail $pdf].$book.$::book::pdfhash
+	}
+	@namespace delete ::book
 	
+	
+booklist : % :: books/%/_quarto.yml
+	@if {[string index [file tail [file dirname {$<}]] 0] eq {_}} {break}
+	@$(MAKE) $(MFLAGS) $(MAKEVARS) [file dirname {$<}]
+

@@ -1,3 +1,7 @@
 /.quarto/
 _site/books/*/sitemap.xml
 _site/books/*/robots.txt
+qhash_*
+books/pdfcache
+books/*/bookstyles.css
+books/*/_extensions
