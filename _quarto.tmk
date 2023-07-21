@@ -1,6 +1,12 @@
 OUTPUT = all
 MAKE_INIT = make_init {${MAKEFILE}}
 
+proc home_url {PROFILE} {
+	if {$PROFILE eq {prod}} {return https://huntley-link.github.io}
+	return http://localhost:8000
+}
+MAKE_EVAL HOME_URL = [home_url {$(PROFILE)}]
+
 proc make_init {MAKEFILE} {
 	cd [file dir $MAKEFILE]
 }
@@ -11,6 +17,7 @@ proc page_dates {} {
 		#if {![catch {exec git diff --quiet $page}]} {continue}
 		set mtime [file mtime $page]
 		set date [clock format $mtime -gmt 1]
+		set date [lreplace $date 3 3 12:00:00]
 		set revcount [regexp -all -line {^commit} [exec git log -- $page]]
 		incr revcount
 		set f [open $page]
@@ -61,7 +68,7 @@ proc blog_sidebar {} {
 		set q [read $f]
 		close $f
 		set yaml null
-		regexp {\---\n(.?)\n---\n} $q trash yaml
+		regexp {\---\n(.+?)\n---\n} $q trash yaml
 		set date [exec yq .date << $yaml]
 		if {$date eq {null}} {
 			set date [clock format [file mtime $qf]]
