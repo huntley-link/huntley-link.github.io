@@ -266,5 +266,6 @@ books/* : _site --book-hash
 	
 booklist : % :: books/%/_quarto.yml
 	@if {[string index [file tail [file dirname {$<}]] 0] eq {_}} {break}
+	@puts "Calling tclmake recursively for [file dirname {$<}]"
 	@$(MAKE) $(MFLAGS) $(MAKEVARS) [file dirname {$<}]
 

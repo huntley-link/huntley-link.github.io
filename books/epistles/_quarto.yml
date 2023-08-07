@@ -18,6 +18,7 @@ book:
       chapters:
         - chapters/goodbyeberlin.qmd
         - chapters/mementomori.qmd
+        - chapters/myrabreckinridge.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd

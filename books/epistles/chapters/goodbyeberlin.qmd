@@ -1,7 +1,9 @@
 ---
-date: Wed Jul 12 16:43:46 GMT 2023
-revcount: 5
-image: img/isherwood.jpg
+date: Mon Aug 07 12:00:00 GMT 2023
+revcount: 6
+categories:
+  - Epistles
+  - "Book Club"
 ---
 # Goodbye to Berlin
 
