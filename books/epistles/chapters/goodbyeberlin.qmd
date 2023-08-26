@@ -1,6 +1,7 @@
 ---
-date: Mon Aug 07 12:00:00 GMT 2023
-revcount: 6
+date: Mon Jul 10 16:43:46 GMT 2023
+revcount: 7
+fixdate: 1
 categories:
   - Epistles
   - "Book Club"

@@ -31,7 +31,7 @@ revcount: $revcount
 ---
 $pageconts"
 		} elseif {[catch {exec git diff --quiet $page}]} {
-			if {[string first {/fixdat/} $page] < 0} {
+			if {(![regexp -line {^fixdate: 1$} $pageconts])} {
 				set pageconts [regsub -line {^date: .*$} $pageconts "date: $date"]
 			}
 			set pageconts [regsub -line {^revcount: .*$} $pageconts "revcount: $revcount"]
@@ -61,7 +61,7 @@ proc book_chapters {} {
 }
 
 proc blog_sidebar {} {
-	foreach qf [glob -noc */*/*.qmd */*/*.md */*/*/*.qmd] {
+	foreach qf [glob -noc */*/*.qmd */*/*.md */*/*/*.qmd */*/*/*/*.qmd] {
 		set qdir [file tail [file dir $qf]]
 		if {[string index $qdir 0] eq {_}} {continue}
 		set f [open $qf]
@@ -259,6 +259,7 @@ books/* : _site --book-hash
 		file delete {*}[glob -noc *.pdf.$book.*]
 		set pdf [glob "../_site/$@/*.pdf"]
 		file mkdir pdfcache
+		file delete [glob -nocomplain ./pdfcache/[file tail $pdf].$book.*]
 		file copy $pdf ./pdfcache/[file tail $pdf].$book.$::book::pdfhash
 	}
 	@namespace delete ::book

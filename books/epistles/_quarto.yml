@@ -19,6 +19,7 @@ book:
         - chapters/goodbyeberlin.qmd
         - chapters/mementomori.qmd
         - chapters/myrabreckinridge.qmd
+        - chapters/northandsouth.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd

@@ -1,0 +1,224 @@
+---
+date: Sat Aug 26 12:00:00 GMT 2023
+revcount: 1
+categories:
+  - Epistles
+  - "Book Club"
+---
+# North And South
+
+#### Elizabeth Gaskell {.unlisted}
+
+*Book Club August 20, 2023*
+
+---
+
+Elizabeth Gaskell was a contemporary of Charles Dickens, and *North and South* 
+was published in serial form simultaneously in the same periodical as Dickens’ 
+*Hard Times*. But unlike Dickens she lived and worked in Manchester with her 
+Unitarian minister husband, and was a direct witness of the social, political 
+and economic conflicts and outrages wrought by the industrial revolution, at 
+Ground Zero in the era when it was working the greatest and most divisive 
+transformations in British life.
+
+To the author’s credit, the novel is not a polemic, and she does not clearly 
+throw the weight of her sympathy to any of the main characters. Rather, she 
+constructs an intricate labyrinth for the leading man and lady, and forces them 
+to thread their way through it to each other; along the way requiring each to 
+face their deficiencies and blind spots. The resolution of the story hinges on 
+each confronting the self-imposed circumscription of their horizons. Thus 
+despite the epochal conflicts surrounding the protagonists, the work brings down 
+its scope in the end to necessary human and intimate dimensions.
+
+<style>.figure-caption {text-align:center}</style>
+\captionsetup[figure]{labelformat=empty}
+![Elizabeth Gaskell](img/gaskell.jpg){width=20% fig-align="center"}
+
+And that is perhaps the biggest surprise of the experience of reading it, given 
+the broad tapestry Gaskell’s discursive and armillary style weaves, as one at 
+last perceives in the final pages the intricate trap she has set and sprung on 
+both her lovers and the reader.
+
+Reviewers have remarked on Jane Austen’s influence on Gaskell here. Teenage 
+Margaret Hale and mill owner John Thornton superficially resemble Elizabeth 
+Bennet and Mr Darcy from *Pride and Prejudice*. They meet, he falls in love, she 
+dislikes him and dismisses his advances. And Margaret’s parents seem to be 
+living a disappointing aftermath of *Sense and Sensibility*. Mrs Hale is 
+well-bred and was raised in London society, but marries poor Mr Hale for love 
+and resolves to live with him in a remote rural vicarage. As her middle-aged 
+regrets mount, Mr Hale supplies the final straw by abruptly announcing that he 
+has resigned his position as an Anglican minister for recondite reasons of 
+spiritual conscience.
+
+Facing imminent poverty, they move from the south of England to Manchester, the 
+center of British industrialization, so Mr Hale can scratch together a living as 
+a tutor of the classics to its roughly-educated citizens. Margaret, still a 
+dedicated Christian clergyman’s daughter, is appalled at the depredations that 
+mill work with its low wages and pollution has wrought on the city’s helpless 
+poor. Thornton is an early portrait of a spirited libertarian, always ready with 
+passionate justifications and rationalizations for his business practices 
+despite the damage they may do.
+
+What appears to be a soap opera-ish discursion is introduced: Margaret’s 
+long-absent older brother Frederick returns to visit their mother at her 
+deathbed. Frederick had been a naval officer with good prospects, but mutinied 
+against a tyrannical captain.  He has been on the run for years, not daring to 
+set foot in England for fear of court martial and hanging. He slips into 
+Manchester just in time to comfort his mother, but as he departs he is 
+recognized and almost captured after a scuffle.
+
+Meanwhile, Thornton is dealing with an impending strike at his mill, but refuses 
+to raise his workers’ wages due to what he claims are the iron laws of economics 
+and the demands of the market. Mortal bad blood arises between him and his 
+union-led workers, and the strike is finally nullified when Thornton brings in 
+replacements from Ireland who are willing to work at any wage.
+
+Thornton had been taking lessons from Margaret’s father, but he ultimately gets 
+his tutoring in the humanities when he begins to form relationships with some of 
+his workers after seeing the misery of their conditions during the strike, even 
+as his business spirals downward due to the interruption in production and his 
+debts being called in.
+
+Margaret lies to the authorities about her involvement in Frederick’s scuffle 
+and escape in order to protect her brother, and Thornton finds out about her 
+lies. Her repulsion toward Thornton is exacerbated by her Christian remorse and 
+guilt over her lies and what she imagines Thornton must think of her. Late in 
+the novel she undergoes a long period of introspection and self-recrimination. 
+During a visit to her tiny home town which in her childhood had seemed ageless, 
+she is dispirited to see visible changes in just the few years since she has 
+left. She muses:
+
+>I begin to understand now what heaven must be - and, oh ! the grandeur and 
+repose of the words - “The same yesterday, today, and for ever.” Everlasting! 
+“From everlasting to everlasting, Thou art God.” That sky above me looks as 
+though it could not change, and yet it will. I am so tired - so tired of being 
+whirled on through all these phases of my life, in which nothing abides by me, 
+no creature, no place; it is like the circle in which the victims of earthly 
+passion eddy continually.
+
+This passage, as the core expression of Margaret’s crisis, surprised me because 
+of its modernity. It is exactly like the crisis pronounced in the play *Angels 
+in America*, in which the angel Metatron demands that humanity “Stop moving!” 
+This demand and this nostalgia are the end result of the neurotic Christian 
+yearning for sinlessness as the only conceivable embodiment of personal 
+integrity. For finally the only possible sinless world in the Christian 
+worldview is a static one.
+
+Thus the crux of the anxiety about industrialization is not due ultimately to 
+its social or political ramifications. On the deepest level it represents (to 
+what Orwell called ‘oldbelievers’) a storming of Heaven. Manchester in the novel 
+goes by the pseudonym ‘Milton’, which I dare say is a reference to the poem by 
+William Blake; which contains the lines:
+
+\medskip
+<i>
+
+|       And did the Countenance Divine,
+|      Shine forth upon our clouded hills?
+|      And was Jerusalem builded here,
+|      Among these dark Satanic Mills?
+
+</i>
+\medskip
+
+Meanwhile Thornton is undergoing a crisis of his own, though a more positive 
+one.  He has gone bankrupt, but he is energetically trying to raise backers to 
+restart his business with a new management approach, inspired by the empathy he 
+learned from his workers in the last days of his previous enterprise:
+
+>I felt that I was on the right path, and that, starting from a kind of 
+friendship with one, I was becoming acquainted with many. The advantages were 
+mutual: we were both unconsciously and consciously teaching each other…
+
+>My only wish is to have the opportunity of cultivating some intercourse with 
+the hands beyond the mere ''cash nexus”...
+
+>I have arrived at the conviction that no mere institutions, however wise, and 
+however much thought may have been required to organize and arrange them, can 
+attach class to class as they should be attached, unless the working out of such 
+institutions bring the individuals of the different classes into actual personal 
+contact. Such intercourse is the very breath of life. A working man can hardly 
+be made to feel and know how much his employer may have laboured in his study at 
+plans for the benefit of his workpeople. A complete plan emerges like a piece of 
+machinery, apparently fitted for every emergency. But the hands accept it as 
+they do machinery, without understanding the intense mental labour and 
+forethought required to bring it to such perfection. But I would take an idea, 
+the working out of which would necessitate personal intercourse; it might not go 
+well at first, but at every hitch interest would be felt by an increasing number 
+of men, and at last its success in working come to be desired by all, as all had 
+borne a part in the formation of the plan; and even then I am sure that it would 
+lose its vitality, cease to be living, as soon as it was no longer carried on by 
+that sort of common interest which invariably makes people find means and ways 
+of seeing each other, and becoming acquainted with each other's characters and 
+persons, and even tricks of tempers and modes of speech. We should understand 
+each other better, and I'll venture to say we should like each other more.
+
+The term “cash nexus” above is a contemporary one used in critiques of 
+capitalism at the time. It was used in relation to the observation that 
+capitalism tended to drive out of the public forum any notion that humans had 
+any obligations or social commitments whatsoever to one another, beyond mere 
+cash transactions.[^char]
+
+As Thornton is having these epiphanies in the novel’s last pages, the tables 
+have turned. Margaret has inherited significant wealth, yet she can escape 
+neither the guilt and remorse of the lies she told about her brother (even 
+though it was to save his live) nor the feeling that she is living under the 
+silent opprobrium of Thornton and his family (despite the fact that Thornton, 
+after his declaration of love was rebuffed, has resolved never to acknowledge 
+any of his feelings toward her and limits himself to strictly correct social 
+pleasantries).
+
+Despite these complexities of plot and character, it turns out that everything 
+works itself out literally in the last two pages. Margaret offers a loan to 
+Thornton to help him restart his business… Thornton simply replies 
+“Margaret!”... and after a few halting sentences and long silences, they fall 
+into each other’s arms and all is resolved between and within them.
+
+But these two pages are enough for the trap Gaskell has set to be sprung, and 
+for the key to be discovered. In the months preceding this scene, Margaret's 
+ordeal of introspection and soul-searching made her more humble, more 
+empathetic, more calm. It seemed like a sort of personal growth fitting for the 
+wrap-up of a long novel. In fact something had gone terribly wrong; for in 
+trying to resolve her feelings about Thornton she makes a conciliatory gesture 
+in the form of a business transaction: “if you would take some money of mine, 
+eighteen thousand and fifty-seven pounds, lying just at this moment unused in 
+the bank, and bringing me in only two and a half per cent. – you could pay me 
+much better interest, and might go on working Marlborough Mills.” Somewhere 
+along the line her self-perceived sin became an unbearable burden, and to 
+anaesthetize her feelings she let herself fall into the worldview of the 
+cash nexus.
+
+On some level, Thornton recognizes the poison of her offer and evades its 
+danger. Instead, he takes to heart his own preaching about new ways to manage 
+relationships, drops his pride and wounded feelings, and insists on a moment of 
+purely human interaction between them, much of which necessarily (but a bit 
+surprisingly for a novelist) takes place in silence.
+
+And this is enough for the breakthrough. Gaskell has resolved to show that 
+neither Christian piety nor libertarian dynamism is sufficient to address the 
+issues of her present moment in history. She repudiates both her own religious 
+background and her adopted hometown’s guiding animus to insist on something 
+more.
+
+Speaking of *Angels in America*, I want to think the two works inform each other 
+and help illuminate their endings. In the play, God has absconded from Heaven, 
+causing consternation and panic among the angels. They want to entice Him back 
+by removing the blot of sin from His creation, but they believe they can only do 
+this by putting humanity into stasis. Humanity politely refuses this solution.
+
+Gaskell’s polite refusal of the options presented to her by her cultural milieu 
+reflects Prior Walter’s. And among the bereft and the lonely, the only remaining 
+vision of how to bring God back is to call Him forth within the matrix of human 
+relationships, in the form of the Shekinah – to regenerate Him as it were, in 
+the milieu of a brave new Creation.
+
+The Great Work begins…
+
+
+[^char]: “Cash Payment had not then grown to be the universal sole nexus of man 
+to man; it was something other than money that the high then expected from the 
+low, and could not live without getting from the low. Not as buyer and seller 
+alone, of land or what else it might be, but in many senses still as soldier and 
+captain, as clansman and head, as loyal subject and guiding king, was the low 
+related to the high. With the supreme triumph of Cash, a changed time has 
+entered.” –Thomas Carlyle, *Chartism*, 1839
