@@ -1,6 +1,6 @@
 ---
 date: Tue Jul 11 20:59:14 GMT 2023
-revcount: 3
+revcount: 4
 fixdate: 1
 categories:
   - Epistles
@@ -43,27 +43,29 @@ keeping awareness of death’s inevitability close.  There are also suggestions
 that there is honor in memorializing the dead: Alec Warner and Jean Taylor,
 former lovers, muse about the ephemerality of existence:
 
+\medskip
 <i>
 
-|     "Do you think, Jean, that other people exist?... you see that here is a 
-|    respectable question. Given that you believe in your own existence as 
-|    self-evident, do you believe in that of others? Tell me, Jean, do 
-|    you believe that I for instance, at this moment, exist?"
-|     “...One does sometimes wonder, perhaps only half-consciously, if 
-|    other people are real.”
-|     "Please," he said, "wonder more than half-consciously about this question. 
-|    Wonder about it with as much consciousness as you have, and tell me what 
-|    is your answer."
-|     "Oh," she said, "I think in that case, other people do exist. That's my 
-|    answer. It's only common sense… This graveyard is a kind of evidence," she 
-|    said, "that other people exist."
-|     "...They are, I quite see, they are," he said, "an indication of the
-|    existence of others, for there are the names and times carved in stone.    
-|    Not a proof, but at least a large testimony."
-|     "...But the graves are at least reassuring," she said, "for why bother to 
-|    bury people if they don't exist?"
+|       "Do you think, Jean, that other people exist?... you see that here is a 
+|      respectable question. Given that you believe in your own existence as 
+|      self-evident, do you believe in that of others? Tell me, Jean, do 
+|      you believe that I for instance, at this moment, exist?"
+|       “...One does sometimes wonder, perhaps only half-consciously, if 
+|      other people are real.”
+|       "Please," he said, "wonder more than half-consciously about this question. 
+|      Wonder about it with as much consciousness as you have, and tell me what 
+|      is your answer."
+|       "Oh," she said, "I think in that case, other people do exist. That's my 
+|      answer. It's only common sense… This graveyard is a kind of evidence," she 
+|      said, "that other people exist."
+|       "...They are, I quite see, they are," he said, "an indication of the
+|      existence of others, for there are the names and times carved in stone.    
+|      Not a proof, but at least a large testimony."
+|       "...But the graves are at least reassuring," she said, "for why bother to 
+|      bury people if they don't exist?"
 
 </i>
+\medskip
 
 Their conversation suggests a literary project of anchoring the existence of us 
 the living, in this modern age, via acknowledgement of the dead and those near 

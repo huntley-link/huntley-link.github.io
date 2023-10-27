@@ -36,6 +36,8 @@ book:
       <!-- end www.htmlcommentbox.com -->
     right: "rev: {{< meta revcount >}}"
 format:
+  html:
+    title-block-categories: false
   pdf:
     documentclass: scrreprt
     sansfont: Arial

@@ -20,6 +20,7 @@ book:
         - chapters/mementomori.qmd
         - chapters/myrabreckinridge.qmd
         - chapters/northandsouth.qmd
+        - chapters/janeeyre.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd

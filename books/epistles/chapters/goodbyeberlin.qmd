@@ -1,6 +1,6 @@
 ---
 date: Mon Jul 10 16:43:46 GMT 2023
-revcount: 7
+revcount: 8
 fixdate: 1
 categories:
   - Epistles
@@ -163,19 +163,21 @@ his paralysis and leave Berlin in pursuit of an authentic life.  On the eve of
 leaving, he visits a cabaret with his friend Fritz. As they leave they 
 encounter a party of rowdy young Americans:
 
+\medskip
 <i>
 
-|    "Say," he asked Fritz, "what's on here?"
-|    "Men dressed as women," Fritz grinned.
-|    The little American simply couldn't believe it... "Do you mean they're 
+|      "Say," he asked Fritz, "what's on here?"
+|      "Men dressed as women," Fritz grinned.
+|      The little American simply couldn't believe it... "Do you mean they're 
      *queer*?"
-|    "Eventually we're all queer," drawled Fritz solemnly, in lugubrious 
+|      "Eventually we're all queer," drawled Fritz solemnly, in lugubrious 
      tones...
-|    "You *queer*, too, hey?" demanded the little American, turning suddenly on 
+|      "You *queer*, too, hey?" demanded the little American, turning suddenly on 
      me.
-|    "Yes," I said, "very queer indeed."
+|      "Yes," I said, "very queer indeed."
 
 </i>
+\medskip
 
 On the first page of the novel Isherwood describes himself as a camera, a 
 mechanism, recording only the surface features of life without 
