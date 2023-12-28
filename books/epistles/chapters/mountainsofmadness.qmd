@@ -1,0 +1,357 @@
+---
+date: Mon Dec 18 12:00:00 GMT 2023
+revcount: 1
+categories:
+  - Epistles
+  - "Book Club"
+---
+# At The Mountains Of Madness
+
+#### H.P. Lovecraft {.unlisted}
+
+*Book Club October 22, 2023*
+
+—
+
+A lot of science fiction concerns itself with the question ‘what will encounter 
+with the unknown be like?’ Sometimes, as in the first science fiction novel,
+*Frankenstein* the imagined answer is horror in the face of what lies beyond
+death. In Lovecraft’s short novel *At The Mountains Of Madness*, encounter with
+the unknown is set in the then-unexplored interior of Antarctica. The story
+takes the form of a manuscript whose writer, a scientist himself, is attempting
+to warn the world that his expedition has discovered an ancient and malevolent
+evil lurking beneath the polar ice. He is adamant that his fellow scientists
+dare not risk disturbing that evil with further exploration, at the risk of all
+human civilization.
+
+<style>.figure-caption {text-align:center}</style>
+\captionsetup[figure]{labelformat=empty}
+![H.P. Lovecraft](img/lovecraft.jpg){width=20% fig-align="center"}
+
+But it's important here to start with the understanding that the look and feel
+of the unknown is not really a mystery. For example: the Spanish conquistadors’ 
+first sighting of the Aztec city of Tenochtitlan in 1519 -- the city was built 
+by an alien civilization, ten times larger than any city in Europe, with 
+temples larger than any cathedral, and streets filled with tropical flowers and 
+brightly-costumed people. A soldier, Bernal Diaz del Castillo, wrote of the 
+experience years later:
+
+
+>we could compare it to nothing but the enchanted scenes we had read of in 
+Amadis of Gaul,[^ama] from the great towers and temples and other edifices of 
+lime and stone which seemed to rise out of the water. To many of us it appeared 
+doubtful whether we were asleep or awake; nor is the manner in which I express 
+myself to be wondered at, for it must be considered, that never yet did man 
+see, hear, or dream of any thing equal to the spectacle which appeared to our 
+eyes on this day.
+
+
+In the face of the total unknown, space and time collapse, dream, fantasy and 
+reality intermingle, and consciousness becomes a mirror. It is in the blind spot 
+hidden by reflection where mythmaking begins; where landscapes are embroidered 
+from threads of self and memory.
+
+Just as was depicted in *Frankenstein*: when Victor first sees his creature 
+stir with life, he does not react with elation, or joy, or triumph or 
+vindication. Strangely, he flees his laboratory, goes to bed, and dreams of his 
+fiancee and dead mother fusing into one.
+
+Or as Nietzsche said, simply, "gaze not into the abyss, lest the abyss gaze 
+back into you."[^nie]
+
+The novel’s title itself comes from a story by Lord Dunsany,[^dun] denoting a 
+liminal barrier to a world of drugged dreams.
+
+The objective of mythmaking is to obscure the abyss, to safeguard consciousness 
+from the terror of it.  It is left to literature to uncover the mirror, if the 
+threads can be untangled, and acknowledge the reflection.
+
+When the novel was published, Antarctica was one of the last frontiers of the 
+unknown on planet Earth. As the expedition ship of the narrator, geologist 
+William Dyer, approaches the coast, he sees several examples of what today are 
+called *fata morgana*, weird mirages (like ships hovering in air over the 
+water) caused by the extreme atmospheric conditions of the polar region: "On 
+many occasions the curious atmospheric effects enchanted me vastly; these 
+including a strikingly vivid mirage... in which distant bergs became the 
+battlements of unimaginable cosmic castles."
+
+After the expedition makes landfall and subsequent events make necessary a 
+rescue mission by airplane into the continental interior, it is a particularly 
+vivid mirage seen from the air that Lovecraft portrays as a portal into the 
+unknown. Dyer states:
+
+
+>I had seen dozens of polar mirages during the preceding weeks, some of them 
+quite as uncanny and fantastically vivid as the present sample; but this one 
+had a wholly novel and obscure quality of menacing symbolism, and I shuddered 
+as the seething labyrinth of fabulous walls and towers and minarets loomed out 
+of the troubled ice-vapours above our heads.
+
+>The effect was that of a Cyclopean city of no architecture known to man or to 
+human imagination, with vast aggregations of night-black masonry embodying 
+monstrous perversions of geometrical laws and attaining the most grotesque 
+extremes of sinister bizarrerie... the implied scale of the whole was 
+terrifying and oppressive in its sheer giganticism.
+
+
+The mirage turns out to be an uncanny vision of collapsed space and time. 
+Unknown to Dyer at the time of sighting, the mirage was an accurate portrayal 
+of a vastly ancient city in its prime millions of years ago, whose ruins lay 
+far away from his  location, to be discovered later by him and his companion.
+
+\medskip
+<br>
+
+![](img/ship-fatamorgana.png){width=50% fig-align="center"}
+
+![Fata Morgana](img/fatamorgana.png){width=50% fig-align="center"}
+
+<br>
+\medskip
+
+His passage into the void had a visceral effect on him, marking what he 
+recognized as a caesura in his experience:
+
+
+>Every incident of that four-and-a-half-hour flight is burned into my 
+recollection because of its crucial position in my life. It marked my loss, at 
+the age of fifty-four, of all that peace and balance which the normal mind 
+possesses through its accustomed conception of external Nature and Nature’s 
+laws. Thenceforward the ten of us -- but the student Danforth and myself above 
+all others -- were to face a hideously amplified world of lurking horrors which 
+nothing can erase from our emotions, and which we would refrain from sharing 
+with mankind in general if we could.
+
+
+Dyer and Danforth try to come to the rescue of an exploratory party that had 
+awakened a group of weird aliens from hibernation, and track the aliens into 
+the ruins of the city. Dyer claims that while there he learned the story of 
+the aliens and their city by examining plentiful bas-relief murals carved by 
+former generations of aliens, still visible on the walls of ruined buildings.
+
+As he and Danforth penetrate deeper into the city in search of survivors, 
+Dyer’s feelings of revulsion, obscenity and antipathy increase, but he is 
+driven on by scientific curiosity as well as the urgency of rescue. But he 
+unexpectedly reaches a critical point of information about the aliens, whereby 
+his horror is somewhat replaced by a sudden empathy. The aliens he was tracking 
+had gone into suspended animation thirty million years ago for unknown reasons, 
+when Antarctica was a lush tropical paradise and their civilization was at its 
+peak. They were awakened by human explorers into a harsh and brutal snowscape, 
+their city and civilization in ruins, and an even greater horror awaiting them 
+below it:
+
+
+>After all, they were not evil things of their kind. They were the men of 
+another age and another order of being. Nature had played a hellish jest on 
+them... and this was their tragic homecoming.
+
+>They had not been even savages -- for what indeed had they done? That awful 
+awakening in the cold of an unknown epoch... poor Old Ones! Scientists to the 
+last -- what had they done that we would not have done in their place? God, 
+what intelligence and persistence! What a facing of the incredible, just as 
+those carven kinsmen and forbears had faced things only a little less 
+incredible! Radiates, vegetables, monstrosities, star-spawn -- whatever they 
+had been, they were men!
+
+>They had crossed the icy peaks on whose templed slopes they had once 
+worshipped and roamed among the tree-ferns. They had found their dead city 
+brooding under its curse, and had read its carven latter days as we had done. 
+They had tried to reach their living fellows in fabled depths of blackness they 
+had never seen -- and what had they found?
+
+
+Why did these aliens subject themselves to a sleep of millions of years, to 
+find they had outlasted their own kind?  There is no answer within the 
+narrative. There are only hints, contained within the story presented in the 
+city’s many mural carvings:
+
+
+>according to certain carvings the denizens of that city had themselves known 
+the clutch of oppressive terror; for there was a sombre and recurrent type of 
+scene in which the Old Ones were shewn in the act of recoiling affrightedly 
+from some object -- never allowed to appear in the design -- found in the great 
+river and indicated as having been washed down through waving, vine-draped 
+cycad-forests from those horrible westward mountains.
+
+
+This is a remarkable passage.  It creates a parallelism of thematic structure. 
+Just as the human explorers faced the boundary of the unknown and penetrated 
+into a mythical landscape beyond it, so the aliens within that landscape faced 
+a boundary of their own. The problem of what the unknown looks like is not 
+solved, because the problem recurses, to a more deeply embedded bourn before 
+another unglimpsed mystery. Thus the limitation of mythmaking is revealed, and 
+by stacking of metaphor becomes literature. The reader is again left before a 
+mirror.
+
+And so the mythical question of origin is replaced by the literary question, 
+handed down in a direct line from the fount of science fiction: what does the 
+mirror reveal?
+
+Dyer’s sudden burst of empathy for the aliens, the "Elder Things", shows that 
+there is an alternate interpretation of their story, and calls into question 
+his initial reactions of repugnance and condemnation. So I will attempt another 
+reading of the facts of their eons-long history on Earth as they are presented, 
+a theory of their motivations hinted at by the stark flare lights of irony on 
+the Antarctic plain:
+
+<i>
+The Elder Things are space spores, floating or flying through space without 
+ships, exposed bodily to the void. They are intellectually advanced and have 
+built civilizations. And they are aware of the many dangers and threats that 
+exist in the universe, and flee from them when necessary. Some of them make 
+their way to earth as spores do, perhaps inevitably, and settle here, over 
+three billion years in the past.
+
+At this point in Earth's development, the Archaean era, it is a lifeless ocean 
+planet; sunny, silent, sterile. But the Elder Things’ adaptable physiology 
+allows them to absorb the ocean’s rich nutrients directly. They find Earth ideal 
+for their needs, they can hide from their enemies at the bottom of the sea and 
+simply be, in a paradise of mere existence. And there they stay for a half 
+billion years or more.
+
+They come to love Earth and think of it as home as much as an alien race can. 
+They understand that they are vagabonds of the universe, and are grateful for 
+their refuge. But they also come to understand the creative potential of the 
+nutrient-rich oceans under the warm sun, and can’t deny it or retard it 
+forever. So they create life, or allow it to germinate, and guide and nurture 
+its development.
+
+They eschew the technological forms of civilization that their ancestors had 
+mastered elsewhere, and choose in this place the opportunity to live in harmony 
+with nature as it develops.
+
+Where previously they would flee from danger, here they fight costly wars to 
+defend their home against invaders. Eventually they evolve to lose the capacity 
+for space travel altogether, and become as close to true Earthlings as they can.
+
+They also become city builders, leaving behind their serene benthic rurality to 
+further their global project of fostering the development of life. Rather than 
+employ industrial technology, they create shoggoths, protoplasmic life forms 
+that assume shapes and sizes necessary for large scale construction.
+
+But their lives are so long, and their civilization has such continuity, that 
+they witness a succession of their greatest urban projects consumed by tectonic 
+plate action as continents are born and die over eons. They realize that in 
+their perception of time, life is the only legacy of theirs that has a chance 
+of lasting.
+
+And so their ambition for their project grows. The shoggoths, formerly 
+automatons, had developed a form of restive consciousness. This inspires the 
+Elder Things to breed intelligent life, proper heirs, with the awareness to 
+recognize and show gratitude to their creators, as the Elder Things were 
+grateful for their Earth home.
+
+As the first apes appear in Africa and Asia, at last a species with rudimentary 
+awareness, the Elder Things resolve to create one last great city in 
+Antarctica; to carry out their project, and to make an exhaustive record of 
+their time on the planet for when the descendents of the apes can understand it. 
+They capture some ape specimens and implant into them the genetic potential for 
+consciousness, as well as the brain mechanism for a visual trigger that will 
+activate when an ape descendent views the basilisk-like geometric patterns the 
+Elder Things have placed next to the carved illustrative tableaux on their 
+building walls. The trigger will initiate complete coded transmission of the 
+Elder Things’ story straight into the conscious mind, so it will be known even 
+if the Elders themselves no longer exist by the time the tableaux are found.
+
+In order to be able to welcome their heirs even if the Elder civilization is 
+wiped out, fifteen Elder Things agree to seal themselves in an underground cave 
+in suspended animation, as a living time capsule. They stock the cave with 
+fossil records of every era of life, as a sort of museum to demonstrate the 
+continuity and consistency of effort that led to the ultimate arising of the 
+heir species. Once the cavern is sealed, onee Elder applies to the other 
+fourteen their race’s ancient technology invented to allow survival during 
+their spore-distribution in space, adapted to allow an indefinite sleep in the 
+cave. The one Elder survives the long treatment process by consuming animals 
+stocked in the cave for provisions. Once the job is done on the fourteen, the 
+one artisan maintains the seal on the cavern and accepts death by starvation.
+
+On the surface, the shoggoths participate in the city building and the 
+fostering of conscious life, but eventually they realize the full scope of the 
+project. They are being replaced, by a fully welcomed and valued conscious 
+culmination of the Elder Things entire sojourn on earth. However problematic the 
+history between Elder and shoggoth had been, they had a shared history and a 
+shared home. Now the Elders were making them redundant, treating them merely as 
+a means to an end.
+
+Where the shoggoths had previously rebelled for freedom, now they did so for 
+revenge, and all the more violently.  As they murder their creators, they 
+scream in mockery a phrase that the Elders had intended to use to welcome their 
+creation when the new species was mature enough to come exploring. They write 
+the phrase in Elder blood on the walls of the city as an execration and an 
+anathema.
+
+With the Elder civilization destroyed, the shoggoths emulate their creators in 
+their earliest innocent phase of millions of years at the bottom of the sea, 
+and retreat into the vast subterranean body of water below the city, to sulk 
+and try to forget their insults and indignities.
+
+When the new species finally arrived, they were in a degenerate state, the 
+Elders not having been able to guide them to their final intended form after 
+the shoggoth revolt. The first meeting of humans with the cavern Elders 
+awakened from suspended animation resulted in fatal confusion and
+misunderstanding. The encodings in the walls meant to activate information 
+transfer to the human brain worked only partially, and transmitted a message of 
+horror rather than enlightenment. Worse, left as orphans for ages, humans had 
+fallen out of communion with the order of nature, and had developed a 
+technological, objectifying, alienating scientific mindset. This mindset led 
+the humans to interpret the idea that they were part of a continuity, with a 
+past, with creators who had intended to make them heirs -- rather than 
+self-made and supreme to nature -- as so repugnant it had to be expelled from 
+consciousness.
+</i>
+
+
+The novel incorporates some of Lovecraft’s oeuvre-wide mythos, but stands 
+independent of it, and shows awareness of the mythmaking as an incomplete and 
+abortive obsession. The novel completes a tragic story of its own, beyond myth, 
+illuminated by irony. That is to say, there is no point devising a literary 
+mirror without the possibility of showing the reflection. Parallel thematic 
+structures point the way to how the irony incorporates and implicates the 
+reader, and perhaps even the author:
+
+The tragedy revealed is that we are exiles, castaways in time, which is too 
+vast for us ever to get the advantage of -- eventually it will do worse than 
+kill us, it will dispossess us and make us vagabonds, no matter our 
+pretensions.[^diaz] The power of life can encircle the void of meaninglessness, 
+but never extinguish it. The only option is -- like Sisyphus -- to embrace the 
+futility rather than contend against it, and keep pushing on. The only Hell is 
+to try to push alone, or to exclude some in the common effort. Yet our 
+objectifying, stratifying scientific mindset prevents us from seeing this.
+
+Through the novel runs the thread of mystery of what exactly Dyer’s young 
+companion Danforth saw in the mirage they encountered on the plane trip back 
+from the cursed city, a sight that finally unglued him and immersed him in 
+unremitting horror. But what he must have seen is clear. Just as happened on the 
+plane trip in, space and time collapsed within the mirage, and he saw a 
+reflection of himself, superimposed on a vision of an Elder Thing in its prime 
+of thirty million years ago, and saw the family resemblance. The Elder spoke to 
+him across the ages, and at last Danforth understood the meaning and 
+implications of the phrase in the Elder language that the human exploring party 
+had heard echoing in the halls of the city's ruins, the phrase the shoggoths 
+had screamed mockingly at the Elders as they did their murder...
+
+*"My Children!"*
+
+
+
+
+
+[^ama]: A collection of medieval romantic fantasy stories.
+
+[^nie]: This is the quote as I first encountered and remembered it. But I found 
+it has a curious literary history. In the original German, it was phrased more 
+as an observation; first translated into English as: "if thou gaze long into an 
+abyss, the abyss will also gaze into thee." It was successively misquoted over 
+the past century or more, and underwent a pop-cultural transformation; from 
+observation to warning, from a description of the confoundment I'm talking 
+about to an example of it.
+
+[^dun]: Dunsany was perhaps the first writer of completely invented fantasy, 
+unconnected to any existing mythology or body of legend, woven completely out 
+of his inner being. Lovecraft was of course a fan.
+
+[^diaz]: When Diaz was writing of his experiences in Tenochtitlan, the city was 
+already gone: "I beheld the scenes that were around me, I thought within myself 
+that this was the garden of the world! ... but all is destroyed, and that which 
+was a lake is now a tract of fields of Indian corn, and so entirely altered that 
+the natives themselves could hardly know it." 

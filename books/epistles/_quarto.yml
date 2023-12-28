@@ -21,6 +21,7 @@ book:
         - chapters/myrabreckinridge.qmd
         - chapters/northandsouth.qmd
         - chapters/janeeyre.qmd
+        - chapters/mountainsofmadness.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd
