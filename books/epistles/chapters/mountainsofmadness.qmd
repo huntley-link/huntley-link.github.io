@@ -1,6 +1,7 @@
 ---
 date: Mon Dec 18 12:00:00 GMT 2023
-revcount: 1
+revcount: 2
+fixdate: 1
 categories:
   - Epistles
   - "Book Club"
@@ -11,7 +12,7 @@ categories:
 
 *Book Club October 22, 2023*
 
-—
+---
 
 A lot of science fiction concerns itself with the question ‘what will encounter 
 with the unknown be like?’ Sometimes, as in the first science fiction novel,
@@ -195,6 +196,8 @@ a theory of their motivations hinted at by the stark flare lights of irony on
 the Antarctic plain:
 
 <i>
+\itshape
+
 The Elder Things are space spores, floating or flying through space without 
 ships, exposed bodily to the void. They are intellectually advanced and have 
 built civilizations. And they are aware of the many dangers and threats that 
@@ -298,6 +301,8 @@ the humans to interpret the idea that they were part of a continuity, with a
 past, with creators who had intended to make them heirs -- rather than 
 self-made and supreme to nature -- as so repugnant it had to be expelled from 
 consciousness.
+
+\upshape
 </i>
 
 

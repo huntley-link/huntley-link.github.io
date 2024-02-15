@@ -1,6 +1,6 @@
 ---
 date: Mon Jul 10 16:43:46 GMT 2023
-revcount: 8
+revcount: 9
 fixdate: 1
 categories:
   - Epistles
@@ -168,12 +168,12 @@ encounter a party of rowdy young Americans:
 
 |      "Say," he asked Fritz, "what's on here?"
 |      "Men dressed as women," Fritz grinned.
-|      The little American simply couldn't believe it... "Do you mean they're 
-     *queer*?"
-|      "Eventually we're all queer," drawled Fritz solemnly, in lugubrious 
-     tones...
-|      "You *queer*, too, hey?" demanded the little American, turning suddenly on 
-     me.
+|      The little American simply couldn't believe it... "Do you mean they're
+|    *queer*?"
+|      "Eventually we're all queer," drawled Fritz solemnly, in lugubrious
+|    tones...
+|      "You *queer*, too, hey?" demanded the little American, turning suddenly
+|    on me.
 |      "Yes," I said, "very queer indeed."
 
 </i>

@@ -22,6 +22,7 @@ book:
         - chapters/northandsouth.qmd
         - chapters/janeeyre.qmd
         - chapters/mountainsofmadness.qmd
+        - chapters/someprefernettles.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd

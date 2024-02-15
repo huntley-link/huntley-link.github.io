@@ -1,6 +1,7 @@
 ---
 date: Fri Oct 27 12:00:00 GMT 2023
-revcount: 1
+revcount: 2
+fixdate: 1
 categories:
   - Epistles
   - "Book Club"
@@ -44,7 +45,12 @@ perhaps worthily, worked over in discussion of it. But a collection of themes
 and issues does not constitute a story. Not even the plot itself necessarily 
 makes up the story.
 
-The story of *Jane Eyre* is: young Jane finds herself in the milieu of a gothic 
+The story of *Jane Eyre* is:
+
+<i>
+\itshape
+
+Young Jane finds herself in the milieu of a gothic 
 horror story, which is nothing more or less than the everyday life of a young, 
 poor orphan of her time. She is beset by monsters and tormentors, and though she 
 is exceptional enough to be aware of her plight, she is helpless within it. 
@@ -69,6 +75,9 @@ and discourse fix the shapeshifter into a deformed but permanent human state;
 and in his own return to the human world, his vision recovers; not entirely, 
 but sufficiently that he is always in the condition of seeing the light at the 
 end of the tunnel.
+
+\upshape
+</i>
 
 In the context above which I have tried to define, *Jane Eyre* is not only a 
 gothic horror story, but perhaps the culminatory novel of the genre - it 
