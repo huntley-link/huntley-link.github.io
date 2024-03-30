@@ -1,0 +1,207 @@
+---
+date: Sat Mar 30 12:00:00 GMT 2024
+revcount: 1
+fixdate: 1
+categories:
+  - Epistles
+  - "Book Club"
+---
+# Home
+
+#### Marilynne Robinson {.unlisted}
+
+*Book Club March 10, 2024*
+
+---
+
+Many readers interpret and assimilate a novel solely within the context of their 
+own experience, viewpoint and opinions. For them the work is a mirror, and they 
+typically evaluate it based on whether and to what extent it validates the 
+reader's perspective. But there is such a thing as independent viewpoint. If it 
+were not vital to understand perspectives other than one's own and take them 
+into account, there would be no point to literature. Because the story of a 
+work of literature is not in the narrative that is reflected from the pages onto 
+the reader, the story is the traces of the author's efforts to make the reader 
+recognize that an independent voice exists and to transmit it. 
+
+In 2015 a blogger calling themselves "Issendai" published a lengthy series of 
+posts titled "Down the Rabbit Hole: The world of estranged parents' 
+forums".[^rabt] In the introduction,  Issendai explained that they have had a 
+long interest in stories of abuse suffered at the hands of people with 
+narcissistic personality disorders. They wanted insights into the viewpoint of 
+the abuser as well, but assumed it would never be possible to find an honest 
+recounting of offenses from the offender's side.
+
+<style>.figure-caption {text-align:center}</style>
+\captionsetup[figure]{labelformat=empty}
+![Marilynne Robinson](img/MarilynneRobinson.jpg){width=20% fig-align="center"}
+
+That is, until Issendai stumbled onto the world of online support forums for 
+estranged parents of adult children. In those forums, parents give lengthy and 
+detailed accounts of their relationships with their children, the breakdowns, 
+the estrangement, and the parents' attempts to reconnect.
+
+In reading their stories it quickly becomes apparent that the parents are 
+narcissists with long histories of abuse of their children. It is also apparent 
+that a symptom of that narcissism is refusal to assimilate their children's 
+perspectives:
+
+>The default position is "estranged parent good, estranged child bad," and 
+members treat their children's and grandchildren's boundaries as a display of 
+defiance that must be crushed.
+
+The most haunting theme of the stories is the parents' wondering about the 
+reasons for the estrangement:
+
+>one of the cries of the estranged parent movement is, "Why won't they tell us 
+why?"
+
+But reading the accounts in depth makes it clear that the children have told 
+the parents in excruciating detail why they broke contact, and their conditions 
+for reconciliation. The routine reaction of the parents is to brand the 
+testimony given them as lies, or simply to dismiss their childrens' reasons as 
+invalid.
+
+The question "Why?" hangs over Marilynne Robinson's novel *Home* like a pall. 
+Set in 1956 in the small town of Gilead, Iowa, where a woman named Glory 
+Boughton is caretaker for her elderly retired Presbyterian minister father 
+Robert, the domestic routine is disrupted when their estranged brother/son Jack 
+suddenly communicates that he is going to try coming home after a disappearance 
+that has lasted two decades.
+
+Why did he leave? Why had he always been so stand-offish? Jack, the bright, 
+talented, charming one in a close-knit, gregarious family of eight children 
+always seemed to hold himself back, preferring an inner sanctuary to 
+participating in group events. His reserve degenerated to delinquency and petty 
+theft in his teens. He drank and caroused through his first two years of 
+college until he impregnated a local girl but refused to marry her -- the one 
+crossed boundary his father couldn't overlook. Jack then disappeared, thereafter 
+(as understood by sparse accounts of him filtering back) living hand-to-mouth, 
+on the road, in and out of menial jobs and jail.
+
+Reverend Boughton professes that he is honestly eager to reconcile with Jack, 
+and Jack seems game to try himself, but they can't find ways to approach one 
+another; they are oil and water. 
+
+Robert has a life-long friend, Congregationalist minister John Ames, who serves 
+as his confidant, confessor and good-humored antagonist in decades of debates 
+and religious disputes. Ames is so close to the Boughton family that Jack sees 
+him as amounting to an alternate father. Jack makes an attempt at rapprochement 
+with him as an entree to breaking the impasse with his father, but finds 
+himself the subject of a stinging rebuke in the form of a Sunday sermon from 
+Ames, as he relates to Glory:
+
+\medskip
+<i>
+
+|    "Ah, little sister, these old fellows play rough. They look so harmless, 
+|  and the next thing you know, you're counting broken bones again."
+|    "What happened?"
+|    "He preached. The text was Hagar and Ishmael, the application was the 
+|  disgraceful abandonment of children by their fathers. And the illustration 
+|  was my humble self, sitting there beside his son with the eyes of Gilead 
+|  upon me. I think I was aghast. His intention, no doubt. To appall me, that 
+|  is, to turn me white, as I am sure he did."
+
+</i>
+\medskip
+
+The crux of the novel comes when Jack tries finally to confront both Ames and 
+his father about his state of estrangement from them; angrily, but stealthily, 
+in a form that his father is predisposed to give ear to -- a theological debate:
+
+\medskip
+<i>
+
+|    “I've wondered from time to time if I might not be an instance of 
+|  predestination. A sort of proof. If I may not experience predestination in 
+|  my own person. That would be interesting, if the consequences were not so 
+|  painful. |For other people. If it did not seem as though I spread a 
+|  contagion of  s ome |kind. Of misfortune. Is that possible?"
+|    Ames said, "No. That isn't possible. Not at all..."
+|    Jack said, "I'm sorry. I don't mean to be disrespectful. My question is, 
+|  are there people who are simply born evil, live evil lives, and then go to 
+|  hell?"
+|    Ames took off his glasses and rubbed his eyes. "Scripture is not really 
+|  clear on that point. Generally, a person's behavior is consistent with his 
+|  nature..."
+|    Boughton chuckled. "Do I detect a little circularity in your reasoning, 
+|  Reverend Eisenhower?..."
+|    Lila said, "What about being saved?... If you can't change, there don't 
+|  seem much point in it..."
+|    "Mrs. Ames has made an excellent point," Boughton said, his voice 
+|  statesmanlike... "Yes, I worried a long time about how the mystery of 
+|  predestination could be reconciled with the mystery of salvation."
+|    "No conclusions?"
+|    "None that I can recall just now." He said, "It seems as though the 
+|  conclusions are never as interesting as the questions. I mean, they're not 
+|  what you remember." He closed his eyes.
+
+</i>
+\medskip
+
+This exchange lays bare the natures of Boughton, Ames and Jack, and the 
+irreconcilable differences between them.
+
+Boughton may be capable of a measure of charity and of hope, but he lacks 
+faith. He has filled the hole missing faith has left in his soul with certainty 
+of the rightness of his arguments -- and the price of relationship or 
+reconciliation with him is never to challenge that certainty in any meaningful 
+way. That is why he mail orders trunkfuls of books on theology but doesn't read 
+them (for years Jack hid money, bad report cards and teacher's notes in their 
+pages, knowing they'd never be found). That is why he revels in his decades-long 
+debate series with Ames, interpreting their lack of resolution as confirmation 
+of the unassailability of his positions. More likely Ames has taken his measure 
+and discreetly allows him to believe the debates go on, for the sake of their 
+friendship, when actually Ames has already dismissed him out of hand.
+
+Ames has neither faith nor charity. He is a pharisee. That is, he values the 
+Word and the Law over compassion for his charges. And what he most values about 
+the Law is that it validates his position as preacher, minister and head of the 
+church, which makes him the decider as to who is to be a member of the 
+congregation and who is to be cast out. And the price for his grace is never to 
+challenge or point out the irreconcilable contradictions in his beliefs and 
+actions, the cracks in the foundation of his religion that the Word and the Law 
+plaster over.
+
+And so Jack can't communicate with his father because he is unwilling to 
+profess a faith or salvation that he doesn't believe in.  But much more 
+passionately, he can't bear Ames' hypocrisy. He lays out to Ames that the Word 
+and the Law require that Ames must either accept predestination entirely (in 
+which case the preacher has no special place in God's plan), or he must accept 
+Jack back into the community with an open hand and a forgiving heart. To do 
+otherwise makes Ames a sinner. Damningly, Ames understands perfectly well the 
+thrust of Jack's argument, and continues to rebuff him anyway, doing what he has 
+always done with the senior Boughton: sweep irreconcilable conflicts under the 
+rug.
+
+After the above exchange, the Whys of the story are illuminated -- Jack's 
+independent viewpoint can at last be understood. As the brightest among his 
+siblings, Jack from an early age sensed his father's shortcomings and his 
+godfather's hypocrisy. Though perhaps he could not articulate his misgivings, 
+neither could he ignore them and join in family activities wholeheartedly as 
+the other, duller children did.
+
+At some point Jack realized consciously just what his father was and was not. 
+And like Biff in *Death of a Salesman*, the insight shattered his world in a 
+way that he could not recover from. Like Biff, he cleared out; and ate the 
+bitter bread of the exile, mixed with the dust of the road, in penance for sins 
+that were not his. And like Biff, after long painful years he allowed himself 
+to forget somewhat why he left, and thence hoped that perhaps there was a way 
+he could return.  What he found, however, was renewed clarity about what drove 
+him to depart, and acceptance of why he can never come home.
+
+But with illumination comes grace, and on the last page the reader discovers 
+that Jack is despite all in a state of grace; unlike his fathers, who 
+ultimately are revealed to be narcissists. Though lacking faith, Jack is a 
+penitant, mourning the world's sins and able to feel compassion and charity 
+toward those who truly suffer. And because he is in a state of grace his prayers 
+will be answered: after the passing of more long years has washed the 
+family's sins down the river, Jack's son will be welcomed into his house the 
+way he never could be.
+
+
+
+
+
+[^rabt]:  https://www.issendai.com/psychology/estrangement/index.html

@@ -1,6 +1,7 @@
 ---
 date: Wed Feb 15 12:00:00 GMT 2024
-revcount: 1
+revcount: 2
+fixdate: 1
 categories:
   - Epistles
   - "Book Club"
@@ -145,8 +146,8 @@ O-hisa exhibits an uncanny form of power.  Her role suggests the aesthetic
 concept of *wabi*, the flaw or contradiction in the work that indicates its 
 limitations and points the way out of abstraction into the frame of reality. 
 Although not free, she retains her humanity, her identity, her capacity for 
-discourse, and a modernist ability to make the old new. Like Kate in 
-*Shrew*, for the moment her horizons are unbounded despite the paradoxes of 
+discourse, and a modernist ability to make the old new. Like Kate at the end of 
+*Shrew*, her horizons are for the moment unbounded despite the paradoxes of 
 her situation -- suggesting a new age equivalent to *nirvana*.
 
 The threads of irony come together at the end of the novel in disturbing, 
