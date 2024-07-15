@@ -1,6 +1,6 @@
 ---
 date: Sat Mar 30 12:00:00 GMT 2024
-revcount: 1
+revcount: 2
 fixdate: 1
 categories:
   - Epistles
@@ -94,14 +94,14 @@ Ames, as he relates to Glory:
 \medskip
 <i>
 
-|    "Ah, little sister, these old fellows play rough. They look so harmless, 
-|  and the next thing you know, you're counting broken bones again."
-|    "What happened?"
-|    "He preached. The text was Hagar and Ishmael, the application was the 
-|  disgraceful abandonment of children by their fathers. And the illustration 
-|  was my humble self, sitting there beside his son with the eyes of Gilead 
-|  upon me. I think I was aghast. His intention, no doubt. To appall me, that 
-|  is, to turn me white, as I am sure he did."
+|      "Ah, little sister, these old fellows play rough. They look so harmless, 
+|    and the next thing you know, you're counting broken bones again."
+|      "What happened?"
+|      "He preached. The text was Hagar and Ishmael, the application was the 
+|    disgraceful abandonment of children by their fathers. And the illustration 
+|    was my humble self, sitting there beside his son with the eyes of Gilead 
+|    upon me. I think I was aghast. His intention, no doubt. To appall me, that 
+|    is, to turn me white, as I am sure he did."
 
 </i>
 \medskip
@@ -113,29 +113,29 @@ in a form that his father is predisposed to give ear to -- a theological debate:
 \medskip
 <i>
 
-|    “I've wondered from time to time if I might not be an instance of 
-|  predestination. A sort of proof. If I may not experience predestination in 
-|  my own person. That would be interesting, if the consequences were not so 
-|  painful. |For other people. If it did not seem as though I spread a 
-|  contagion of  s ome |kind. Of misfortune. Is that possible?"
-|    Ames said, "No. That isn't possible. Not at all..."
-|    Jack said, "I'm sorry. I don't mean to be disrespectful. My question is, 
-|  are there people who are simply born evil, live evil lives, and then go to 
-|  hell?"
-|    Ames took off his glasses and rubbed his eyes. "Scripture is not really 
-|  clear on that point. Generally, a person's behavior is consistent with his 
-|  nature..."
-|    Boughton chuckled. "Do I detect a little circularity in your reasoning, 
-|  Reverend Eisenhower?..."
-|    Lila said, "What about being saved?... If you can't change, there don't 
-|  seem much point in it..."
-|    "Mrs. Ames has made an excellent point," Boughton said, his voice 
-|  statesmanlike... "Yes, I worried a long time about how the mystery of 
-|  predestination could be reconciled with the mystery of salvation."
-|    "No conclusions?"
-|    "None that I can recall just now." He said, "It seems as though the 
-|  conclusions are never as interesting as the questions. I mean, they're not 
-|  what you remember." He closed his eyes.
+|      “I've wondered from time to time if I might not be an instance of 
+|    predestination. A sort of proof. If I may not experience predestination in 
+|    my own person. That would be interesting, if the consequences were not so 
+|    painful. |For other people. If it did not seem as though I spread a 
+|    contagion of  s ome |kind. Of misfortune. Is that possible?"
+|      Ames said, "No. That isn't possible. Not at all..."
+|      Jack said, "I'm sorry. I don't mean to be disrespectful. My question is, 
+|    are there people who are simply born evil, live evil lives, and then go to 
+|    hell?"
+|      Ames took off his glasses and rubbed his eyes. "Scripture is not really 
+|    clear on that point. Generally, a person's behavior is consistent with his 
+|    nature..."
+|      Boughton chuckled. "Do I detect a little circularity in your reasoning, 
+|    Reverend Eisenhower?..."
+|      Lila said, "What about being saved?... If you can't change, there don't 
+|    seem much point in it..."
+|      "Mrs. Ames has made an excellent point," Boughton said, his voice 
+|    statesmanlike... "Yes, I worried a long time about how the mystery of 
+|    predestination could be reconciled with the mystery of salvation."
+|      "No conclusions?"
+|      "None that I can recall just now." He said, "It seems as though the 
+|    conclusions are never as interesting as the questions. I mean, they're not 
+|    what you remember." He closed his eyes.
 
 </i>
 \medskip
