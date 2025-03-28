@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/books/epistles/chapters/frankenstein.html",
+      "/books/epistles/chapters/turnofthescrew.html",
       "/books/epistles/chapters/democracy.html",
       "/books/epistles/chapters/home.html",
       "/books/epistles/chapters/someprefernettles.html",
@@ -26,6 +28,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/books/epistles/chapters/frankenstein.html",
+      "/books/epistles/chapters/turnofthescrew.html",
       "/books/epistles/chapters/democracy.html",
       "/books/epistles/chapters/home.html",
       "/books/epistles/chapters/someprefernettles.html",
