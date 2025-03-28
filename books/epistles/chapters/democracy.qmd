@@ -1,4 +1,7 @@
 ---
+date: Thu Jul 15 12:00:00 GMT 2024
+revcount: 2
+fixdate: 1
 categories:
   - Epistles
   - "Book Club"

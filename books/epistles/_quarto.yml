@@ -25,6 +25,8 @@ book:
         - chapters/someprefernettles.qmd
         - chapters/home.qmd
         - chapters/democracy.qmd
+        - chapters/turnofthescrew.qmd
+        - chapters/frankenstein.qmd
     - part: "Ephemera:"
       chapters:
         - chapters/1_what_news.qmd
