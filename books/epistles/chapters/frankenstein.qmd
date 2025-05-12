@@ -1,6 +1,6 @@
 ---
 date: Fri Mar 28 12:00:00 GMT 2025
-revcount: 1
+revcount: 2
 fixdate: 1
 categories:
   - Epistles
@@ -912,8 +912,9 @@ a capital crime, his response goes beyond offense or shame for his city: "his
 horror and indignation were uncontrollable." His horror is triggered by the 
 possibility that his society is not as worthy, righteous and blessed by the 
 supreme being as he was raised to believe, and so he resolves to go to great 
-lengths to right this injustice; just as Victor was horrified by the enigma 
-of death and resolved to prove his worthiness by conquering it.
+lengths to right this injustice: to lift the Turk from the abyss of a dungeon 
+and escape the death penalty; just as Victor undertook to prove his worthiness 
+by lifting the monster from the abyss of death.
 
 But his well-meaning scheme to spring the Turk from prison sets off a chain of 
 events that leads to disaster, exile and poverty for himself and his family. 
@@ -948,21 +949,32 @@ family the expense and trauma of a hasty self-eviction.
 But this is the tragedy. Again, analogy with Victor suggests that Felix must 
 have been motivated not by the future danger that the monster might pose (as he 
 claimed), but by the vast disappointment (again) of his hopes and fantasies. 
-After his downfall in fortune his elite psychology demanded that he internally 
-reconstruct the myth structure of his specialness and blessed condition, and he 
-seized on imaginings of the special favor of a  "good spirit" as a building 
-block. When he was confronted with the reality that his benefactor was a 
-shambling ogre of earth and clay, it was another betrayal of his coping 
-mechanisms; he was filled with abhorrence and had an unstoppable compulsion to 
-flee, just as Victor did on the night of the monster's awakening. The tragedy 
-was not just in the events and the tricks of timing, it was in the inevitability 
-of the outcome.
+After his downfall in fortune, his elite psychology demanded that he internally 
+reconstruct the myth structure of his specialness and blessed condition[^bles], 
+and he seized on imaginings of the special favor of a  "good spirit" as a 
+building block. When he was confronted with the reality that his benefactor was 
+not a blessed being at all, but a shambling ogre of earth and clay, it was 
+another betrayal of his coping mechanisms; he was filled with abhorrence and 
+had an unstoppable compulsion to flee, just as Victor did on the night of the 
+monster's awakening. The outcome of the narrative was not simply down to bad 
+luck and timing, the horror of it is its inevitability.
 
-And so it is that the teller of this story is wise, insightful and melancholy, 
-Aesopian. It is both the monster, supposedly living the experience, and a 
-fiction maker, a narrative emanation of the monster that transcends the 
-hierarchy and communes with the author herself; just as the novel is both a 
-hierarchy of narratives and a transcendent Story.
+What the monster did here was the most hateful and also the most compassionate 
+thing he could do: he told a Story -- tailored to Victor’s circumstances and 
+state of mind --  and in the telling delivered a judgment that both condemned 
+Victor and forgave him, but obliquely, transmitted through a fractal mirror, so 
+that Victor was free to dismiss it or let it pass through him, his state of 
+mind unaltered, his ego unscathed. Victor’s tragedy is that a real listening 
+would have redeemed him, if he had had the wit, the character, the honesty and 
+the necessary kernel of love to see and accept himself in the harshest of all 
+possible light and the darkest of all possible shadow, which come with the bolt 
+of self-recognition.
+
+And so it is that the teller of this story is wise, ironic, caustic and 
+melancholy, Aesopian. The teller is both the monster, supposedly living and 
+relating the experience, and a fiction maker, a narrative emanation of the 
+monster that transcends the hierarchy and communes with the author herself; just 
+as the novel is both a hierarchy of narratives and a transcendent Story.
 
 
 ## Mary Shelley's Story
@@ -980,7 +992,8 @@ and write.
 She had had a notable writing career, but soon after her passing her family 
 commenced suppressing her work and covering up her biography for the sake of 
 Victorian propriety. Thus for over a century her reputation suffered a fate 
-similar to her father's.
+similar to her father's: reputational death, deliberate erasure from the 
+cultural record.
 
 But the fame and notoriety of *Frankenstein* continued strong, its themes 
 remained so shocking and scandalous it was impossible to repress; although the 
@@ -1002,11 +1015,11 @@ allowed himself to imagine.
 The novel shows a range of life-giving activities. But in the face of the 
 shocking animation of the monster, the others mostly fade out of the reader's 
 attention. Several times, almost to the point of triteness, people are brought 
-back from certain death by focused, sedulous care and attention. Mostly, this 
-care is given by people without medical training, even in one case done 
-impersonally without emotional attachment. Attentively reading one account of 
-these healings after the other, the impression is built up that it is the 
-attention by itself that is the most effective factor. 
+back from the brink of death by focused, sedulous care and attention. Mostly,
+this care is given by people without medical training, even in one case done 
+impersonally without emotional attachment. Reading one account of these healings
+after the other, the impression is built up that it is the attention by itself
+that is the most effective factor. 
 
 The monster might once have hoped for love, but his ultimate, irreducible 
 demand was for acknowledgement.
@@ -1014,12 +1027,12 @@ demand was for acknowledgement.
 The novel was published in two major editions, the first in 1818, and an 
 extensive revision in 1831. I have confined my analysis to the former, because 
 in my opinion the version of a work that was most influential, most notorious, 
-is the authoritative one, despite the artist's opinions or intentions.
+is the authoritative one -- regardless of the artist's opinions or intentions.
 
 But there is one brief passage in the latter edition that stands out for its 
 poetry and earnestness, that reads like an Easter egg, a *cri de coeur*, a 
-feeble transmission direct from the author inserted near the end in a final 
-attempt to be understood...
+feeble, attenuated transmission direct from the author inserted near the end in
+a final attempt to be understood...
 
 It comes in the third volume, as Victor is traveling with his father back to 
 Geneva from Scotland after the murder of his friend Clerval, tortured by guilt 
@@ -1053,9 +1066,9 @@ In the face of the universe's terrifying winds of meaninglessness, we can be
 each other's shield, succor and support. In an existence with no supreme being, 
 we can resolve to turn all our attention to us, to make a gift of life, and be 
 angels to one another. Fiction, Story, depiction of something that doesn't 
-exist, if shared can be a seed around which a real crystalline future can grow, 
-and produce a vision of a self-animating celestial mechanism in which everyone 
-sees and is seen.
+exist, if shared can be a seed of imagination around which a real crystalline
+future can grow, and produce a vision of a self-animating celestial mechanism in
+which everyone sees and is seen.
 
 The reverse of the terror brought by the monster is an irony, and a challenge. 
 If, as the existence of the monster suggests, the very worst is true -- that 
@@ -1063,16 +1076,23 @@ the universe is really nothing more than a random, haphazard collection of
 quarks and photons bouncing off each other, then there is absolutely nothing 
 keeping us from seeing each other for exactly what we are. We are temporary 
 whirlwinds of particles, dust devils, but we are also mortal children of the 
-universe, heirs to all of its potential. There can be no hierarchies in a 
-particle storm; and in the vortex of existence there is only one productive 
+universe, heirs to all of its potential. There can be no lasting hierarchies in
+a particle storm; and in the vortex of existence there is only one productive 
 thing that particles can do, and that is to cling to each other. That's life.
 
+
+% ----------------------------------------------------------------------- %
 
 [^ideal]:  "Ideal" not in the sense of "optimal," but belonging only to the 
 world of ideas, theoretical.
 
 [^chance]:  Caroline and Elizabeth are flip sides of the same coin; at the 
-lowest level of elite status, powerless and dependent, with no family relations 
-or voice of their own. This is why Caroline clung so to Elizabeth, even to 
-sacrificing her own life to give the girl a chance at survival, and why they 
-shared a moment of existence in Victor's dream.
+lowest level of elite status, powerless and dependent, with no fortunes, family 
+relations or voice of their own. This is why Caroline clung so to Elizabeth, 
+even to the sacrifice her own life to give the girl a chance at survival, and 
+why they shared a moment of existence in Victor's dream.
+
+[^bles]: Just as Victor dealt with the revelation he received of the universe 
+as cold and uncaring (due to the obliteration of his father's tree) by 
+abandoning the gnostics and turning to science to rebuild the sense of himself 
+that had been shattered.
