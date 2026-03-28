@@ -1,6 +1,6 @@
 ---
 date: Fri Mar 28 12:00:00 GMT 2025
-revcount: 5
+revcount: 6
 fixdate: 1
 categories:
   - Epistles
@@ -19,8 +19,8 @@ written. Yet it remains drastically misunderstood. In the original era of its
 being this was due largely to neglect of its actual text in favor of the stage 
 adaptations and bowdlerized retellings which swamped the novel itself in 
 popular imagination in the wake of its sudden fame and notoriety. In our own 
-time it is the intense scholarly scrutiny the work has come under that makes it 
-possible to make endless accurate observations without any urgency about coming 
+time it is the intense scholarly scrutiny the work has come under that has 
+engendered endless accurate observations without any urgency about coming 
 to the actual point.
 
 <style>.figure-caption {text-align:center}</style>
@@ -46,14 +46,14 @@ of benediction that only full and merciless clarity can deliver.
 
 The first thing likely to have aroused the attention of a reader of the 
 original publication is that it was dedicated to William Godwin (Mary Shelley's 
-father, although the reader would not have known that since the novel was 
-published anonymously).  Godwin was a notorious public figure of the previous 
-generation, that of Europeans who came of age during the French Revolution and 
-the Napoleonic wars that followed. He was a well-known philosopher and 
-novelist, mild-mannered but with a possibly autistic capacity for extreme 
-concentration, which led him to follow the consequences of his ideas to the 
-limit heedless of personal cost. Namely, he asserted that reason was the only 
-acceptable basis for personal and political decision-making.
+father, although the reader would not have realized that connection since the 
+novel was published anonymously).  Godwin was a notorious public figure of the 
+previous generation, that of Europeans who came of age during the French 
+Revolution and the Napoleonic wars that followed. He was a well-known 
+philosopher and novelist, mild-mannered but with a possibly autistic capacity 
+for extreme concentration, which led him to follow the consequences of his 
+ideas to the limit heedless of personal cost. Namely, he asserted that reason 
+was the only acceptable basis for personal and political decision-making.
 
 Raised in an extended family dominated by clergymen, he quickly deduced that 
 God does not exist and thus cut himself off from his expected career. He 
@@ -91,8 +91,8 @@ dramatize his ideas and bring them to larger audiences), with the added
 effrontery to God of a revived corpse -- seemingly a natural extension of 
 Godwin's heretic influence on the young.
 
-But an open-minded reader familiar with Godwin's writing might have noticed an 
-ironic dimension to the *Frankenstein* author's tribute. *Frankenstein* was 
+But an open-minded reader familiar with Godwin's writing might have noticed a 
+critical dimension to the *Frankenstein* author's tribute. *Frankenstein* was 
 strongly influenced by Godwin's biggest-selling novel -- called *Things 
 As They Are*, it is about a man falsely accused of murder by his wealthy 
 employer who is the actual culprit. The authorities will not believe the man's 
@@ -152,11 +152,11 @@ for the good of all. And the operation and maintenance of his ego sometimes did
 damage to the people he shared his life with.
 
 Godwin was an avid book collector. He was said to have one of the best private 
-libraries in England. He was an innovator in the performance of active 
-comparative research to inform his writing, and put his collection to that use 
-as well as for the education of his children. One of his favorite topics to 
-collect was works of gnostic and esoteric philosophy and religion, of just the 
-kind that captured teenage Victor Frankenstein's fascination. 
+libraries in England. He was an innovator in the practice of active comparative 
+research to inform his writing, and put his collection to that use as well as 
+for the education of his children. One of his favorite topics for collection 
+was works of gnostic and esoteric philosophy and religion, of just the kind 
+that captured teenage Victor Frankenstein's fascination. 
 
 But Godwin did not share Victor's motivation for this interest. He acquired 
 works on the topic to use them as fodder for ridicule in his own work. 'Look at 
@@ -174,12 +174,12 @@ that ironically drove him to turn on gnosticism, to denigrate and deprecate it
 in favor of his own philosophy.
 
 For the motivation at the heart of the work of the gnostics was to salve and 
-prop up ego, ultimately to forge and wield ego as a shield against 
-existential terror inflamed by humanity's stranding in an infinite and 
-unfathomable universe. Mary's depiction of gnostic writings as Frankenstein's 
-motivator could hardly be anything but a subtle lampooning of Godwin, a 
-perceptive casting of his abreaction to them as the rage of Caliban seeing his 
-own face in a glass, as it were.
+prop up ego, ultimately to forge and wield ego as a shield against existential 
+terror inflamed by humanity's stranding in an infinite and unfathomable 
+universe. Mary's depiction of gnostic writings as Frankenstein's motivator 
+could hardly be anything but a subtle lampooning of Godwin, a perceptive 
+casting of his rejection of them as the rage of Caliban seeing his own face in 
+a glass, as it were.
 
 Godwin had let himself be taken over by the kind of ego which gnostic 
 philosophy was designed to build and bolster. To the world he taught that 
@@ -215,7 +215,7 @@ disoriented and lost. The original intended reader was free to ignore the lamp
 of interrogation and indictment (as is the modern one). But if the novel has 
 accrued any benefit from the passage of time and the occlusion of its original 
 purpose, it is in the static charge gathering from the friction of that turning 
-away. Perhaps in the modern day the terror of impending of explosive discharge 
+away. Perhaps in the modern day the terror of impending explosive discharge 
 will overwhelm the fears the pathological ego was designed to guard against. 
 But not yet.
 
@@ -223,8 +223,8 @@ But not yet.
 ## Frankenstein's State of Mind
 
 Victor Frankenstein is an ironic character in the classical sense. That is, he 
-is a fool who is unaware of the true dynamics of events around him, and is 
-unaware of how his own statements reveal his folly. Nothing he says can be 
+is a fool who is unaware of the true dynamics of events around him, and does 
+not understand how his own statements reveal his folly. Nothing he says can be 
 taken at face value. His statements must be evaluated in the context of the 
 entire text, and with the milieu in which it was written borne in mind.
 
@@ -387,16 +387,17 @@ terror out of consciousness.
 
 But no amount of scholarly reassurance could exorcise Victor's terror 
 completely. He became disenchanted with his gnostic authors when he witnessed a 
-tree destroyed by a bolt of lightning. But it is not the case, as is usually 
-explained by commentators, that he at this point left gnostic thinking behind 
-and was converted to the intellectual discipline of science.
+tree destroyed by a bolt of lightning. But it is not the case (as is usually 
+explained by commentators) that, given an impressive demonstration of the power 
+of electricity, he at this point left gnostic thinking behind and was converted 
+to the intellectual discipline of science.
 
 Rather, the scene of the tree's destruction was a tableau of his worst fears. 
 It was an old and beautiful oak, strong, serene, an ancient and majestic 
 feature of the landscape of his father's estate -- emblematic of the stability 
 of his family line and his place in the world, and thus of the approbation of 
-the supreme being. But a bolt of electricity blew it out of existence in 
-literally the blink of an eye.
+the supreme being. But a random blast of mindless electromagnetic energy blew 
+it out of existence in literally the blink of an eye.
 
 Victor's eventual choice of science over his gnostic scholars came not because 
 they had no explanation for what lightning is and were thus delegitimized, but 
@@ -429,8 +430,8 @@ hierarchy of powers to run it, from stars to planets and so on to men, for the
 purpose of receiving worship and to bolster his false belief in his own 
 transcendent worth.
 
-When the monster awoke, Victor expected its mind to be uncorrupted and to 
-receive from it some form of acknowledgement or *Ave* from the supreme being, 
+When the monster awoke, Victor expected his mind to be uncorrupted and to 
+receive from him some form of acknowledgement or *Ave* from the supreme being, 
 and to hear its truths spoken.[^jayne] When the monster turned out to be mute, 
 apparently idiotic, and obviously a shambling assembly of corrupt and hideous 
 parts rather than a sublime whole, Victor was confronted face-to-face at last 
@@ -438,10 +439,10 @@ with his worst misgiving, that instead of proving his theories he had disproven
 them: that he had no special status, that the universe was as mindless as the 
 monster, existence a product of blind impersonal forces, meaningless.
 
-This is why Victor ran immediately from the animated monster, despite it being 
-a great scientific breakthrough, the brilliant culmination of over a year of 
-labor. And it's why he went to sleep and dreamed as he did. His vision of his 
-beautiful cousin Elizabeth morphs into horror:
+This is why Victor ran immediately from the animated monster, despite him
+representing a great scientific breakthrough, the brilliant culmination of over 
+a year of labor. And it's why Victor went to sleep and dreamed as he did. His 
+vision of his beautiful cousin Elizabeth morphs into horror:
 
 \medskip
 <i>
@@ -458,21 +459,22 @@ Why and in what form is his mother here? Does he have an Oedipal complex? No,
 the mother of his vision is not the one who raised him, the aged mother who died 
 of scarlet fever. Fine society ladies were not buried in flannel shrouds. 
 Flannel was the cheapest material available: in nineteenth-century England, 
-"buried in a flannel shroud" was a euphemism for "died a pauper." The mother he 
+'buried in a flannel shroud' was a euphemism for 'died a pauper.' The mother he 
 dreamed was the one from the portrait in his house, hung over the mantel so he 
 saw it every day growing up, showing her fallen from the heights of Geneva 
-society to "an agony of despair." Victor's father put up the portrait as a 
-constant reminder to his wife of her place, but it haunted Victor and planted 
-the seed of fear that perhaps God doesn't care or doesn't exist.[^chance]
+society to "an agony of despair," destined for an early grave. Victor's father 
+put up the portrait as a constant reminder to his wife of her place, but it 
+haunted Victor and planted the seed of fear that perhaps God doesn't care or 
+doesn't exist.[^chance]
 
 The ego injury Victor suffered as a result of not getting the validation he 
 expected drives his behavior through the rest of the novel. He expresses 
-denial, rage, depression, obsession with revenge, even unto death. He had a 
-choice; by the time he'd been informed of the death of his brother William, 
-he'd seen examples of redeeming, life-giving care -- "unbounded and unremitting 
-attentions" -- his mother's toward Elizabeth and Justine, Henry's toward him. 
-Even his father seemed moved and softened, for even in the face of his youngest 
-son's murder, he counseled Victor: 
+denial, disproportionate rage, depression, obsession with revenge, even unto 
+death. He had a choice; by the time he'd been informed of the death of his 
+brother William, he'd seen examples of redeeming, life-giving care -- 
+"unbounded and unremitting attentions" -- his mother's toward Elizabeth and 
+Justine, Henry's toward him. Even his father seemed moved and softened, for 
+even in the face of his youngest son's murder, he counseled Victor: 
 
 \medskip
 <i>
@@ -533,7 +535,7 @@ of the old theories; not conquest, not plunder, agriculture, city-building,
 economic competition or sex, but play-acting for the sake of the egos of the 
 elites.[^gats] The early land-owners of the Mid-Atlantic colonies were simply 
 more up-front and conscious of what they were doing than most, and did it from 
-scratch in the full light of history. But the masque of the elites must go on,
+scratch in the full light of history. The masque of the elites must go on,
 even if force and terror are required to keep the extras on their marks.
 
 The monster is also a fool, but not an ironic fool like Victor. He is fortune's 
@@ -546,8 +548,8 @@ stress disorder in Vietnam veterans, wrote the book *Achilles in Vietnam* after
 he experienced two realizations. The first was that the danger, terror, grief, 
 injury and pain of combat were only contributory factors to extreme PTSD; in his 
 clinical experience, the only soldiers who developed debilitating cases were 
-those who also experienced a sense of betrayal or contempt by their own 
-commanding officers and the military in general.
+those who also experienced a sense of betrayal or contempt by their commanding 
+officers and the military in general.
 
 The second realization was that Achilles and other soldiers in the *Iliad* 
 appeared to be suffering at different points in the poem from PTSD, Achilles in 
@@ -776,9 +778,8 @@ monster plays three distinguishable thematic roles within this framework. This
 may be considered a flaw in the work, but the interaction of these roles also 
 lays a path to a redemptive resolution.
 
-The monster's first role is that of a stand-in for 
-the miserable class, the untouchables, the grist for the grindstone of 
-civilization.
+The monster's first role is that of a stand-in for the miserable class, the 
+untouchables, the grist for the grindstone of civilization.
 
 The second is as a harbinger of the scientific and technological future, of a 
 universe composed of all rules and no soul, where life and death are merely 
@@ -797,9 +798,9 @@ before he re-encounters the monster:
 </i>
 \medskip
 
-That is to say, contrary to the pretensions of the elite, there may be no 
+That is to say, contrary to the pretensions of the elite, it may be that no 
 difference between substance and shadow, everything is ephemeral, including 
-one's own consciousness and identity, there is no demiurge constructing or 
+one's own consciousness and identity, and no demiurge is constructing or 
 guarding existential boundaries.
 
 The third part played by the monster is that of something of a spirit guide for 
@@ -838,12 +839,12 @@ are unsurprised by their depiction as such, and generally unaware that it
 was ever even a topic for debate. But so it was in Shelley's time. And Walton's 
 vision reflected a leading scientific theory at the time; it was by no means 
 out of the ordinary to suggest that the poles were temperate, or even tropical, 
-in climate. This was due, supposedly, to the continual sunlight, or even 
-perhaps to a second sun burning in the underground firmament of a hollow 
-Earth. 
+in climate. This was due, supposedly, to the continual sunlight, or volcanic 
+activity, or even perhaps to a second sun burning in the underground firmament 
+of a hollow Earth. 
 
 What was not generally understood at the time (any more than it is now) was the 
-origin of these ideas which seem so outlandish now. They were remnants of 
+origin of these ideas which today seem so outlandish. They were remnants of 
 medieval gnostic philosophy. In the gnostic legendarium, the North Pole was a 
 mystical portal to a sacred city of light on the first level of the heavens; 
 the city from which the original population of superior and enlightened 
@@ -877,12 +878,12 @@ reveals Frankenstein's ultimate motivation before he even appears in the text.
 Walton initiates Letter II by describing his loneliness and isolation to his 
 sister, and his desire for the simple interactions of friendship. He lays out 
 the mix of ambition, urge for glory, and insecurity that drive him. This is a 
-reflection of and a call to the men in her life, who shared these traits. The 
-monstrous nature of their outsize personalities and genius made it difficult 
-for them to form ordinary intimate relationships, especially with other men. 
-Here again, Mary does not confront but offers an oblique diagnosis and 
-prescription for soothing and healing, like resurrected Hero standing veiled 
-but ready to be recognized by her Claudio.
+reflection of and a call to the men in Mary's life, who shared these traits. 
+The monstrous nature of their outsize personalities and genius made it 
+difficult for them to form ordinary intimate relationships, especially with 
+other men. Here again, Mary does not confront but offers an oblique diagnosis 
+and prescription for soothing and healing, like resurrected Hero standing 
+veiled but ready to be recognized by her Claudio.
 
 In the same letter Walton makes a strained segue to a seemingly incongruous 
 anecdote about his ship's master. But this anecdote is a skeleton key to the 
@@ -920,7 +921,7 @@ The monster's testimony as explanation for his education makes no sense
 whatsoever, as many scholars and commentators have pointed out. Wallowing in 
 muck, it is instead an imaginitive depiction of a Freudian anal stage of 
 psychological development and the monster's emergence from it. It is an 
-intestinal passage beyond the bounds of narrative and into the realm of story. 
+intestinal passage beyond the bounds of narrative and into the realm of Story. 
 The tale of the De Laceys is a felicitous recapitulation of the themes of the 
 narrative that encapsulates it, with less of the fantastic science-fictional 
 element. The fact that the names of the main characters are Felix ("happy"), 
@@ -956,7 +957,7 @@ greatest times of need.
 The monster is moved by the family's plight and their response, and resolves to 
 help lighten their labors. He stealthily does chores such as gathering firewood 
 and shoveling snow. The family marvel at the "good spirit" who seems to be 
-invisibly aiding them.
+invisibly aiding them.[^spirit]
 
 Once the monster has mastered speech and guesses that he has given the family 
 enough reason to trust him, he tries to introduce himself and so end his 
@@ -1001,7 +1002,7 @@ harshest of all possible light and the darkest of all possible shadow, which
 come with the bolt of self-recognition.
 
 And so it is that the teller of this story is wise, ironic, caustic and 
-melancholy, Aesopian. The teller is both the monster, supposedly living and 
+melancholy; Aesopian. The teller is both the monster, supposedly living and 
 relating the experience, and a fiction maker, a narrative emanation of the 
 monster that transcends the hierarchy and communes with the author herself; just 
 as the novel is both a hierarchy of narratives and a transcendent Story.
@@ -1041,24 +1042,27 @@ resurrection and giving of life can prove more complex, convoluted and dilatory
 than at first seem reasonable or even possible, more so than Victor could have 
 allowed himself to imagine.
 
-*Frankenstein* is a ground-breaking philosophical and scientific treatise on 
-the nature of civilization and the dynamic of human strengths and weaknesses 
-that produce its endless cycles of misery and chaos. Shelley wrote it as a 
-counterpoint and a reproof to her father and husband, and as a benediction to 
-everyone of her time who was trying to answer the questions raised by the 
-French Revolution.
+*Frankenstein* the novel also serves as a ground-breaking philosophical and 
+scientific treatise on the nature of civilization and the dynamic of human 
+strengths and weaknesses that produce its endless cycles of misery and chaos. 
+In the writing of it Shelley showed almost unimaginable levels of intellect, 
+insight and compassion. It is a counterpoint and a reproof to her father and 
+husband, and a benediction to everyone of her time who was trying to answer the 
+questions raised by the French Revolution.
 
-Her diagnosis was that ego and its deficiencies deployed as a shield against
-terror is the crux of humanity's tragedy. But the consequence of this insight 
-was that she could not confront her contemporaries with her prescription,
-because that would be a clash of ego with ego, and would only exacerbate the
-malady and push a cure further out of reach.
+Her diagnosis of society's ills was that ego with all its deficiencies deployed 
+as a shield against terror lies at the crux of humanity's tragedy. But the 
+ironic consequence of her vision was that she could not confront her colleagues 
+and contemporaries with this diagnosis or a healing prescription, because such 
+a confrontation would be perceived as a challenge, likely to devolve into yet 
+another clash of ego with ego, nullifying her effort and exacerbating the 
+malady, pushing a cure still further out of reach.
 
 So patience was necessary. Patience for the parallels in the text with the real 
 world to be realized, the correspondences ascending through a hierarchy 
 focusing on the reader like light through a lens, if not seen then sensed as a 
 burning heat by those whom she loved and who loved her. Did she realize that 
-her patience would have to extend beyond her lifetime? 
+her wait would have to extend beyond her lifetime? 
 
 She had the courage to try her patience in the face of the abyss of the 
 future, and kept her secrets. On the positive side, there are more people who 
@@ -1087,7 +1091,7 @@ or intentions.
 But there is one brief passage in the latter edition that stands out for its 
 poetry and earnestness, that reads like an Easter egg, a *cri de coeur*, a 
 feeble, attenuated transmission direct from the author inserted near the end in
-a final attempt to disgorge her secret...
+a final attempt to provide a key to her intentions...
 
 It comes in the third volume, as Victor is traveling with his father back to 
 Geneva from Scotland after the murder of his friend Clerval, tortured by guilt 
@@ -1111,37 +1115,36 @@ Victor's initial claimed motivation for rejection of the monster was precisely
 and explicitly revulsion at his appearance.
 
 But in this brief moment of clarity, ugliness is redeemed, even made a badge of 
-honor, an emblem of shared humanity.
+honor, an emblem of shared humanity, the basis of "an angelic nature."
+
+Mary Shelley was a great fan of Dante, and I presume that her imagining of a 
+celestial mechanism was inspired by that poet's vision of the Empyrean in *Il 
+Paradiso*: angels assembled as an ever-active and all-ministering network of 
+caregivers -- attending, witnessing, distributing the fruits of grace.
 
 And so is revealed, in admirable brevity, an alternative to the corrupt and 
 degenerate abortion of civilization as we have been burdened with it for 
-millennia: 
+millennia.
 
-If, as the existence of the monster suggests, the very worst is true -- that 
-the universe is really nothing more than a random, haphazard collection of 
-quarks and photons bouncing off each other, then there is absolutely nothing 
-keeping us from seeing each other for exactly what we are. If indeed we are only 
-temporary whirlwinds of particles, dust devils, then ego has no place. And if 
-we are thus only the bereft children of a mute universe, then it follows that 
-we and no one else are the heirs to all of its potential, the treasure of the 
-future.
+To wit: even if we are alone, even if there is no hierarchy of worth and honor 
+topped by a supreme being; even if, as the existence of the monster suggests, 
+the very worst is true -- that the universe is really nothing more than a 
+random, haphazard collection of quarks and photons bouncing off each other -- 
+then there is absolutely nothing keeping us from seeing each other for exactly 
+what we are: temporary whirlwinds of particles, dust devils. But given that 
+ground state of awful truth, it is also the case that there is nothing barring 
+the universe from expressing its infinite potential for novelty, and within 
+that potential we exist as living beings. Within that potential we have the 
+freedom and power to choose to be angels to one another, to organize into a 
+self-embracing armillary network of unlimited attention, a matrix where ego is 
+unnecessary because we can all bask in the light of each other's regard, our 
+ugliness and frailty engraved on our faces as sigils bespeaking our need for 
+each other and our belonging.
 
-And within this universe we can choose to erect ego as a barrier between us, 
-and each strive alone to achieve immortality by forging the future in a big 
-bang which produces terror when its x-rays reveal all lies.
-
-Or we can apply extreme patience in construcing the future, molding it over the 
-course of lifetimes and generations, giving one another life in order to carry 
-on the work, until the striving of ego for special status is unnecessary 
-because our identities will be inscribed indelibly on the very structure of 
-existence, a mechanism refracting a light within which everyone sees and is 
-seen.
-
-The word "angel" means "messenger", and it appears that a message, a Story of 
-the worst case, is being endowed with ever-expanding influence by those who 
-persist in passing it on. And if it continues to attract listeners, some 
-critical mass may finally understand together that giving support and succor to 
-one another will eventually mean animating the corpse of the universe.
+Such a network would have the power to give life as surely as Victor did (but 
+without the terror), and bequeath it to the future; after all, the future is as 
+dead as any corpse until the spark of being is infused into it by the proper 
+engineering of the mechanism of the present.
 
 There can be no lasting hierarchies in a particle storm; and in the vortex of 
 existence there is only one productive thing that particles can do, and that is 
@@ -1168,11 +1171,12 @@ his belief -- that his privileges are deserved."
 [^ideal]:  "Ideal" not in the modern sense of "optimal," but belonging only to 
 the world of ideas, theoretical.
 
-[^jayne]:  Julian Jaynes described in detail the rituals for animating statues 
-and preserved remains of the dead, and causing them to speak with the voices of 
-the gods ("agalmatomancy"), enacted by ancient Mesopotamians and Egyptians 
-(among others) in his book *The Origin of Consciousness in the Breakdown of the 
-Bicameral Mind*. Those civilizations were the wellsprings of gnostic philosophy.
+[^jayne]:  Gnostic rituals for animating statues and the dead ("agalmatomancy"), 
+and making them speak, are deeply embedded in cultures around the world. Julian 
+Jaynes described many of them in detail in his book *The Origin of 
+Consciousness in the Breakdown of the Bicameral Mind*, mostly from ancient 
+Mesopotamia and Egypt -- the wellsprings of formal gnostic philosophy as far as 
+can be discerned.
 
 [^chance]:  Caroline and Elizabeth are flip sides of the same coin; at the 
 lowest level of elite status, powerless and dependent, with no fortune, family 
@@ -1203,6 +1207,10 @@ elite mythology provided, and when the elites violated the peasants' sense of
 "what's right" by showing that their top priority was staying on top even if it 
 meant breaking the religious and legal rules of that myth structure, the result 
 was indignant rage and revolt.
+
+[^spirit]:  Just as Victor's father was described as a "protecting spirit" when 
+he appeared at Caroline's hovel to save her and restore the 'just' social 
+hierarchy.
 
 [^bles]: Just as Victor dealt with the revelation he received of the universe 
 as cold and uncaring (due to the obliteration of his father's tree) by 
