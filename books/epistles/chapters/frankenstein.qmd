@@ -1,6 +1,6 @@
 ---
 date: Fri Mar 28 12:00:00 GMT 2025
-revcount: 6
+revcount: 7
 fixdate: 1
 categories:
   - Epistles
@@ -456,16 +456,29 @@ vision of his beautiful cousin Elizabeth morphs into horror:
 \medskip
 
 Why and in what form is his mother here? Does he have an Oedipal complex? No, 
-the mother of his vision is not the one who raised him, the aged mother who died 
-of scarlet fever. Fine society ladies were not buried in flannel shrouds. 
-Flannel was the cheapest material available: in nineteenth-century England, 
-'buried in a flannel shroud' was a euphemism for 'died a pauper.' The mother he 
-dreamed was the one from the portrait in his house, hung over the mantel so he 
-saw it every day growing up, showing her fallen from the heights of Geneva 
-society to "an agony of despair," destined for an early grave. Victor's father 
-put up the portrait as a constant reminder to his wife of her place, but it 
-haunted Victor and planted the seed of fear that perhaps God doesn't care or 
-doesn't exist.[^chance]
+the mother of his vision is not the one who raised him, the aged loving mother 
+who died of scarlet fever surrounded by family. Fine society ladies were not 
+buried in flannel shrouds. Flannel was the cheapest material available: in 
+nineteenth-century England,'buried in a flannel shroud' was a euphemism for 
+'died a pauper.' The mother he dreamed was the one from the portrait in his 
+house, hung over the mantel so he saw it every day growing up, showing her 
+fallen from the heights of Geneva society to "an agony of despair," deserted 
+and destined for an early grave. Victor's father put up the portrait as a 
+constant reminder to his wife of her place, but it haunted Victor and planted 
+the seed of fear that perhaps God doesn't care or doesn't exist.[^chance]
+
+This is a key instance where many original readers likely had the privilege of 
+understanding this scene for what it is. At the time of publication, the 
+prospect of falling into poverty and being consigned to the horrors of the 
+workhouse was a widespread gnawing anxiety in lower and middle-class Britain. 
+Not only because of bad living conditions; dying in a workhouse also meant 
+quick, cheap burial in an unmarked grave, erased from history with no honors 
+and no legacy.
+
+Modern scholarly discussion of this scene more or less always treats it as 
+important, but interpretations more suited to the modern day are always imposed 
+on it. It seems impossible now for readers to perceive what it was meant to 
+embody, Victor's terror of dissolution of his identity.
 
 The ego injury Victor suffered as a result of not getting the validation he 
 expected drives his behavior through the rest of the novel. He expresses 
@@ -1136,10 +1149,10 @@ ground state of awful truth, it is also the case that there is nothing barring
 the universe from expressing its infinite potential for novelty, and within 
 that potential we exist as living beings. Within that potential we have the 
 freedom and power to choose to be angels to one another, to organize into a 
-self-embracing armillary network of unlimited attention, a matrix where ego is 
-unnecessary because we can all bask in the light of each other's regard, our 
-ugliness and frailty engraved on our faces as sigils bespeaking our need for 
-each other and our belonging.
+self-embracing armillary network of unlimited attention, a matrix where the 
+striving of ego for recognition is unnecessary because we can all bask in the 
+light of each other's regard, our ugliness and frailty engraved on our faces as 
+sigils bespeaking both our need for each other and our belonging.
 
 Such a network would have the power to give life as surely as Victor did (but 
 without the terror), and bequeath it to the future; after all, the future is as 
